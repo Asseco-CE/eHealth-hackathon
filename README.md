@@ -1,2 +1,5 @@
 # eHealth-hackathon
-Sources for Asseco eHealth Hackathon 2016
+
+## Repository for Asseco eHealth Hackathon 2016
+
+
