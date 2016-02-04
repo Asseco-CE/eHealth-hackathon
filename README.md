@@ -4,7 +4,9 @@
 
 ## Sociálne siete a komunikácia
 [Program a organizácia akcie](http://connect-network.com/sk/event/ehealth/)
+
 [Facebook event](https://www.facebook.com/events/1696227853925788/)
+
 [Gitter chat room](https://gitter.im/lukaszdechovan/ehealth-hackathon-2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 ## Repozitár pre účel eHealth Hackathonu 12.-13.2.2016
