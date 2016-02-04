@@ -1,0 +1,54 @@
+{
+    "TypyVzoriek": {
+        "TypVzorky": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "Citrát"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "Krv na sérum"
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "Nazov": [
+                    "Moč ranný"
+                ]
+            },
+            {
+                "id": [
+                    "4"
+                ],
+                "Nazov": [
+                    "Plazma"
+                ]
+            },
+            {
+                "id": [
+                    "5"
+                ],
+                "Nazov": [
+                    "Pot"
+                ]
+            },
+            {
+                "id": [
+                    "6"
+                ],
+                "Nazov": [
+                    "Výtery /z nosa, hrdla, tonsíl, krčok maternice/"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<SumarZdravProbAktualne>
+    <SumarZdravProbAktualny id="1">
+        <Diagnoza id="Diagnoza" elementName="Kod">7</Diagnoza>
+        <DiagnozaPopis id="Diagnoza">7</DiagnozaPopis>
+        <DiagnozaUpresnenie>Puknutá kosť</DiagnozaUpresnenie>
+        <CasVzniku>2012-07-09T07:22:00</CasVzniku>
+        <Poznamka>pracuje v živočíšnej výrobe</Poznamka>
+        <Biohazard>False</Biohazard>
+        <Stornovany>False</Stornovany>
+        <Zneplatneny>False</Zneplatneny>
+    </SumarZdravProbAktualny>
+
+    <SumarZdravProbAktualny id="2">
+        <Diagnoza id="Diagnoza" elementName="Kod">7</Diagnoza>
+        <DiagnozaPopis id="Diagnoza">7</DiagnozaPopis>
+        <DiagnozaUpresnenie>Puknutá kosť</DiagnozaUpresnenie>
+        <CasVzniku>2012-07-09T07:22:00</CasVzniku>
+        <Poznamka>pracuje v živočíšnej výrobe</Poznamka>
+        <Biohazard>True</Biohazard>
+        <Stornovany>False</Stornovany>
+        <Zneplatneny>False</Zneplatneny>
+    </SumarZdravProbAktualny>
+</SumarZdravProbAktualne>
+

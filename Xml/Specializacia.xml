@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Specializacie>
+    <Specializacia id="1">
+        <Nazov>zdravotník</Nazov>
+    </Specializacia>
+
+    <Specializacia id="2">
+        <Nazov>audiometria</Nazov>
+    </Specializacia>
+
+    <Specializacia id="3">
+        <Nazov>Vnútorné lekárstvo</Nazov>
+    </Specializacia>
+
+    <Specializacia id="4">
+        <Nazov>Všeobecný lekár pre dospelých</Nazov>
+    </Specializacia>
+
+  <Specializacia id="5">
+    <Nazov>laboratórna medicína</Nazov>
+  </Specializacia>
+
+  <Specializacia id="6">
+    <Nazov>chirurgia</Nazov>
+  </Specializacia>
+
+  <Specializacia id="7">
+    <Nazov>urológia</Nazov>
+  </Specializacia>
+
+  <Specializacia id="8">
+    <Nazov>gastroenterológia</Nazov>
+  </Specializacia>
+
+  <Specializacia id="9">
+    <Nazov>klinická onkológia</Nazov>
+  </Specializacia>
+
+  <Specializacia id="10">
+    <Nazov>klinická imunológia a alergológia</Nazov>
+  </Specializacia>
+
+  <Specializacia id="11">
+    <Nazov>úrazová chirurgia</Nazov>
+  </Specializacia>
+
+  <Specializacia id="12">
+    <Nazov>fyziatria, balneológia a liečebná rehabilitácia</Nazov>
+  </Specializacia>
+
+  <Specializacia id="13">
+    <Nazov>všeobecná starostlivosť o deti a dorast</Nazov>
+  </Specializacia>
+ 
+
+</Specializacie>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<DruhyZdravotnejStarostlivosti>
+    <DruhZdravotnejStarostlivosti id="1">
+        <Nazov>oddelenie</Nazov>
+    </DruhZdravotnejStarostlivosti>
+
+  <DruhZdravotnejStarostlivosti id="2">
+    <Nazov>ambulantná</Nazov>
+  </DruhZdravotnejStarostlivosti>
+</DruhyZdravotnejStarostlivosti>

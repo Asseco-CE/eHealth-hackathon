@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<TypyAkciiCm>
+    <TypAkcieCm id="1">
+        <Nazov>Overenie existencie aktuálneho splnomocnenia</Nazov>
+    </TypAkcieCm>
+
+    <TypAkcieCm id="2">
+        <Nazov>Podaný súhlas</Nazov>
+    </TypAkcieCm>
+
+    <TypAkcieCm id="3">
+        <Nazov>Prístup k stránke EZK</Nazov>
+    </TypAkcieCm>
+
+    <TypAkcieCm id="4">
+        <Nazov>Prístup k stránke EZK pre zápis</Nazov>
+    </TypAkcieCm>
+
+    <TypAkcieCm id="5">
+        <Nazov>Storno žiadosti o uzamknutie/odomknutie EZKO</Nazov>
+    </TypAkcieCm>
+    
+    <TypAkcieCm id="6">
+        <Nazov>Úprava splnomocnenia</Nazov>
+    </TypAkcieCm>
+
+    <TypAkcieCm id="7">
+        <Nazov>Vytvorenie žiadosti o uzamknutie/odomknutie EZKO</Nazov>
+    </TypAkcieCm>
+
+    <TypAkcieCm id="8">
+        <Nazov>Zmena stavu žiadosti o uzamknutie/odomknutie EZKO</Nazov>
+    </TypAkcieCm>
+
+    <TypAkcieCm id="9">
+        <Nazov>Zmena stavu žiadosti o uzamknutie/odomknutie EZKO</Nazov>
+    </TypAkcieCm>
+
+    <TypAkcieCm id="10">
+        <Nazov>Zrušenie splnomocnenia</Nazov>
+    </TypAkcieCm>
+
+    <TypAkcieCm id="11">
+        <Nazov>Zrušenie súhlasu</Nazov>
+    </TypAkcieCm>
+</TypyAkciiCm>

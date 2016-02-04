@@ -1,0 +1,94 @@
+{
+    "TypyHospitalizacie": {
+        "TypHospitalizacie": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "Neodkladná hospitalizácia"
+                ],
+                "Skratka": [
+                    "A"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "Centrálne nakupované lieky"
+                ],
+                "Skratka": [
+                    "B"
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "Nazov": [
+                    "Odkladná hospitalizácia, nie podľa čakacích listín"
+                ],
+                "Skratka": [
+                    "E"
+                ]
+            },
+            {
+                "id": [
+                    "4"
+                ],
+                "Nazov": [
+                    "Odkladná hospitalizácia, plánovaná podľa čakacej listiny"
+                ],
+                "Skratka": [
+                    "P"
+                ]
+            },
+            {
+                "id": [
+                    "5"
+                ],
+                "Nazov": [
+                    "Iný typ hospitalizácie"
+                ],
+                "Skratka": [
+                    "I"
+                ]
+            },
+            {
+                "id": [
+                    "6"
+                ],
+                "Nazov": [
+                    "Kúpeľná liečba"
+                ],
+                "Skratka": [
+                    "K"
+                ]
+            },
+            {
+                "id": [
+                    "7"
+                ],
+                "Nazov": [
+                    "Stacionár"
+                ],
+                "Skratka": [
+                    "S"
+                ]
+            },
+            {
+                "id": [
+                    "8"
+                ],
+                "Nazov": [
+                    "Vykázaná pripočítateľná položka"
+                ],
+                "Skratka": [
+                    "Z"
+                ]
+            }
+        ]
+    }
+}

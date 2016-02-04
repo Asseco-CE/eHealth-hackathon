@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Citlivosti>
+    <Citlivost id="1">
+        <Nazov>Nízka citlivosť údajov</Nazov>
+    </Citlivost>
+
+    <Citlivost id="2">
+        <Nazov>Menej citlivé údaje</Nazov>
+    </Citlivost>
+
+    <Citlivost id="3">
+        <Nazov>Štandardná citlivosť údajov</Nazov>
+    </Citlivost>
+
+    <Citlivost id="4">
+        <Nazov>Citlivé údaje</Nazov>
+    </Citlivost>
+
+    <Citlivost id="5">
+        <Nazov>Veľmi citlivé údaje</Nazov>
+    </Citlivost>
+</Citlivosti>

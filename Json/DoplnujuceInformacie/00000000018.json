@@ -1,0 +1,44 @@
+{
+    "DoplnujuceInformacie": {
+        "DoplnujucaInformacia": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Datum": [
+                    "2014-03-03T10:00:00"
+                ],
+                "Typ": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "TypDoplnujucejInformacie"
+                        ]
+                    }
+                ],
+                "Text": [
+                    "V noci so mal problémy s dýchaním. Zahlienené priedušky."
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Datum": [
+                    "2014-02-20T10:00:00"
+                ],
+                "Typ": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "TypDoplnujucejInformacie"
+                        ]
+                    }
+                ],
+                "Text": [
+                    "Dnes sa prejavili prvé príznaky alergie. Svrbenie očí a jemne červené. Začínam brať Xyzal."
+                ]
+            }
+        ]
+    }
+}

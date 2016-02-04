@@ -1,0 +1,46 @@
+{
+    "Citlivosti": {
+        "Citlivost": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "Nízka citlivosť údajov"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "Menej citlivé údaje"
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "Nazov": [
+                    "Štandardná citlivosť údajov"
+                ]
+            },
+            {
+                "id": [
+                    "4"
+                ],
+                "Nazov": [
+                    "Citlivé údaje"
+                ]
+            },
+            {
+                "id": [
+                    "5"
+                ],
+                "Nazov": [
+                    "Veľmi citlivé údaje"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Vztahy>
+    <Vztah id="1">
+        <Nazov>Brat</Nazov>
+    </Vztah>
+
+    <Vztah id="2">
+        <Nazov>Sestra</Nazov>
+    </Vztah>
+
+    <Vztah id="3">
+        <Nazov>Bratranec</Nazov>
+    </Vztah>
+
+  <Vztah id="4">
+    <Nazov>Syn</Nazov>
+  </Vztah>
+
+  <Vztah id="5">
+    <Nazov>Manžel, Manželka</Nazov>
+  </Vztah>
+
+  <Vztah id="6">
+    <Nazov>Otec</Nazov>
+  </Vztah>
+
+  <Vztah id="7">
+    <Nazov>Matka</Nazov>
+  </Vztah>
+</Vztahy>

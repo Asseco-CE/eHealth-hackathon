@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<TypyPristupuKStrankeCm>
+    <TypPristupuKStrankeCm id="1">
+        <Nazov>Doplňujúce informácie</Nazov>
+        <KodStranky>PHR</KodStranky>
+        <Popis>Poskytovanie doplňujúcich informácií, ktoré o zdravotnom stave zadal pacient.</Popis>
+    </TypPristupuKStrankeCm>
+
+    <TypPristupuKStrankeCm id="2">
+        <Nazov>Laboratórna žiadanka</Nazov>
+    </TypPristupuKStrankeCm>
+
+    <TypPristupuKStrankeCm id="3">
+        <Nazov>Laboratórne výsledky</Nazov>
+        <KodStranky>LAB</KodStranky>
+        <Popis>Poskytovanie výsledkov laboratórnych testov</Popis>
+    </TypPristupuKStrankeCm>
+
+    <TypPristupuKStrankeCm id="4">
+        <Nazov>Laboratórne výsledky pre žiadateľa</Nazov>
+    </TypPristupuKStrankeCm>
+
+    <TypPristupuKStrankeCm id="5">
+        <Nazov>Liečebné prostriedky na recept</Nazov>
+        <KodStranky>REC</KodStranky>
+        <Popis>Poskytovanie informácií o receptoch.</Popis>
+    </TypPristupuKStrankeCm>
+    
+    <TypPristupuKStrankeCm id="6">
+        <Nazov>Notifikácie</Nazov>
+    </TypPristupuKStrankeCm>
+
+    <TypPristupuKStrankeCm id="7">
+        <Nazov>Očkovací preukaz</Nazov>
+        <KodStranky>OPP</KodStranky>
+        <Popis>Poskytovanie informácií z očkovacieho preukazu, ktorý obsahuje vykonané, zrušené a plánované očkovania.</Popis>
+    </TypPristupuKStrankeCm>
+
+    <TypPristupuKStrankeCm id="8">
+        <Nazov>Osobné a administratívne údaje</Nazov>
+        <KodStranky>OAU</KodStranky>
+        <Popis>Poskytovanie osobných a administratívnych údajov ako sú trvalá adresa, informácie o poistení, kontaktné údaje a ICE osoby</Popis>
+    </TypPristupuKStrankeCm>
+
+    <TypPristupuKStrankeCm id="9">
+        <Nazov>Osobný účet poistenca</Nazov>
+        <KodStranky>OUP</KodStranky>
+        <Popis>Poskytovanie informácií z osobného účetu poistenca, ktoré sú prenášané zo zdravotnej poisťovne (vykázané výkony PZS, lieky a zdravotné pomôcky).</Popis>
+    </TypPristupuKStrankeCm>
+
+    <TypPristupuKStrankeCm id="10">
+        <Nazov>Pacientsky sumár</Nazov>
+        <KodStranky>PSU</KodStranky>
+        <Popis>Poskytovanie pacientskeho sumáru, ktorý obsahuje prehľadný základný pohľad na zdravtoný stav pacienta.</Popis>
+    </TypPristupuKStrankeCm>
+
+    <TypPristupuKStrankeCm id="11">
+        <Nazov>Preventívne prehliadky</Nazov>
+    </TypPristupuKStrankeCm>
+
+    <TypPristupuKStrankeCm id="12">
+        <Nazov>Užívané lieky, zdravotnícke pomôcky, dietetické potraviny a individuálne pripravované lieky</Nazov>
+        <KodStranky>LIEK</KodStranky>
+        <Popis>Poskytovanie informácií o užívaných liekov, zdravotníckych pomôckach, dietetických potravinách a individuálne pripravovaných liekoch</Popis>
+    </TypPristupuKStrankeCm>
+
+    <TypPristupuKStrankeCm id="13">
+        <Nazov>Užívané voľnopredajné lieky</Nazov>
+        <KodStranky>UVLIEK</KodStranky>
+        <Popis>Poskytovanie informácií o užívaných voľnopredajných liekoch, ktoré zadal pacient.</Popis>
+    </TypPristupuKStrankeCm>
+
+    <TypPristupuKStrankeCm id="14">
+        <Nazov>Vyšetrenia</Nazov>
+        <KodStranky>VVP</KodStranky>
+        <Popis>Poskytovanie informácií o lekárskych správach - nálezoch.</Popis>
+    </TypPristupuKStrankeCm>
+
+    <TypPristupuKStrankeCm id="15">
+        <Nazov>Vyšetrenia pre žiadateľa</Nazov>
+    </TypPristupuKStrankeCm>
+</TypyPristupuKStrankeCm>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Pacienti>
+    <Pacient id="00000000018">
+        <TitulPred id="Titul">1</TitulPred>
+        <KrstneMeno>Adam</KrstneMeno>
+        <Priezvisko>Ladinák</Priezvisko>
+        <TitulZa></TitulZa>
+        <DatumNarodenia>1969-03-01T10:00:00</DatumNarodenia>
+        <Vztah>Prístup</Vztah>
+        <DatumVzniku>2012-10-01T10:00:00</DatumVzniku>
+        <ImageLocation>AdamLadinakAvatarSmall.jpg</ImageLocation>
+        <DocasnyIdentifikator>376710007</DocasnyIdentifikator>
+        <Pohlavie>muž</Pohlavie>
+        <Adresa>Malacky</Adresa>
+    </Pacient>
+
+    <Pacient id="00000000026">
+        <TitulPred></TitulPred>
+        <KrstneMeno>Miroslav</KrstneMeno>
+        <Priezvisko>Ladinák</Priezvisko>
+        <TitulZa></TitulZa>
+        <DatumNarodenia>1994-08-13T10:00:00</DatumNarodenia>
+        <Vztah>Prístup</Vztah>
+        <DatumVzniku>2013-11-11T10:00:00</DatumVzniku>
+        <ImageLocation>MiroslavLadinakJuniorAvatarSmall.jpg</ImageLocation>
+        <DocasnyIdentifikator>456145129</DocasnyIdentifikator>
+        <Pohlavie>muž</Pohlavie>
+        <Adresa>Malacky</Adresa>
+    </Pacient>
+
+    <Pacient id="00000000059">
+        <TitulPred></TitulPred>
+        <KrstneMeno>Miroslav</KrstneMeno>
+        <Priezvisko>Ladinák</Priezvisko>
+        <TitulZa></TitulZa>
+        <DatumNarodenia>1938-02-22T10:00:00</DatumNarodenia>
+        <Vztah>Prístup</Vztah>
+        <DatumVzniku>2013-11-11T10:00:00</DatumVzniku>
+        <ImageLocation>MiroslavLadinakAvatarSmall.jpg</ImageLocation>
+        <DocasnyIdentifikator>139145129</DocasnyIdentifikator>
+        <Pohlavie>muž</Pohlavie>
+        <Adresa>Trenčianske Teplice</Adresa>
+    </Pacient>
+</Pacienti>
+

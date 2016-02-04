@@ -1,0 +1,1168 @@
+{
+    "Lekari": {
+        "Lekar": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "MUDr. Alena Tuchyňová"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Alena"
+                ],
+                "Priezvisko": [
+                    "Tuchyňová"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A31945020"
+                ],
+                "Adresa1": [
+                    "MUDr. Alena Tuchyňová, Všeobecný lekár pre dospelých"
+                ],
+                "Ulica": [
+                    "Ferdiša Kostku"
+                ],
+                "Cislo": [
+                    "1/A"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    "alena.tuchynova@yahoo.com"
+                ],
+                "Telefon": [
+                    "0902 224 523"
+                ],
+                "KodPoskytovatela": [
+                    "P61438130312"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "MUDr. Pavol Mihalov"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Pavol"
+                ],
+                "Priezvisko": [
+                    "Mihalov"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A31945020"
+                ],
+                "Adresa1": [
+                    "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých"
+                ],
+                "Ulica": [
+                    "Ferdiša Kostku"
+                ],
+                "Cislo": [
+                    "1/A"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    "pavol.mihalov@yahoo.com"
+                ],
+                "Telefon": [
+                    "0903 442 325"
+                ],
+                "KodPoskytovatela": [
+                    "P62437030304"
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "Nazov": [
+                    "MUDr. Jozef Jurovič"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Jozef"
+                ],
+                "Priezvisko": [
+                    "Jurovič"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "5",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A45411225"
+                ],
+                "Adresa1": [
+                    "MUDr. Jozef Jurovič, Laboratórium ALBA s.r.o."
+                ],
+                "Ulica": [
+                    "Štúrova 13"
+                ],
+                "Cislo": [
+                    "13"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    ""
+                ],
+                "Telefon": [
+                    "0906 455 983"
+                ],
+                "KodPoskytovatela": [
+                    "N40547031501"
+                ]
+            },
+            {
+                "id": [
+                    "4"
+                ],
+                "Nazov": [
+                    "MUDr. Ferdinand Šedivý"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Ferdinand"
+                ],
+                "Priezvisko": [
+                    "Šedivý"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A827773010"
+                ],
+                "Adresa1": [
+                    "MUDr. Ferdinand Šedivý, RL-PJ s.r.o."
+                ],
+                "Ulica": [
+                    "Ponická"
+                ],
+                "Cislo": [
+                    "23"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    ""
+                ],
+                "Telefon": [
+                    "0906 124 444"
+                ],
+                "KodPoskytovatela": [
+                    "P18276010101"
+                ]
+            },
+            {
+                "id": [
+                    "5"
+                ],
+                "Nazov": [
+                    "MUDr. Štefan Miko"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Štefan"
+                ],
+                "Priezvisko": [
+                    "Miko"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A54501020"
+                ],
+                "Adresa1": [
+                    "MUDr.Miko-Celet,s.r.o."
+                ],
+                "Ulica": [
+                    "Dlhá"
+                ],
+                "Cislo": [
+                    "46"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    ""
+                ],
+                "Telefon": [
+                    "0903 447 841"
+                ],
+                "KodPoskytovatela": [
+                    "P72439636821"
+                ]
+            },
+            {
+                "id": [
+                    "6"
+                ],
+                "Nazov": [
+                    "MUDr. Vendelín Žuchar"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Vendelín"
+                ],
+                "Priezvisko": [
+                    "Žuchar"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "7",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A75665012"
+                ],
+                "Adresa1": [
+                    "MUDr. Vendelín Žuchar, RL-PJ s.r.o."
+                ],
+                "Ulica": [
+                    "Ponická"
+                ],
+                "Cislo": [
+                    "23"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    ""
+                ],
+                "Telefon": [
+                    "0903 144 983"
+                ],
+                "KodPoskytovatela": [
+                    "P39882012101"
+                ]
+            },
+            {
+                "id": [
+                    "7"
+                ],
+                "Nazov": [
+                    "MUDr. Peter Záhorec"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Peter"
+                ],
+                "Priezvisko": [
+                    "Záhorec"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A787563048"
+                ],
+                "Adresa1": [
+                    "MUDr. Peter Záhorec, RL-PJ s.r.o."
+                ],
+                "Ulica": [
+                    "Ponická"
+                ],
+                "Cislo": [
+                    "23"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    ""
+                ],
+                "Telefon": [
+                    "0903 144 983"
+                ],
+                "KodPoskytovatela": [
+                    "P81016048101"
+                ]
+            },
+            {
+                "id": [
+                    "8"
+                ],
+                "Nazov": [
+                    "MUDr. Katarína Záhorcová"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Katarína"
+                ],
+                "Priezvisko": [
+                    "Záhorcová"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A787139048"
+                ],
+                "Adresa1": [
+                    "MUDr. Katarína Záhorcová, RL-PJ s.r.o."
+                ],
+                "Ulica": [
+                    "Ponická"
+                ],
+                "Cislo": [
+                    "23"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    ""
+                ],
+                "Telefon": [
+                    "0903 144 983"
+                ],
+                "KodPoskytovatela": [
+                    "P81016048101"
+                ]
+            },
+            {
+                "id": [
+                    "9"
+                ],
+                "Nazov": [
+                    "MUDr. Žofia Anderová"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Katarína"
+                ],
+                "Priezvisko": [
+                    "Záhorcová"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "9",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A327433019"
+                ],
+                "Adresa1": [
+                    "MUDr. Žofia Anderová, RL-PJ s.r.o."
+                ],
+                "Ulica": [
+                    "Ponická"
+                ],
+                "Cislo": [
+                    "23"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    ""
+                ],
+                "Telefon": [
+                    "0911 451 741"
+                ],
+                "KodPoskytovatela": [
+                    "P95411019102"
+                ]
+            },
+            {
+                "id": [
+                    "10"
+                ],
+                "Nazov": [
+                    "MUDr. Juraj Talár"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Juraj"
+                ],
+                "Priezvisko": [
+                    "Talár"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "10",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A97276040"
+                ],
+                "Adresa1": [
+                    "MUDr. Juraj Talár, RL-PJ s.r.o."
+                ],
+                "Ulica": [
+                    "Ponická"
+                ],
+                "Cislo": [
+                    "23"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    ""
+                ],
+                "Telefon": [
+                    "0911 478 114"
+                ],
+                "KodPoskytovatela": [
+                    "R81016040101"
+                ]
+            },
+            {
+                "id": [
+                    "11"
+                ],
+                "Nazov": [
+                    "MUDr. Alojz Tomáš"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Alojz"
+                ],
+                "Priezvisko": [
+                    "Tomáš"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "11",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A97276013"
+                ],
+                "Adresa1": [
+                    "MUDr. Alojz Tomáš, RL-PJ s.r.o."
+                ],
+                "Ulica": [
+                    "Ponická"
+                ],
+                "Cislo": [
+                    "23"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    ""
+                ],
+                "Telefon": [
+                    "0911 478 114"
+                ],
+                "KodPoskytovatela": [
+                    "R81016040101"
+                ]
+            },
+            {
+                "id": [
+                    "12"
+                ],
+                "Nazov": [
+                    "MUDr. Adela Chladná"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Adela"
+                ],
+                "Priezvisko": [
+                    "Chladná"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "12",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A98873027"
+                ],
+                "Adresa1": [
+                    "MUDr. Adela Chladná, RL-PJ s.r.o."
+                ],
+                "Ulica": [
+                    "Ponická"
+                ],
+                "Cislo": [
+                    "23"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    ""
+                ],
+                "Telefon": [
+                    "0911 478 114"
+                ],
+                "KodPoskytovatela": [
+                    "R81016040101"
+                ]
+            },
+            {
+                "id": [
+                    "13"
+                ],
+                "Nazov": [
+                    "MUDr. Peter Konôpka"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Peter"
+                ],
+                "Priezvisko": [
+                    "Konôpka"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "11",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A88623013"
+                ],
+                "Adresa1": [
+                    "MUDr. Peter Konôpka, NsP Malacky"
+                ],
+                "Ulica": [
+                    "Nemocničná"
+                ],
+                "Cislo": [
+                    "1"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    ""
+                ],
+                "Telefon": [
+                    ""
+                ],
+                "KodPoskytovatela": [
+                    "R91116010101"
+                ]
+            },
+            {
+                "id": [
+                    "14"
+                ],
+                "Nazov": [
+                    "MUDr. Iveta Janovcová"
+                ],
+                "Titul": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "Meno": [
+                    "Iveta"
+                ],
+                "Priezvisko": [
+                    "Janovcová"
+                ],
+                "Specializacia": [
+                    {
+                        "_": "13",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "KodLekara": [
+                    "A21566008"
+                ],
+                "Adresa1": [
+                    "PedDuo,s.r.o."
+                ],
+                "Ulica": [
+                    "Kollárova"
+                ],
+                "Cislo": [
+                    "45"
+                ],
+                "Mesto": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "Email": [
+                    ""
+                ],
+                "Telefon": [
+                    ""
+                ],
+                "KodPoskytovatela": [
+                    "P63537630417"
+                ]
+            }
+        ]
+    }
+}

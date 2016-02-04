@@ -1,0 +1,88 @@
+{
+    "VymenneListky": {
+        "VymennyListok": [
+            {
+                "id": [
+                    "1"
+                ],
+                "PlatnostDo": [
+                    "2013-11-23T23:59:59"
+                ],
+                "Id": [
+                    "00000002600"
+                ],
+                "DruhStarostlivosti": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "DruhZdravotnejStarostlivosti"
+                        ]
+                    }
+                ],
+                "PozadovanaSpecializacia": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "Urgenstnost": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "UrgentnostVysetrenia"
+                        ]
+                    }
+                ],
+                "Poziadavka": [
+                    "\r\n          Požadované vyšetrenie: Kontrola stavu ľavého lakťa a predlaktia\r\n        "
+                ],
+                "IdOdbornychVysetreni": [
+                    "4,5"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "PlatnostDo": [
+                    "2013-11-24T23:59:59"
+                ],
+                "Id": [
+                    "00000002602"
+                ],
+                "DruhStarostlivosti": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "DruhZdravotnejStarostlivosti"
+                        ]
+                    }
+                ],
+                "PozadovanaSpecializacia": [
+                    {
+                        "_": "12",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "Urgenstnost": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "UrgentnostVysetrenia"
+                        ]
+                    }
+                ],
+                "Poziadavka": [
+                    "\r\n      Požadované vyšetrenie: Rehabilitácia\r\n    "
+                ],
+                "IdOdbornychVysetreni": [
+                    "2,3"
+                ]
+            }
+        ]
+    }
+}

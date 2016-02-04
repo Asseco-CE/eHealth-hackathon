@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ZoznamSuhlasovCm>
+    <SuhlasCm id="1">
+        <SubjektJeDoktor>true</SubjektJeDoktor>
+        <ZaciatokPlatnosti>2014-03-01T11:59:00</ZaciatokPlatnosti>
+        <KoniecPlatnosti>2015-03-01T11:59:00</KoniecPlatnosti>
+        <SubjektId>1</SubjektId>
+        <Citlivost>5</Citlivost>
+        <PodpisanaDohoda>true</PodpisanaDohoda>
+        <ZrusenySuhlas>false</ZrusenySuhlas>
+        
+        <Stranky>
+            <Stranka>1</Stranka>
+            <Stranka>3</Stranka>
+        </Stranky>
+    </SuhlasCm>
+
+    <SuhlasCm id="2">
+        <SubjektJeDoktor>false</SubjektJeDoktor>
+        <ZaciatokPlatnosti>2012-03-01T11:59:00</ZaciatokPlatnosti>
+        <KoniecPlatnosti>2013-03-01T11:59:00</KoniecPlatnosti>
+        <SubjektId>00000000018</SubjektId>
+        <Citlivost>3</Citlivost>
+        <PodpisanaDohoda>false</PodpisanaDohoda>
+        <ZrusenySuhlas>false</ZrusenySuhlas>
+
+        <Stranky>
+            <Stranka>1</Stranka>
+            <Stranka>3</Stranka>
+            <Stranka>5</Stranka>
+        </Stranky>
+    </SuhlasCm>
+</ZoznamSuhlasovCm>
+

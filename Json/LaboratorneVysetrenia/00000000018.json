@@ -1,0 +1,342 @@
+{
+    "LaboratorneVysetrenia": {
+        "LaboratorneVysetrenie": [
+            {
+                "id": [
+                    "1"
+                ],
+                "DatumOdberu": [
+                    "2013-09-13T07:03:15"
+                ],
+                "NazovLaboratoria": [
+                    "Laboratórium ALBA s.r.o."
+                ],
+                "TypVzorky": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypVzorky"
+                        ]
+                    }
+                ],
+                "LaboratornaPolozka": [
+                    "1,2,3"
+                ],
+                "OdosielajuciLekarId": [
+                    "1"
+                ],
+                "OdosielajuciLekar": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "NazovVysetrenia": [
+                    "Parametre krvného obrazu"
+                ],
+                "StavVysledku": [
+                    "Ukončený"
+                ],
+                "Stornovany": [
+                    "false"
+                ],
+                "StornovanieDatumCas": [
+                    ""
+                ],
+                "StornovanieZPr": [
+                    ""
+                ],
+                "KodDiagnozy": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "NazovDiagnozy": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Nazov"
+                        ]
+                    }
+                ],
+                "Vyska": [
+                    "180 cm"
+                ],
+                "Faza": [
+                    "neznáma"
+                ],
+                "Hmotnost": [
+                    "90 kg"
+                ],
+                "TyzdenGravidity": [
+                    "0"
+                ],
+                "OdosielajuciLekarMeno": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Nazov"
+                        ]
+                    }
+                ],
+                "OdosielajuciLekarOdbornost": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "OdosielajuciLekarKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "KodLekara"
+                        ]
+                    }
+                ],
+                "OdosielajuciLekarAdresa": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OdosielajuciLekarEmail": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Email"
+                        ]
+                    }
+                ],
+                "OdosielajuciLekarTelefon": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Telefon"
+                        ]
+                    }
+                ],
+                "AdresaLaboratoria": [
+                    "Štúrova 13, 901 01 Malacky"
+                ],
+                "VzorkaPoradoveCislo": [
+                    "2E00000001090"
+                ],
+                "Diureza": [
+                    "1 h 58,6 mL"
+                ],
+                "VysetrenieDatumKompletizacie": [
+                    "2013-09-14T16:24:48"
+                ],
+                "ZaverecnaSprava": [
+                    "Nízke hodnoty erytrocytov, hemoglobínu a hematokritu."
+                ],
+                "SchvalilLekar": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VysledkyLaboratornychTestov": [
+                    "1,2,3,4,5,6,7"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "DatumOdberu": [
+                    "2011-11-26T10:00:00"
+                ],
+                "NazovLaboratoria": [
+                    "Laboratórium ALBA s.r.o."
+                ],
+                "TypVzorky": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypVzorky"
+                        ]
+                    }
+                ],
+                "LaboratornaPolozka": [
+                    "4,5,72"
+                ],
+                "OdosielajuciLekarId": [
+                    "1"
+                ],
+                "OdosielajuciLekar": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "NazovVysetrenia": [
+                    "Parametre krvného obrazu"
+                ],
+                "StavVysledku": [
+                    "Ukončený"
+                ],
+                "Stornovany": [
+                    "false"
+                ],
+                "KodDiagnozy": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "NazovDiagnozy": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Nazov"
+                        ]
+                    }
+                ],
+                "Vyska": [
+                    "180 cm"
+                ],
+                "Faza": [
+                    "neznáma"
+                ],
+                "Hmotnost": [
+                    "90 kg"
+                ],
+                "TyzdenGravidity": [
+                    "0"
+                ],
+                "OdosielajuciLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Nazov"
+                        ]
+                    }
+                ],
+                "OdosielajuciLekarOdbornost": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "OdosielajuciLekarKod": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "KodLekara"
+                        ]
+                    }
+                ],
+                "OdosielajuciLekarAdresa": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OdosielajuciLekarEmail": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Email"
+                        ]
+                    }
+                ],
+                "OdosielajuciLekarTelefon": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Telefon"
+                        ]
+                    }
+                ],
+                "AdresaLaboratoria": [
+                    "Štúrova 13, 901 01 Malacky"
+                ],
+                "VzorkaPoradoveCislo": [
+                    "2E00000001010"
+                ],
+                "Diureza": [
+                    "1 h 58,6 mL"
+                ],
+                "VysetrenieDatumKompletizacie": [
+                    "2011-11-27T12:27:54"
+                ],
+                "ZaverecnaSprava": [
+                    "Znížené hodnoty erytrocytov a hemoglobínu, zvýšená hodnota trombocytov."
+                ],
+                "SchvalilLekar": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VysledkyLaboratornychTestov": [
+                    "8,9,10,11,12,13,14,15"
+                ]
+            }
+        ]
+    }
+}

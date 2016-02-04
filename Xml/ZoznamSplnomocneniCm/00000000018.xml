@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ZoznamSplnomocneniCm>
+    <SplnomocnenieCm id="1">
+        <ZaciatokPlatnosti>2014-03-01T11:59:00</ZaciatokPlatnosti>
+        <KoniecPlatnosti>2015-04-01T11:59:00</KoniecPlatnosti>
+        <Titul id="Titul">1</Titul>
+        <KrstneMeno id="Patients" elementName="KrstneMeno">00000000018</KrstneMeno>
+        <Priezvisko id="Patients" elementName="Priezvisko">00000000018</Priezvisko>
+        <Identifikator id="Patients" elementName="DocasnyIdentifikator">00000000018</Identifikator>
+        <Ulica id="IdentifikacneUdaje" elementName="Ulica">00000000018</Ulica>
+        <Cislo id="IdentifikacneUdaje" elementName="Cislo">00000000018</Cislo>
+        <Obec id="Obec">8</Obec>
+        <Okres id="Okres">3</Okres>
+        <Psc id="Psc">7</Psc>
+    </SplnomocnenieCm>
+
+    <SplnomocnenieCm id="2">
+        <ZaciatokPlatnosti>2014-03-11T12:59:00</ZaciatokPlatnosti>
+        <KoniecPlatnosti>2015-04-11T10:59:00</KoniecPlatnosti>
+        <Titul id="Titul"></Titul>
+        <KrstneMeno id="Patients" elementName="KrstneMeno">00000000026</KrstneMeno>
+        <Priezvisko id="Patients" elementName="Priezvisko">00000000026</Priezvisko>
+        <Identifikator id="Patients" elementName="DocasnyIdentifikator">00000000026</Identifikator>
+        <Ulica id="IdentifikacneUdaje" elementName="Ulica">00000000026</Ulica>
+        <Cislo id="IdentifikacneUdaje" elementName="Cislo">00000000026</Cislo>
+        <Obec id="Obec">8</Obec>
+        <Okres id="Okres">3</Okres>
+        <Psc id="Psc">7</Psc>
+    </SplnomocnenieCm>
+</ZoznamSplnomocneniCm>
+

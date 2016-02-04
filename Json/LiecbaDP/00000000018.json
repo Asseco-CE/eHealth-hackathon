@@ -1,0 +1,646 @@
+{
+    "LiecbaDPs": {
+        "LiecbaDP": [
+            {
+                "id": [
+                    "1"
+                ],
+                "DiagnozaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DiagnozaNazov": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "DatumOd": [
+                    "2014-02-24T10:00:00"
+                ],
+                "DatumDo": [
+                    "2014-08-24T10:00:00"
+                ],
+                "DPNazov": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ]
+                    }
+                ],
+                "DPDoplnokNazvu": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "DoplnokNazvu"
+                        ]
+                    }
+                ],
+                "DPKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DPDoplatokPoistenca": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "DoplatokPoistenca"
+                        ]
+                    }
+                ],
+                "DPUhradaZP": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "UhradaZP"
+                        ]
+                    }
+                ],
+                "DPForma": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Forma"
+                        ]
+                    }
+                ],
+                "DPBezlepkova": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Bezlepkova"
+                        ]
+                    }
+                ],
+                "Davkovanie": [
+                    "3x1"
+                ],
+                "Pocet": [
+                    "1"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "StornovalZdravPracovnik": [
+                    ""
+                ],
+                "PovodMedikacnehoZaznamu": [
+                    "Na základe lekárskeho predpisu"
+                ],
+                "OrdinujuciLekar": [
+                    "2"
+                ],
+                "OdporucajuciLekar": [
+                    "1"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "DiagnozaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DiagnozaNazov": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "DatumOd": [
+                    "2014-02-24T10:00:00"
+                ],
+                "DatumDo": [
+                    "2014-08-24T10:00:00"
+                ],
+                "DPNazov": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ]
+                    }
+                ],
+                "DPDoplnokNazvu": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "DoplnokNazvu"
+                        ]
+                    }
+                ],
+                "DPKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DPDoplatokPoistenca": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "DoplatokPoistenca"
+                        ]
+                    }
+                ],
+                "DPUhradaZP": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "UhradaZP"
+                        ]
+                    }
+                ],
+                "DPForma": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Forma"
+                        ]
+                    }
+                ],
+                "DPBezlepkova": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Bezlepkova"
+                        ]
+                    }
+                ],
+                "Davkovanie": [
+                    ""
+                ],
+                "Pocet": [
+                    "1"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "StornovalZdravPracovnik": [
+                    ""
+                ],
+                "PovodMedikacnehoZaznamu": [
+                    "Na základe lekárskeho predpisu"
+                ],
+                "OrdinujuciLekar": [
+                    "2"
+                ],
+                "OdporucajuciLekar": [
+                    "1"
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "DiagnozaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DiagnozaNazov": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "DatumOd": [
+                    "2014-02-24T10:00:00"
+                ],
+                "DatumDo": [
+                    "2014-08-24T10:00:00"
+                ],
+                "DPNazov": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "DietetickaPotravina"
+                        ]
+                    }
+                ],
+                "DPDoplnokNazvu": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "DoplnokNazvu"
+                        ]
+                    }
+                ],
+                "DPKod": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DPDoplatokPoistenca": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "DoplatokPoistenca"
+                        ]
+                    }
+                ],
+                "DPUhradaZP": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "UhradaZP"
+                        ]
+                    }
+                ],
+                "DPForma": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Forma"
+                        ]
+                    }
+                ],
+                "DPBezlepkova": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Bezlepkova"
+                        ]
+                    }
+                ],
+                "Davkovanie": [
+                    ""
+                ],
+                "Pocet": [
+                    "1"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "StornovalZdravPracovnik": [
+                    ""
+                ],
+                "PovodMedikacnehoZaznamu": [
+                    "Na základe lekárskeho predpisu"
+                ],
+                "OrdinujuciLekar": [
+                    "2"
+                ],
+                "OdporucajuciLekar": [
+                    "1"
+                ]
+            },
+            {
+                "id": [
+                    "4"
+                ],
+                "DiagnozaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DiagnozaNazov": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "DatumOd": [
+                    "2014-02-24T10:00:00"
+                ],
+                "DatumDo": [
+                    "2014-08-24T10:00:00"
+                ],
+                "DPNazov": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "DietetickaPotravina"
+                        ]
+                    }
+                ],
+                "DPDoplnokNazvu": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "DoplnokNazvu"
+                        ]
+                    }
+                ],
+                "DPKod": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DPDoplatokPoistenca": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "DoplatokPoistenca"
+                        ]
+                    }
+                ],
+                "DPUhradaZP": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "UhradaZP"
+                        ]
+                    }
+                ],
+                "DPForma": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Forma"
+                        ]
+                    }
+                ],
+                "DPBezlepkova": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Bezlepkova"
+                        ]
+                    }
+                ],
+                "Davkovanie": [
+                    ""
+                ],
+                "Pocet": [
+                    "1"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "StornovalZdravPracovnik": [
+                    ""
+                ],
+                "PovodMedikacnehoZaznamu": [
+                    "Na základe lekárskeho predpisu"
+                ],
+                "OrdinujuciLekar": [
+                    "2"
+                ],
+                "OdporucajuciLekar": [
+                    "1"
+                ]
+            },
+            {
+                "id": [
+                    "5"
+                ],
+                "DiagnozaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DiagnozaNazov": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "DatumOd": [
+                    "2014-02-24T10:00:00"
+                ],
+                "DatumDo": [
+                    "2014-08-24T10:00:00"
+                ],
+                "DPNazov": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "DietetickaPotravina"
+                        ]
+                    }
+                ],
+                "DPDoplnokNazvu": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "DoplnokNazvu"
+                        ]
+                    }
+                ],
+                "DPKod": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DPDoplatokPoistenca": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "DoplatokPoistenca"
+                        ]
+                    }
+                ],
+                "DPUhradaZP": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "UhradaZP"
+                        ]
+                    }
+                ],
+                "DPForma": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Forma"
+                        ]
+                    }
+                ],
+                "DPBezlepkova": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "DietetickaPotravina"
+                        ],
+                        "elementName": [
+                            "Bezlepkova"
+                        ]
+                    }
+                ],
+                "Davkovanie": [
+                    ""
+                ],
+                "Pocet": [
+                    "1"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "StornovalZdravPracovnik": [
+                    ""
+                ],
+                "PovodMedikacnehoZaznamu": [
+                    "Na základe lekárskeho predpisu"
+                ],
+                "OrdinujuciLekar": [
+                    "2"
+                ],
+                "OdporucajuciLekar": [
+                    "1"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<VymenneListky>
+    <VymennyListok id="1">
+        <PlatnostDo>2013-11-23T23:59:59</PlatnostDo>
+        <Id>00000002600</Id>
+        <DruhStarostlivosti id="DruhZdravotnejStarostlivosti">2</DruhStarostlivosti>
+        <PozadovanaSpecializacia id="Specializacia">6</PozadovanaSpecializacia>
+        <Urgenstnost id="UrgentnostVysetrenia">3</Urgenstnost>
+        <Poziadavka>
+          Požadované vyšetrenie: Kontrola stavu ľavého lakťa a predlaktia
+        </Poziadavka>
+        <IdOdbornychVysetreni>4,5</IdOdbornychVysetreni>
+    </VymennyListok>
+
+  <VymennyListok id="2">
+    <PlatnostDo>2013-11-24T23:59:59</PlatnostDo>
+    <Id>00000002602</Id>
+    <DruhStarostlivosti id="DruhZdravotnejStarostlivosti">2</DruhStarostlivosti>
+    <PozadovanaSpecializacia id="Specializacia">12</PozadovanaSpecializacia>
+    <Urgenstnost id="UrgentnostVysetrenia">3</Urgenstnost>
+    <Poziadavka>
+      Požadované vyšetrenie: Rehabilitácia
+    </Poziadavka>
+    <IdOdbornychVysetreni>2,3</IdOdbornychVysetreni>
+  </VymennyListok>
+<!--
+Vzorovy
+  <VymennyListok id="1">
+    <PlatnostDo>2014-02-01T10:00:00</PlatnostDo>
+    <Id>00000002600</Id>
+    <DruhStarostlivosti id="DruhZdravotnejStarostlivosti">1</DruhStarostlivosti>
+    <PozadovanaSpecializacia id="Specializacia">2</PozadovanaSpecializacia>
+    <Urgenstnost id="UrgentnostVysetrenia">3</Urgenstnost>
+    <Poziadavka>
+      Informácia pre pacienta: Odoslaný na ortopedické vyšetrenie pre miernu bolesť v krížovej oblasti.
+      Požadované vyšetrenie: Ortopedické vyšetrenie.
+    </Poziadavka>
+    <IdOdbornychVysetreni>4</IdOdbornychVysetreni>
+  </VymennyListok>
+  -->
+  
+</VymenneListky>

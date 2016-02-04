@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<SumarVarovaniaNeziaduceReakcie>
+    <SumarVarovaniaNeziaducaReakcia id="1">
+        <TypReakcie id="TypNeziaducejReakcie">1</TypReakcie>
+        <PrejavReakcie id="PrejavNeziaducejReakcie">1</PrejavReakcie>
+        <DatumSpozorovania>2012-04-01T00:00:00</DatumSpozorovania>
+        <Alergen>Liečivo: TráviacI trakt a metabolizmus</Alergen>
+        <Poznamka>Poznámka k nežiadúcej reakcii</Poznamka>
+        <Stornovany>False</Stornovany>
+        <Zneplatneny>False</Zneplatneny>
+    </SumarVarovaniaNeziaducaReakcia>
+
+    <SumarVarovaniaNeziaducaReakcia id="2">
+        <TypReakcie id="TypNeziaducejReakcie">1</TypReakcie>
+        <PrejavReakcie id="PrejavNeziaducejReakcie">1</PrejavReakcie>
+        <DatumSpozorovania>2012-04-01T00:00:00</DatumSpozorovania>
+        <Alergen>Liečivo: TráviacI trakt a metabolizmus</Alergen>
+        <Poznamka>Poznámka k nežiadúcej reakcii</Poznamka>
+        <Stornovany>True</Stornovany>
+        <Zneplatneny>False</Zneplatneny>
+    </SumarVarovaniaNeziaducaReakcia>
+</SumarVarovaniaNeziaduceReakcie>
+

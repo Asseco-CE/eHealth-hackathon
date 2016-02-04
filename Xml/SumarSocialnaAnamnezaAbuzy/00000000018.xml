@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<SumarSocialnaAnamnezaAbuzys>
+    <SumarSocialnaAnamnezaAbuzy id="1">
+        <Typ>FAJČENIE A VYSTAVENIE TABAKOVÉMU DYMU</Typ>
+        <Pocet>3 ks</Pocet>
+        <DatumOd>1987-01-16T00:00:00</DatumOd>
+        <DatumDo>2100-01-01T00:00:00</DatumDo>
+        <Poznamka>od 18 rokov</Poznamka>
+        <Stornovany>False</Stornovany>
+        <Zneplatneny>False</Zneplatneny>
+    </SumarSocialnaAnamnezaAbuzy>
+
+    <SumarSocialnaAnamnezaAbuzy id="2">
+        <Typ>FAJČENIE A VYSTAVENIE TABAKOVÉMU DYMU</Typ>
+        <Pocet>3 ks</Pocet>
+        <DatumOd>1987-01-16T00:00:00</DatumOd>
+        <DatumDo>2100-01-01T00:00:00</DatumDo>
+        <Poznamka>od 18 rokov</Poznamka>
+        <Stornovany>False</Stornovany>
+        <Zneplatneny>False</Zneplatneny>
+    </SumarSocialnaAnamnezaAbuzy>
+</SumarSocialnaAnamnezaAbuzys>
+

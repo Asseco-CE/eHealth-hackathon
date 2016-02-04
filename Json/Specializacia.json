@@ -1,0 +1,110 @@
+{
+    "Specializacie": {
+        "Specializacia": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "zdravotník"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "audiometria"
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "Nazov": [
+                    "Vnútorné lekárstvo"
+                ]
+            },
+            {
+                "id": [
+                    "4"
+                ],
+                "Nazov": [
+                    "Všeobecný lekár pre dospelých"
+                ]
+            },
+            {
+                "id": [
+                    "5"
+                ],
+                "Nazov": [
+                    "laboratórna medicína"
+                ]
+            },
+            {
+                "id": [
+                    "6"
+                ],
+                "Nazov": [
+                    "chirurgia"
+                ]
+            },
+            {
+                "id": [
+                    "7"
+                ],
+                "Nazov": [
+                    "urológia"
+                ]
+            },
+            {
+                "id": [
+                    "8"
+                ],
+                "Nazov": [
+                    "gastroenterológia"
+                ]
+            },
+            {
+                "id": [
+                    "9"
+                ],
+                "Nazov": [
+                    "klinická onkológia"
+                ]
+            },
+            {
+                "id": [
+                    "10"
+                ],
+                "Nazov": [
+                    "klinická imunológia a alergológia"
+                ]
+            },
+            {
+                "id": [
+                    "11"
+                ],
+                "Nazov": [
+                    "úrazová chirurgia"
+                ]
+            },
+            {
+                "id": [
+                    "12"
+                ],
+                "Nazov": [
+                    "fyziatria, balneológia a liečebná rehabilitácia"
+                ]
+            },
+            {
+                "id": [
+                    "13"
+                ],
+                "Nazov": [
+                    "všeobecná starostlivosť o deti a dorast"
+                ]
+            }
+        ]
+    }
+}

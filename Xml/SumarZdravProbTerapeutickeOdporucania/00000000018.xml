@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<SumarZdravProbTerapeutickeOdporucania>
+    <SumarZdravProbTerapeutickeOdporucanie id="1">
+        <Popis>Popis terapeutického odporúčania</Popis>
+        <Poznamka>Poznámka teraperuta</Poznamka>
+        <Stornovany>False</Stornovany>
+        <Zneplatneny>False</Zneplatneny>
+    </SumarZdravProbTerapeutickeOdporucanie>
+
+    <SumarZdravProbTerapeutickeOdporucanie id="2">
+        <Popis>Popis terapeutického odporúčania</Popis>
+        <Poznamka>Poznámka teraperuta</Poznamka>
+        <Stornovany>False</Stornovany>
+        <Zneplatneny>False</Zneplatneny>
+    </SumarZdravProbTerapeutickeOdporucanie>
+</SumarZdravProbTerapeutickeOdporucania>
+

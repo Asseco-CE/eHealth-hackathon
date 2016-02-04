@@ -1,0 +1,52 @@
+{
+    "SumarneInfo": {
+        "Sumar": [
+            {
+                "id": [
+                    "00000000018"
+                ],
+                "PorodnickaAnamnezaPredpokladanyDatumPorodu": [
+                    ""
+                ],
+                "PorodnickaAnamnezaSposobUrceniaTerminuPorodu": [
+                    ""
+                ],
+                "PorodnickaAnamnezaPoznamka": [
+                    ""
+                ],
+                "VysetreniaKrvnaSkupina": [
+                    "Krvná skupina 0"
+                ],
+                "VysetreniaDatumVysetrenia": [
+                    "2005-08-19T00:00:00"
+                ],
+                "VysetreniaPoznamka": [
+                    "Anti-er protilátky nevyšetrené"
+                ]
+            },
+            {
+                "id": [
+                    "00000000026"
+                ],
+                "PorodnickaAnamnezaPredpokladanyDatumPorodu": [
+                    ""
+                ],
+                "PorodnickaAnamnezaSposobUrceniaTerminuPorodu": [
+                    ""
+                ],
+                "PorodnickaAnamnezaPoznamka": [
+                    ""
+                ],
+                "VysetreniaKrvnaSkupina": [
+                    "Krvná skupina AB"
+                ],
+                "VysetreniaDatumVysetrenia": [
+                    "2004-11-03T00:00:00"
+                ],
+                "VysetreniaPoznamka": [
+                    ""
+                ]
+            }
+        ]
+    }
+}

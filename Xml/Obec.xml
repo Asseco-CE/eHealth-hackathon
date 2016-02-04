@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Obce>
+    <Obec id="1">
+        <Nazov>Banská Bystrica</Nazov>
+        <Okres id="Okres">2</Okres>
+        <UzemnospravnaJednotka id="UzemnoSpravnaJednotka">1</UzemnospravnaJednotka>
+    </Obec>
+
+    <Obec id="2">
+        <Nazov>Bratislava</Nazov>
+        <Okres id="Okres">1</Okres>
+        <UzemnospravnaJednotka id="UzemnoSpravnaJednotka">3</UzemnospravnaJednotka>
+    </Obec>
+
+    <Obec id="3">
+        <Nazov>Košice</Nazov>
+        <Okres id="Okres">2</Okres>
+        <UzemnospravnaJednotka id="UzemnoSpravnaJednotka">2</UzemnospravnaJednotka>
+    </Obec>
+
+    <Obec id="4">
+        <Nazov>Sučany</Nazov>
+        <Okres id="Okres">2</Okres>
+        <UzemnospravnaJednotka id="UzemnoSpravnaJednotka">3</UzemnospravnaJednotka>
+    </Obec>
+
+    <Obec id="5">
+        <Nazov>Sušany</Nazov>
+        <Okres id="Okres">1</Okres>
+        <UzemnospravnaJednotka id="UzemnoSpravnaJednotka">1</UzemnospravnaJednotka>
+    </Obec>
+
+    <Obec id="6">
+        <Nazov>Hrnčiarska Ves</Nazov>
+        <Okres id="Okres">1</Okres>
+        <UzemnospravnaJednotka id="UzemnoSpravnaJednotka">1</UzemnospravnaJednotka>
+    </Obec>
+
+    <Obec id="7">
+        <Nazov>Hrnčiarske Zalužany</Nazov>
+        <Okres id="Okres">1</Okres>
+        <UzemnospravnaJednotka id="UzemnoSpravnaJednotka">1</UzemnospravnaJednotka>
+    </Obec>
+
+    <Obec id="8">
+        <Nazov>Malacky</Nazov>
+        <Okres id="Okres">3</Okres>
+        <UzemnospravnaJednotka id="UzemnoSpravnaJednotka">2</UzemnospravnaJednotka>
+    </Obec>
+
+
+  <Obec id="9">
+    <Nazov>Trenčianske Teplice</Nazov>
+    <Okres id="Okres">4</Okres>
+    <UzemnospravnaJednotka id="UzemnoSpravnaJednotka">4</UzemnospravnaJednotka>
+  </Obec>
+</Obce>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<TypyNeziaducejReakcie>
+    <TypNeziaducejReakcie id="1">
+        <Nazov>Intolerancia lieku</Nazov>
+    </TypNeziaducejReakcie>
+
+    <TypNeziaducejReakcie id="2">
+        <Nazov>Krvacanie</Nazov>
+    </TypNeziaducejReakcie>
+</TypyNeziaducejReakcie>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Pohlavia>
+    <Pohlavie id="1">
+        <Nazov>Muž</Nazov>
+    </Pohlavie>
+
+    <Pohlavie id="2">
+        <Nazov>Žena</Nazov>
+    </Pohlavie>
+</Pohlavia>

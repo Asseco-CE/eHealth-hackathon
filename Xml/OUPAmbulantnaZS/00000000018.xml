@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<OUPAmulantnaZSZoznam>
+    <OUPAmulantnaZS id="1">
+        <Datum>2013-08-01T10:00:00</Datum>
+        <KodDiagnozy id="Diagnoza" elementName="Kod">6</KodDiagnozy>
+        <NazovDiagnozy id="Diagnoza" elementName="Nazov">6</NazovDiagnozy>
+        <KodVykonu>63</KodVykonu>
+        <NazovVykonu>Dôkladné vyšetrenie jedného orgánového systému alebo kontrolné vyšetrenie vrátane rád a dokumentácie.</NazovVykonu>
+        <PocetVykonov>1</PocetVykonov>
+        <VykonavajuciLekarId>1</VykonavajuciLekarId>
+        <VykonavajuciLekarKodPZS id="Lekar" elementName="KodPoskytovatela">1</VykonavajuciLekarKodPZS>
+        <VykonavajuciLekar id="Lekar">1</VykonavajuciLekar>
+        <OdporucajuciLekarId>2</OdporucajuciLekarId>
+        <OdporucajuciLekar id="Lekar">2</OdporucajuciLekar>
+        <OdporucajuciLekarKodPZS id="Lekar" elementName="KodPoskytovatela">2</OdporucajuciLekarKodPZS>
+        
+        <!-- Detail -->
+        <PripocitatelnePolozky>E00100</PripocitatelnePolozky>
+        <PripocitatelnePolozkyMnozstvo>1</PripocitatelnePolozkyMnozstvo>
+        <TypStarostlivosti>Všeobecný lekár</TypStarostlivosti>
+    </OUPAmulantnaZS>
+</OUPAmulantnaZSZoznam>
+

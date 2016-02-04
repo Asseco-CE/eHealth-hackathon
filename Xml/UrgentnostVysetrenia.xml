@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<UrgenstnostiVysetrenia>
+    <UrgentnostVysetrenia id="1">
+        <Nazov>Urgentné</Nazov>
+    </UrgentnostVysetrenia>
+
+    <UrgentnostVysetrenia id="2">
+        <Nazov>Prednostné</Nazov>
+    </UrgentnostVysetrenia>
+
+    <UrgentnostVysetrenia id="3">
+        <Nazov>Bežné</Nazov>
+    </UrgentnostVysetrenia>
+</UrgenstnostiVysetrenia>

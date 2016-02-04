@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<OUPLiekyZoznam>
+    <OUPLieky id="1">
+        <DatumPredpisu>2013-07-20T10:00:00</DatumPredpisu>
+        <DatumVydaja>2013-08-01T10:00:00</DatumVydaja>
+        <KodDiagnozy id="Diagnoza" elementName="Kod">2</KodDiagnozy>
+        <NazovDiagnozy id="Diagnoza" elementName="Nazov">2</NazovDiagnozy>
+        <KodLieku id="Liek" elementName="Kod">2</KodLieku>
+        <NazovLieku id="Liek" elementName="Nazov">2</NazovLieku>
+        <ATCSkupinaKod>N02BE01</ATCSkupinaKod>
+        <ATCSkupinaNazov>Paracetamol</ATCSkupinaNazov>
+        <Mnozstvo>2</Mnozstvo>
+        <PredpisujuciLekarId>2</PredpisujuciLekarId>
+        <PredpisujuciLekarKodPZS id="Lekar" elementName="KodPoskytovatela">2</PredpisujuciLekarKodPZS>
+        <PredpisujuciLekar id="Lekar">2</PredpisujuciLekar>
+        <OdporucajuciLekarId>1</OdporucajuciLekarId>
+        <OdporucajuciLekarKodPZS id="Lekar" elementName="KodPoskytovatela">1</OdporucajuciLekarKodPZS>
+        <OdporucajuciLekar id="Lekar">1</OdporucajuciLekar>
+        <KodVydajcu>P62437030304</KodVydajcu>
+        <NazovVydajcu>MUDr. Alman s.r.o.</NazovVydajcu>
+    </OUPLieky>
+</OUPLiekyZoznam>
+

@@ -1,0 +1,90 @@
+{
+    "SumarZdravProbAktualne": {
+        "SumarZdravProbAktualny": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Diagnoza": [
+                    {
+                        "_": "7",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DiagnozaPopis": [
+                    {
+                        "_": "7",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "DiagnozaUpresnenie": [
+                    "Puknutá kosť"
+                ],
+                "CasVzniku": [
+                    "2012-07-09T07:22:00"
+                ],
+                "Poznamka": [
+                    "pracuje v živočíšnej výrobe"
+                ],
+                "Biohazard": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "Zneplatneny": [
+                    "False"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Diagnoza": [
+                    {
+                        "_": "7",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DiagnozaPopis": [
+                    {
+                        "_": "7",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "DiagnozaUpresnenie": [
+                    "Puknutá kosť"
+                ],
+                "CasVzniku": [
+                    "2012-07-09T07:22:00"
+                ],
+                "Poznamka": [
+                    "pracuje v živočíšnej výrobe"
+                ],
+                "Biohazard": [
+                    "True"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "Zneplatneny": [
+                    "False"
+                ]
+            }
+        ]
+    }
+}

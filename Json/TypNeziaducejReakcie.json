@@ -1,0 +1,22 @@
+{
+    "TypyNeziaducejReakcie": {
+        "TypNeziaducejReakcie": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "Intolerancia lieku"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "Krvacanie"
+                ]
+            }
+        ]
+    }
+}

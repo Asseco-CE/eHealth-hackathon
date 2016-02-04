@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<TypyVzoriek>
+    <TypVzorky id="1">
+        <Nazov>Citrát</Nazov>
+    </TypVzorky>
+
+    <TypVzorky id="2">
+        <Nazov>Krv na sérum</Nazov>
+    </TypVzorky>
+
+    <TypVzorky id="3">
+        <Nazov>Moč ranný</Nazov>
+    </TypVzorky>
+
+    <TypVzorky id="4">
+        <Nazov>Plazma</Nazov>
+    </TypVzorky>
+
+    <TypVzorky id="5">
+        <Nazov>Pot</Nazov>
+    </TypVzorky>
+
+    <TypVzorky id="6">
+      <Nazov>Výtery /z nosa, hrdla, tonsíl, krčok maternice/</Nazov>
+    </TypVzorky>
+</TypyVzoriek>

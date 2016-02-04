@@ -1,0 +1,686 @@
+{
+    "LiecbaZPs": {
+        "LiecbaZP": [
+            {
+                "id": [
+                    "1"
+                ],
+                "DiagnozaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DiagnozaNazov": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "DatumOd": [
+                    "2014-02-24T10:00:00"
+                ],
+                "DatumDo": [
+                    "2014-08-24T10:00:00"
+                ],
+                "ZPNazov": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ]
+                    }
+                ],
+                "ZPDoplnokNazvu": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "DoplnokNazvu"
+                        ]
+                    }
+                ],
+                "ZPKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "ZPDoplatokPoistenca": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "DoplatokPoistenca"
+                        ]
+                    }
+                ],
+                "ZPUhradaZP": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "UhradaZP"
+                        ]
+                    }
+                ],
+                "ZPPopis": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Popis"
+                        ]
+                    }
+                ],
+                "ZPPopisPouzitia": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "PopisPouzitia"
+                        ]
+                    }
+                ],
+                "ZPUpotrebenie": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Upotrebenie"
+                        ]
+                    }
+                ],
+                "Pocet": [
+                    "1"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "StornovalZdravPracovnik": [
+                    ""
+                ],
+                "PovodMedikacnehoZaznamu": [
+                    "Na základe lekárskeho predpisu"
+                ],
+                "OrdinujuciLekar": [
+                    "1"
+                ],
+                "OdporucajuciLekar": [
+                    "2"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "DiagnozaKod": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DiagnozaNazov": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "DatumOd": [
+                    "2014-02-24T10:00:00"
+                ],
+                "DatumDo": [
+                    "2014-08-24T10:00:00"
+                ],
+                "ZPNazov": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ]
+                    }
+                ],
+                "ZPDoplnokNazvu": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "DoplnokNazvu"
+                        ]
+                    }
+                ],
+                "ZPKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "ZPDoplatokPoistenca": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "DoplatokPoistenca"
+                        ]
+                    }
+                ],
+                "ZPUhradaZP": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "UhradaZP"
+                        ]
+                    }
+                ],
+                "ZPPopis": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Popis"
+                        ]
+                    }
+                ],
+                "ZPPopisPouzitia": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "PopisPouzitia"
+                        ]
+                    }
+                ],
+                "ZPUpotrebenie": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Upotrebenie"
+                        ]
+                    }
+                ],
+                "Pocet": [
+                    "1"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "StornovalZdravPracovnik": [
+                    ""
+                ],
+                "PovodMedikacnehoZaznamu": [
+                    "Na základe lekárskeho predpisu"
+                ],
+                "OrdinujuciLekar": [
+                    "1"
+                ],
+                "OdporucajuciLekar": [
+                    "2"
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "DiagnozaKod": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DiagnozaNazov": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "DatumOd": [
+                    "2014-02-24T10:00:00"
+                ],
+                "DatumDo": [
+                    "2014-08-24T10:00:00"
+                ],
+                "ZPNazov": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ]
+                    }
+                ],
+                "ZPDoplnokNazvu": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "DoplnokNazvu"
+                        ]
+                    }
+                ],
+                "ZPKod": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "ZPDoplatokPoistenca": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "DoplatokPoistenca"
+                        ]
+                    }
+                ],
+                "ZPUhradaZP": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "UhradaZP"
+                        ]
+                    }
+                ],
+                "ZPPopis": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Popis"
+                        ]
+                    }
+                ],
+                "ZPPopisPouzitia": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "PopisPouzitia"
+                        ]
+                    }
+                ],
+                "ZPUpotrebenie": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Upotrebenie"
+                        ]
+                    }
+                ],
+                "Pocet": [
+                    "1"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "StornovalZdravPracovnik": [
+                    ""
+                ],
+                "PovodMedikacnehoZaznamu": [
+                    "Na základe lekárskeho predpisu"
+                ],
+                "OrdinujuciLekar": [
+                    "1"
+                ],
+                "OdporucajuciLekar": [
+                    "2"
+                ]
+            },
+            {
+                "id": [
+                    "4"
+                ],
+                "DiagnozaKod": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DiagnozaNazov": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "DatumOd": [
+                    "2014-02-24T10:00:00"
+                ],
+                "DatumDo": [
+                    "2014-08-24T10:00:00"
+                ],
+                "ZPNazov": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ]
+                    }
+                ],
+                "ZPDoplnokNazvu": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "DoplnokNazvu"
+                        ]
+                    }
+                ],
+                "ZPKod": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "ZPDoplatokPoistenca": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "DoplatokPoistenca"
+                        ]
+                    }
+                ],
+                "ZPUhradaZP": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "UhradaZP"
+                        ]
+                    }
+                ],
+                "ZPPopis": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Popis"
+                        ]
+                    }
+                ],
+                "ZPPopisPouzitia": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "PopisPouzitia"
+                        ]
+                    }
+                ],
+                "ZPUpotrebenie": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Upotrebenie"
+                        ]
+                    }
+                ],
+                "Pocet": [
+                    "1"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "StornovalZdravPracovnik": [
+                    ""
+                ],
+                "PovodMedikacnehoZaznamu": [
+                    "Na základe lekárskeho predpisu"
+                ],
+                "OrdinujuciLekar": [
+                    "1"
+                ],
+                "OdporucajuciLekar": [
+                    "2"
+                ]
+            },
+            {
+                "id": [
+                    "5"
+                ],
+                "DiagnozaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "DiagnozaNazov": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "DatumOd": [
+                    "2014-02-24T10:00:00"
+                ],
+                "DatumDo": [
+                    "2014-08-24T10:00:00"
+                ],
+                "ZPNazov": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ]
+                    }
+                ],
+                "ZPDoplnokNazvu": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "DoplnokNazvu"
+                        ]
+                    }
+                ],
+                "ZPKod": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "ZPDoplatokPoistenca": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "DoplatokPoistenca"
+                        ]
+                    }
+                ],
+                "ZPUhradaZP": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "UhradaZP"
+                        ]
+                    }
+                ],
+                "ZPPopis": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Popis"
+                        ]
+                    }
+                ],
+                "ZPPopisPouzitia": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "PopisPouzitia"
+                        ]
+                    }
+                ],
+                "ZPUpotrebenie": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Upotrebenie"
+                        ]
+                    }
+                ],
+                "Pocet": [
+                    "1"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "StornovalZdravPracovnik": [
+                    ""
+                ],
+                "PovodMedikacnehoZaznamu": [
+                    "Na základe lekárskeho predpisu"
+                ],
+                "OrdinujuciLekar": [
+                    "1"
+                ],
+                "OdporucajuciLekar": [
+                    "2"
+                ]
+            }
+        ]
+    }
+}

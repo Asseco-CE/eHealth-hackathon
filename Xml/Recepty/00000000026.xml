@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Recepty>
+    <Recept id="1">
+        <DatumVystavenia>2014-01-07T07:12:14</DatumVystavenia>
+        <PlatnostDo>2014-01-13T23:59:59</PlatnostDo>
+        <ViacnasobnyRecept>false</ViacnasobnyRecept>
+        <Blokovany>false</Blokovany>
+        <Zneplatneny>false</Zneplatneny>
+        <Stornovany>false</Stornovany>
+        <DovodBloku></DovodBloku>
+        <DovodZneplatnenia></DovodZneplatnenia>
+        <DovodStorna></DovodStorna>
+        <DatumZneplatnenia></DatumZneplatnenia>
+        <DatumStorna></DatumStorna>
+        <Zneplatnil></Zneplatnil>
+        <Stornoval></Stornoval>
+        <ZdravPoistovna id="ZdravotnaPoistovna">1</ZdravPoistovna>
+        <ZdravPoistovnaKod id="ZdravotnaPoistovna" elementName="Kod">1</ZdravPoistovnaKod>
+        <PredpisLekarId>14</PredpisLekarId>
+        <PredpisLekar id="Lekar">14</PredpisLekar>
+        <PredpisLekarSpec id="Specializacia">13</PredpisLekarSpec>
+        <PredpisLiek customId="Liek">2</PredpisLiek>
+        <PredpisLiekId>2</PredpisLiekId>
+        <PredpisLiekData1 id="Liek" elementName="Popis1">2</PredpisLiekData1>
+        <PredpisLiekData2 id="Liek" elementName="Popis2">2</PredpisLiekData2>
+        <PredpisLiekData3 id="Liek" elementName="Popis3">2</PredpisLiekData3>
+        <PredpisLiekData4 id="Liek" elementName="Popis4">2</PredpisLiekData4>
+        <ReceptDiagnoza id="Diagnoza">12</ReceptDiagnoza>
+        <ReceptDiagnozaKod id="Diagnoza" elementName="Kod">12</ReceptDiagnozaKod>
+        <CelkoveMnozstvo>1</CelkoveMnozstvo>
+        <SpravaLekara></SpravaLekara>
+        <OdporucajuciLekar id="Lekar"></OdporucajuciLekar>
+        <SchvalenyRevLekar id="Lekar"></SchvalenyRevLekar>
+        <SchvalenyRevLekarDatum></SchvalenyRevLekarDatum>
+    </Recept>
+  
+  <Recept id="2">
+    <DatumVystavenia>2014-01-07T07:12:23</DatumVystavenia>
+    <PlatnostDo>2014-01-13T23:59:59</PlatnostDo>
+    <ViacnasobnyRecept>false</ViacnasobnyRecept>
+    <Blokovany>false</Blokovany>
+    <Zneplatneny>false</Zneplatneny>
+    <Stornovany>false</Stornovany>
+    <DovodBloku></DovodBloku>
+    <DovodZneplatnenia></DovodZneplatnenia>
+    <DovodStorna></DovodStorna>
+    <DatumZneplatnenia></DatumZneplatnenia>
+    <DatumStorna></DatumStorna>
+    <Zneplatnil></Zneplatnil>
+    <Stornoval></Stornoval>
+    <ZdravPoistovna id="ZdravotnaPoistovna">1</ZdravPoistovna>
+    <ZdravPoistovnaKod id="ZdravotnaPoistovna" elementName="Kod">1</ZdravPoistovnaKod>
+    <PredpisLekarId>14</PredpisLekarId>
+    <PredpisLekar id="Lekar">14</PredpisLekar>
+    <PredpisLekarSpec id="Specializacia">13</PredpisLekarSpec>
+    <PredpisLiek customId="Liek">19</PredpisLiek>
+    <PredpisLiekId>19</PredpisLiekId>
+    <PredpisLiekData1 id="Liek" elementName="Popis1">19</PredpisLiekData1>
+    <PredpisLiekData2 id="Liek" elementName="Popis2">19</PredpisLiekData2>
+    <PredpisLiekData3 id="Liek" elementName="Popis3">19</PredpisLiekData3>
+    <PredpisLiekData4 id="Liek" elementName="Popis4">19</PredpisLiekData4>
+    <ReceptDiagnoza id="Diagnoza">12</ReceptDiagnoza>
+    <ReceptDiagnozaKod id="Diagnoza" elementName="Kod">12</ReceptDiagnozaKod>
+    <CelkoveMnozstvo>1</CelkoveMnozstvo>
+    <SpravaLekara></SpravaLekara>
+    <OdporucajuciLekar id="Lekar"></OdporucajuciLekar>
+    <SchvalenyRevLekar id="Lekar"></SchvalenyRevLekar>
+    <SchvalenyRevLekarDatum></SchvalenyRevLekarDatum>
+  </Recept>
+
+  <Recept id="3">
+    <DatumVystavenia>2013-11-18T08:54:43</DatumVystavenia>
+    <PlatnostDo>2013-11-25T23:59:59</PlatnostDo>
+    <ViacnasobnyRecept>false</ViacnasobnyRecept>
+    <Blokovany>false</Blokovany>
+    <Zneplatneny>false</Zneplatneny>
+    <Stornovany>false</Stornovany>
+    <DovodBloku></DovodBloku>
+    <DovodZneplatnenia></DovodZneplatnenia>
+    <DovodStorna></DovodStorna>
+    <DatumZneplatnenia></DatumZneplatnenia>
+    <DatumStorna></DatumStorna>
+    <Zneplatnil></Zneplatnil>
+    <Stornoval></Stornoval>
+    <ZdravPoistovna id="ZdravotnaPoistovna">1</ZdravPoistovna>
+    <ZdravPoistovnaKod id="ZdravotnaPoistovna" elementName="Kod">1</ZdravPoistovnaKod>
+    <PredpisLekarId>14</PredpisLekarId>
+    <PredpisLekar id="Lekar">14</PredpisLekar>
+    <PredpisLekarSpec id="Specializacia">13</PredpisLekarSpec>
+    <PredpisLiek customId="Liek">2</PredpisLiek>
+    <PredpisLiekId>2</PredpisLiekId>
+    <PredpisLiekData1 id="Liek" elementName="Popis1">2</PredpisLiekData1>
+    <PredpisLiekData2 id="Liek" elementName="Popis2">2</PredpisLiekData2>
+    <PredpisLiekData3 id="Liek" elementName="Popis3">2</PredpisLiekData3>
+    <PredpisLiekData4 id="Liek" elementName="Popis4">2</PredpisLiekData4>
+    <ReceptDiagnoza id="Diagnoza">13</ReceptDiagnoza>
+    <ReceptDiagnozaKod id="Diagnoza" elementName="Kod">13</ReceptDiagnozaKod>
+    <CelkoveMnozstvo>2</CelkoveMnozstvo>
+    <SpravaLekara></SpravaLekara>
+    <OdporucajuciLekar id="Lekar"></OdporucajuciLekar>
+    <SchvalenyRevLekar id="Lekar"></SchvalenyRevLekar>
+    <SchvalenyRevLekarDatum></SchvalenyRevLekarDatum>
+  </Recept>
+
+  <Recept id="4">
+    <DatumVystavenia>2013-11-18T08:54:54</DatumVystavenia>
+    <PlatnostDo>2013-11-25T23:59:59</PlatnostDo>
+    <ViacnasobnyRecept>false</ViacnasobnyRecept>
+    <Blokovany>false</Blokovany>
+    <Zneplatneny>false</Zneplatneny>
+    <Stornovany>false</Stornovany>
+    <DovodBloku></DovodBloku>
+    <DovodZneplatnenia></DovodZneplatnenia>
+    <DovodStorna></DovodStorna>
+    <DatumZneplatnenia></DatumZneplatnenia>
+    <DatumStorna></DatumStorna>
+    <Zneplatnil></Zneplatnil>
+    <Stornoval></Stornoval>
+    <ZdravPoistovna id="ZdravotnaPoistovna">1</ZdravPoistovna>
+    <ZdravPoistovnaKod id="ZdravotnaPoistovna" elementName="Kod">1</ZdravPoistovnaKod>
+    <PredpisLekarId>14</PredpisLekarId>
+    <PredpisLekar id="Lekar">14</PredpisLekar>
+    <PredpisLekarSpec id="Specializacia">13</PredpisLekarSpec>
+    <PredpisLiek customId="Liek">18</PredpisLiek>
+    <PredpisLiekId>18</PredpisLiekId>
+    <PredpisLiekData1 id="Liek" elementName="Popis1">18</PredpisLiekData1>
+    <PredpisLiekData2 id="Liek" elementName="Popis2">18</PredpisLiekData2>
+    <PredpisLiekData3 id="Liek" elementName="Popis3">18</PredpisLiekData3>
+    <PredpisLiekData4 id="Liek" elementName="Popis4">18</PredpisLiekData4>
+    <ReceptDiagnoza id="Diagnoza">13</ReceptDiagnoza>
+    <ReceptDiagnozaKod id="Diagnoza" elementName="Kod">13</ReceptDiagnozaKod>
+    <CelkoveMnozstvo>2</CelkoveMnozstvo>
+    <SpravaLekara></SpravaLekara>
+    <OdporucajuciLekar id="Lekar"></OdporucajuciLekar>
+    <SchvalenyRevLekar id="Lekar"></SchvalenyRevLekar>
+    <SchvalenyRevLekarDatum></SchvalenyRevLekarDatum>
+  </Recept>
+ 
+</Recepty>
+

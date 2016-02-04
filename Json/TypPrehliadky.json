@@ -1,0 +1,86 @@
+{
+    "TypyPrehliadok": {
+        "TypPrehliadky": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "Preventívna prehliadka pre deti a dorast"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "Preventívna starostlivosť o dorast a dospelých"
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "Nazov": [
+                    "Gynekologická preventívna prehliadka"
+                ]
+            },
+            {
+                "id": [
+                    "4"
+                ],
+                "Nazov": [
+                    "Preventívna starostlivosť v materstve"
+                ]
+            },
+            {
+                "id": [
+                    "5"
+                ],
+                "Nazov": [
+                    "Urologická preventívna prehliadka"
+                ]
+            },
+            {
+                "id": [
+                    "6"
+                ],
+                "Nazov": [
+                    "Stomatologická preventívna prehliadka"
+                ]
+            },
+            {
+                "id": [
+                    "7"
+                ],
+                "Nazov": [
+                    "Preventívna stomatologická prehliadka pre deti"
+                ]
+            },
+            {
+                "id": [
+                    "8"
+                ],
+                "Nazov": [
+                    "Plánovaná prehliadka u špecialistu (dispenzarizácia)"
+                ]
+            },
+            {
+                "id": [
+                    "9"
+                ],
+                "Nazov": [
+                    "Plánovaná prehliadka iná"
+                ]
+            },
+            {
+                "id": [
+                    "10"
+                ],
+                "Nazov": [
+                    "Preventívne očkovanie nepovinné"
+                ]
+            }
+        ]
+    }
+}

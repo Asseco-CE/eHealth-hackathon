@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<KontaktneUdaje>
+  <KontaktnyUdaj id="1">
+    <TitulPred id="Titul">1</TitulPred>
+    <Meno>Adam</Meno>
+    <Priezvisko>Ladinák</Priezvisko>
+    <TitulZa></TitulZa>
+    <Vztah id="Vztah">6</Vztah>
+    <Stat id="Krajina">1</Stat>
+    <UzemnoSpravnaJednotka id="UzemnoSpravnaJednotka">2</UzemnoSpravnaJednotka>
+    <Obec id="Obec">8</Obec>
+    <Ulica>Nová</Ulica>
+    <Cislo>33</Cislo>
+    <Psc id="Psc">6</Psc>
+    <Telefon>0909 321 111</Telefon>
+    <EMail>aladinak@mail.tcom.sk</EMail>
+    <Poznamka></Poznamka>
+  </KontaktnyUdaj>
+
+  <KontaktnyUdaj id="2">
+    <TitulPred id="Titul">1</TitulPred>
+    <Meno>Eva</Meno>
+    <Priezvisko>Ladináková</Priezvisko>
+    <TitulZa></TitulZa>
+    <Vztah id="Vztah">7</Vztah>
+    <Stat id="Krajina">1</Stat>
+    <UzemnoSpravnaJednotka id="UzemnoSpravnaJednotka">2</UzemnoSpravnaJednotka>
+    <Obec id="Obec">8</Obec>
+    <Ulica>Nová</Ulica>
+    <Cislo>33</Cislo>
+    <Psc id="Psc">6</Psc>
+    <Telefon>0908 897 777</Telefon>
+    <EMail></EMail>
+    <Poznamka></Poznamka>
+  </KontaktnyUdaj>
+</KontaktneUdaje>
+

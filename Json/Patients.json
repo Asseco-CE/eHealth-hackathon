@@ -1,0 +1,125 @@
+{
+    "Pacienti": {
+        "Pacient": [
+            {
+                "id": [
+                    "00000000018"
+                ],
+                "TitulPred": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Titul"
+                        ]
+                    }
+                ],
+                "KrstneMeno": [
+                    "Adam"
+                ],
+                "Priezvisko": [
+                    "Ladinák"
+                ],
+                "TitulZa": [
+                    ""
+                ],
+                "DatumNarodenia": [
+                    "1969-03-01T10:00:00"
+                ],
+                "Vztah": [
+                    "Prístup"
+                ],
+                "DatumVzniku": [
+                    "2012-10-01T10:00:00"
+                ],
+                "ImageLocation": [
+                    "AdamLadinakAvatarSmall.jpg"
+                ],
+                "DocasnyIdentifikator": [
+                    "376710007"
+                ],
+                "Pohlavie": [
+                    "muž"
+                ],
+                "Adresa": [
+                    "Malacky"
+                ]
+            },
+            {
+                "id": [
+                    "00000000026"
+                ],
+                "TitulPred": [
+                    ""
+                ],
+                "KrstneMeno": [
+                    "Miroslav"
+                ],
+                "Priezvisko": [
+                    "Ladinák"
+                ],
+                "TitulZa": [
+                    ""
+                ],
+                "DatumNarodenia": [
+                    "1994-08-13T10:00:00"
+                ],
+                "Vztah": [
+                    "Prístup"
+                ],
+                "DatumVzniku": [
+                    "2013-11-11T10:00:00"
+                ],
+                "ImageLocation": [
+                    "MiroslavLadinakJuniorAvatarSmall.jpg"
+                ],
+                "DocasnyIdentifikator": [
+                    "456145129"
+                ],
+                "Pohlavie": [
+                    "muž"
+                ],
+                "Adresa": [
+                    "Malacky"
+                ]
+            },
+            {
+                "id": [
+                    "00000000059"
+                ],
+                "TitulPred": [
+                    ""
+                ],
+                "KrstneMeno": [
+                    "Miroslav"
+                ],
+                "Priezvisko": [
+                    "Ladinák"
+                ],
+                "TitulZa": [
+                    ""
+                ],
+                "DatumNarodenia": [
+                    "1938-02-22T10:00:00"
+                ],
+                "Vztah": [
+                    "Prístup"
+                ],
+                "DatumVzniku": [
+                    "2013-11-11T10:00:00"
+                ],
+                "ImageLocation": [
+                    "MiroslavLadinakAvatarSmall.jpg"
+                ],
+                "DocasnyIdentifikator": [
+                    "139145129"
+                ],
+                "Pohlavie": [
+                    "muž"
+                ],
+                "Adresa": [
+                    "Trenčianske Teplice"
+                ]
+            }
+        ]
+    }
+}

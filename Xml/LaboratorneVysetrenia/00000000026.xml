@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LaboratorneVysetrenia>
+  <LaboratorneVysetrenie id="1">
+    <!-- Zoznam -->
+    <DatumOdberu>2014-01-07T07:03:15</DatumOdberu>
+    <NazovLaboratoria>Laboratórium ALBA s.r.o.</NazovLaboratoria>
+    <TypVzorky id="TypVzorky">6</TypVzorky>
+    <LaboratornaPolozka id="LaboratornaPolozka">12</LaboratornaPolozka>
+    <OdosielajuciLekarId>14</OdosielajuciLekarId>
+    <OdosielajuciLekar id="Lekar">14</OdosielajuciLekar>
+    <NazovVysetrenia>Mikrobiologické vyšetrenie</NazovVysetrenia>
+    <StavVysledku>Ukončený</StavVysledku>
+    <Stornovany>false</Stornovany>
+    <StornovanieDatumCas></StornovanieDatumCas>
+    <StornovanieZPr></StornovanieZPr>
+
+    <!-- Detail -->
+    <KodDiagnozy id="Diagnoza" elementName="Kod">6</KodDiagnozy>
+    <NazovDiagnozy id="Diagnoza" elementName="Nazov">6</NazovDiagnozy>
+    <Vyska>175 cm</Vyska>
+    <Faza>neznáma</Faza>
+    <Hmotnost>60 kg</Hmotnost>
+    <TyzdenGravidity>0</TyzdenGravidity>
+
+    <OdosielajuciLekarMeno id="Lekar" elementName="Nazov">14</OdosielajuciLekarMeno>
+    <OdosielajuciLekarOdbornost id="Specializacia">14</OdosielajuciLekarOdbornost>
+    <OdosielajuciLekarKod id="Lekar" elementName="KodLekara">14</OdosielajuciLekarKod>
+    <OdosielajuciLekarAdresa id="Lekar" elementName="Adresa1">14</OdosielajuciLekarAdresa>
+    <OdosielajuciLekarEmail id="Lekar" elementName="Email">14</OdosielajuciLekarEmail>
+    <OdosielajuciLekarTelefon id="Lekar" elementName="Telefon">14</OdosielajuciLekarTelefon>
+
+    <AdresaLaboratoria>Štúrova 13, 901 01 Malacky</AdresaLaboratoria>
+
+    <VzorkaPoradoveCislo>2E00000001020</VzorkaPoradoveCislo>
+    <Diureza>1 h 58,6 mL</Diureza>
+
+    <VysetrenieDatumKompletizacie>2013-01-10T16:24:48</VysetrenieDatumKompletizacie>
+    <ZaverecnaSprava>negat.</ZaverecnaSprava>
+    <SchvalilLekar id="Lekar">3</SchvalilLekar>
+
+    <VysledkyLaboratornychTestov>15,16</VysledkyLaboratornychTestov>
+  </LaboratorneVysetrenie>
+
+  <LaboratorneVysetrenie id="2">
+    <DatumOdberu>2014-01-07T07:03:15</DatumOdberu>
+    <NazovLaboratoria>Laboratórium ALBA s.r.o.</NazovLaboratoria>
+    <TypVzorky id="TypVzorky">2</TypVzorky>
+    <LaboratornaPolozka id="LaboratornaPolozka">14</LaboratornaPolozka>
+    <OdosielajuciLekarId>14</OdosielajuciLekarId>
+    <OdosielajuciLekar id="Lekar">14</OdosielajuciLekar>
+    <NazovVysetrenia>Parametre krvného obrazu</NazovVysetrenia>
+    <StavVysledku>Ukončený</StavVysledku>
+    <Stornovany>false</Stornovany>
+
+    <!-- Detail -->
+    <KodDiagnozy id="Diagnoza" elementName="Kod">6</KodDiagnozy>
+    <NazovDiagnozy id="Diagnoza" elementName="Nazov">6</NazovDiagnozy>
+    <Vyska>175 cm</Vyska>
+    <Faza>neznáma</Faza>
+    <Hmotnost>60 kg</Hmotnost>
+    <TyzdenGravidity>0</TyzdenGravidity>
+
+    <OdosielajuciLekarMeno id="Lekar" elementName="Nazov">14</OdosielajuciLekarMeno>
+    <OdosielajuciLekarOdbornost id="Specializacia">14</OdosielajuciLekarOdbornost>
+    <OdosielajuciLekarKod id="Lekar" elementName="KodLekara">14</OdosielajuciLekarKod>
+    <OdosielajuciLekarAdresa id="Lekar" elementName="Adresa1">14</OdosielajuciLekarAdresa>
+    <OdosielajuciLekarEmail id="Lekar" elementName="Email">14</OdosielajuciLekarEmail>
+    <OdosielajuciLekarTelefon id="Lekar" elementName="Telefon">14</OdosielajuciLekarTelefon>
+
+    <AdresaLaboratoria>Štúrova 13, 901 01 Malacky</AdresaLaboratoria>
+
+    <VzorkaPoradoveCislo>2E00000001030</VzorkaPoradoveCislo>
+    <Diureza>1 h 58,6 mL</Diureza>
+
+    <VysetrenieDatumKompletizacie>2011-11-27T12:27:54</VysetrenieDatumKompletizacie>
+    <ZaverecnaSprava>Hodnoty v norme.</ZaverecnaSprava>
+    <SchvalilLekar id="Lekar">3</SchvalilLekar>
+
+    <VysledkyLaboratornychTestov>17,18,19,20,21,22</VysledkyLaboratornychTestov>
+  </LaboratorneVysetrenie>
+</LaboratorneVysetrenia>
+
+

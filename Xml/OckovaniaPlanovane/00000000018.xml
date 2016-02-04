@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<OckovaniaPlanovane>
+  <OckovaniePlanovane id="1">
+    <Druh id="DruhOckovania">1</Druh>
+    <Typ id="TypOckovania">2</Typ>
+    <DatumOd>2023-08-01T10:00:00</DatumOd>
+    <DatumDo>2024-08-01T10:00:00</DatumDo>
+    <Vek>55</Vek>
+    <VykonaneOckovanie>False</VykonaneOckovanie>
+    <ZruseneOckovanie>False</ZruseneOckovanie>
+    <DatumVykonaniaZrusenia></DatumVykonaniaZrusenia>
+    <Predpoklad>True</Predpoklad>
+  </OckovaniePlanovane>
+
+  <OckovaniePlanovane id="2">
+    <Druh id="DruhOckovania">3</Druh>
+    <Typ id="TypOckovania">3</Typ>
+    <DatumOd>2014-02-01T10:00:00</DatumOd>
+    <DatumDo>2014-03-01T10:00:00</DatumDo>
+    <Vek>0</Vek>
+    <VykonaneOckovanie>False</VykonaneOckovanie>
+    <ZruseneOckovanie>False</ZruseneOckovanie>
+    <DatumVykonaniaZrusenia></DatumVykonaniaZrusenia>
+    <Predpoklad>True</Predpoklad>
+  </OckovaniePlanovane>
+
+  <OckovaniePlanovane id="3">
+    <Druh id="DruhOckovania">4</Druh>
+    <Typ id="TypOckovania">2</Typ>
+    <DatumOd>2014-02-24T10:00:00</DatumOd>
+    <DatumDo>2015-02-24T10:00:00</DatumDo>
+    <Vek>0</Vek>
+    <VykonaneOckovanie>False</VykonaneOckovanie>
+    <ZruseneOckovanie>False</ZruseneOckovanie>
+    <DatumVykonaniaZrusenia></DatumVykonaniaZrusenia>
+    <Predpoklad>True</Predpoklad>
+  </OckovaniePlanovane>
+</OckovaniaPlanovane>
+

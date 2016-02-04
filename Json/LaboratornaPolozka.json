@@ -1,0 +1,601 @@
+{
+    "LaboratornePolozky": {
+        "LaboratornaPolozka": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "Absolútny počet lymfocytov"
+                ],
+                "Skratka": [
+                    "Abs. poč. lymfocytov"
+                ],
+                "Jednotka": [
+                    "počet"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "Adrenalín"
+                ],
+                "Skratka": [
+                    "Adr"
+                ],
+                "Jednotka": [
+                    "ml"
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "Id": [
+                    "3"
+                ],
+                "Nazov": [
+                    "Erytrocyty"
+                ],
+                "Skratka": [
+                    "RBC"
+                ],
+                "Jednotka": [
+                    "10x12/l"
+                ]
+            },
+            {
+                "id": [
+                    "4"
+                ],
+                "Id": [
+                    "4"
+                ],
+                "Nazov": [
+                    "Kortizol v sére"
+                ],
+                "Skratka": [
+                    "Kortizol v sére"
+                ],
+                "Jednotka": [
+                    "ml"
+                ]
+            },
+            {
+                "id": [
+                    "5"
+                ],
+                "Id": [
+                    "5"
+                ],
+                "Nazov": [
+                    "Sodík v artérii"
+                ],
+                "Skratka": [
+                    "Sodík v artérii"
+                ],
+                "Jednotka": [
+                    "g/L"
+                ]
+            },
+            {
+                "id": [
+                    "6"
+                ],
+                "Id": [
+                    "6"
+                ],
+                "Nazov": [
+                    "Leukocyty"
+                ],
+                "Skratka": [
+                    "WBC"
+                ],
+                "Jednotka": [
+                    "10x9/l"
+                ]
+            },
+            {
+                "id": [
+                    "7"
+                ],
+                "Id": [
+                    "7"
+                ],
+                "Nazov": [
+                    "Hemoglobín"
+                ],
+                "Skratka": [
+                    "HGB"
+                ],
+                "Jednotka": [
+                    "g/L"
+                ]
+            },
+            {
+                "id": [
+                    "8"
+                ],
+                "Id": [
+                    "8"
+                ],
+                "Nazov": [
+                    "Hematokrit"
+                ],
+                "Skratka": [
+                    "HCT"
+                ],
+                "Jednotka": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "9"
+                ],
+                "Id": [
+                    "9"
+                ],
+                "Nazov": [
+                    "Trombocyty"
+                ],
+                "Skratka": [
+                    "PLT"
+                ],
+                "Jednotka": [
+                    "g/L"
+                ]
+            },
+            {
+                "id": [
+                    "10"
+                ],
+                "Id": [
+                    "10"
+                ],
+                "Nazov": [
+                    "Neutrofily"
+                ],
+                "Skratka": [
+                    "NEU"
+                ],
+                "Jednotka": [
+                    "%"
+                ]
+            },
+            {
+                "id": [
+                    "11"
+                ],
+                "Id": [
+                    "11"
+                ],
+                "Nazov": [
+                    "Absolútny počet neutrofilov"
+                ],
+                "Skratka": [
+                    "NEUabs"
+                ],
+                "Jednotka": [
+                    "10x9/l"
+                ]
+            },
+            {
+                "id": [
+                    "12"
+                ],
+                "Id": [
+                    "12"
+                ],
+                "Nazov": [
+                    "Kultivačné vyšetrenie + citlivosť výteru z tonzíl"
+                ],
+                "Skratka": [
+                    "VT"
+                ],
+                "Jednotka": [
+                    "ukat/L"
+                ]
+            },
+            {
+                "id": [
+                    "13"
+                ],
+                "Id": [
+                    "13"
+                ],
+                "Nazov": [
+                    "Kultivačné vyšetrenie + citlivosť výteru z nosa"
+                ],
+                "Skratka": [
+                    "VN"
+                ],
+                "Jednotka": [
+                    "ukat/L"
+                ]
+            },
+            {
+                "id": [
+                    "14"
+                ],
+                "Id": [
+                    "14"
+                ],
+                "Nazov": [
+                    "Bilirubín celkový v sére"
+                ],
+                "Skratka": [
+                    "S-BILC"
+                ],
+                "Jednotka": [
+                    "μmol/l"
+                ]
+            },
+            {
+                "id": [
+                    "15"
+                ],
+                "Id": [
+                    "15"
+                ],
+                "Nazov": [
+                    "GMT v sére"
+                ],
+                "Skratka": [
+                    "S-GMT"
+                ],
+                "Jednotka": [
+                    "μkat/l"
+                ]
+            },
+            {
+                "id": [
+                    "16"
+                ],
+                "Id": [
+                    "16"
+                ],
+                "Nazov": [
+                    "ALT v sére"
+                ],
+                "Skratka": [
+                    "S-ALT"
+                ],
+                "Jednotka": [
+                    "μkat/l"
+                ]
+            },
+            {
+                "id": [
+                    "17"
+                ],
+                "Id": [
+                    "17"
+                ],
+                "Nazov": [
+                    "AST v sére"
+                ],
+                "Skratka": [
+                    "S-AST"
+                ],
+                "Jednotka": [
+                    "μkat/l"
+                ]
+            },
+            {
+                "id": [
+                    "18"
+                ],
+                "Id": [
+                    "18"
+                ],
+                "Nazov": [
+                    "ALP v sére"
+                ],
+                "Skratka": [
+                    "S-ALP"
+                ],
+                "Jednotka": [
+                    "μkat/l"
+                ]
+            },
+            {
+                "id": [
+                    "19"
+                ],
+                "Id": [
+                    "19"
+                ],
+                "Nazov": [
+                    "Laktátdehydrogenáza v sére"
+                ],
+                "Skratka": [
+                    "S-LD"
+                ],
+                "Jednotka": [
+                    "μkat/l"
+                ]
+            },
+            {
+                "id": [
+                    "20"
+                ],
+                "Id": [
+                    "20"
+                ],
+                "Nazov": [
+                    "CA 19-9 v sére"
+                ],
+                "Skratka": [
+                    "S-CA19-9"
+                ],
+                "Jednotka": [
+                    "U/ml"
+                ]
+            },
+            {
+                "id": [
+                    "21"
+                ],
+                "Id": [
+                    "21"
+                ],
+                "Nazov": [
+                    "Protrombínový čas % (Quick)"
+                ],
+                "Skratka": [
+                    "P-PT-%"
+                ],
+                "Jednotka": [
+                    "%"
+                ]
+            },
+            {
+                "id": [
+                    "22"
+                ],
+                "Id": [
+                    "22"
+                ],
+                "Nazov": [
+                    "PT 1+1 INR"
+                ],
+                "Skratka": [
+                    "P-PT1+1 INR"
+                ],
+                "Jednotka": [
+                    "INR"
+                ]
+            },
+            {
+                "id": [
+                    "23"
+                ],
+                "Id": [
+                    "23"
+                ],
+                "Nazov": [
+                    "Fibrinogén"
+                ],
+                "Skratka": [
+                    "P-FBG"
+                ],
+                "Jednotka": [
+                    "g/l"
+                ]
+            },
+            {
+                "id": [
+                    "24"
+                ],
+                "Id": [
+                    "24"
+                ],
+                "Nazov": [
+                    "CEA s"
+                ],
+                "Skratka": [
+                    "CEA s"
+                ],
+                "Jednotka": [
+                    "ng/ml"
+                ]
+            },
+            {
+                "id": [
+                    "25"
+                ],
+                "Id": [
+                    "25"
+                ],
+                "Nazov": [
+                    "Kreatinín v sére"
+                ],
+                "Skratka": [
+                    "S-KREA"
+                ],
+                "Jednotka": [
+                    "μmol/l"
+                ]
+            },
+            {
+                "id": [
+                    "26"
+                ],
+                "Id": [
+                    "26"
+                ],
+                "Nazov": [
+                    "Kyselina močová v sére"
+                ],
+                "Skratka": [
+                    "S-KM"
+                ],
+                "Jednotka": [
+                    "μmol/l"
+                ]
+            },
+            {
+                "id": [
+                    "27"
+                ],
+                "Id": [
+                    "27"
+                ],
+                "Nazov": [
+                    "Močovina v sére"
+                ],
+                "Skratka": [
+                    "S-UREA"
+                ],
+                "Jednotka": [
+                    "mmol/l"
+                ]
+            },
+            {
+                "id": [
+                    "28"
+                ],
+                "Id": [
+                    "28"
+                ],
+                "Nazov": [
+                    "Celkové bielkoviny v sére"
+                ],
+                "Skratka": [
+                    "S-CB"
+                ],
+                "Jednotka": [
+                    "g/l"
+                ]
+            },
+            {
+                "id": [
+                    "29"
+                ],
+                "Id": [
+                    "29"
+                ],
+                "Nazov": [
+                    "Albumín v sére"
+                ],
+                "Skratka": [
+                    "S-ALB"
+                ],
+                "Jednotka": [
+                    "g/l"
+                ]
+            },
+            {
+                "id": [
+                    "30"
+                ],
+                "Id": [
+                    "30"
+                ],
+                "Nazov": [
+                    "Glukóza v sére"
+                ],
+                "Skratka": [
+                    "S-GLU"
+                ],
+                "Jednotka": [
+                    "mmol/l"
+                ]
+            },
+            {
+                "id": [
+                    "31"
+                ],
+                "Id": [
+                    "31"
+                ],
+                "Nazov": [
+                    "Sodík v sére"
+                ],
+                "Skratka": [
+                    "S-Na"
+                ],
+                "Jednotka": [
+                    "mmol/l"
+                ]
+            },
+            {
+                "id": [
+                    "32"
+                ],
+                "Id": [
+                    "32"
+                ],
+                "Nazov": [
+                    "Draslík v sére"
+                ],
+                "Skratka": [
+                    "S-K"
+                ],
+                "Jednotka": [
+                    "mmol/l"
+                ]
+            },
+            {
+                "id": [
+                    "33"
+                ],
+                "Id": [
+                    "33"
+                ],
+                "Nazov": [
+                    "Chloridy v sére"
+                ],
+                "Skratka": [
+                    "S-Cl"
+                ],
+                "Jednotka": [
+                    "mmol/l"
+                ]
+            },
+            {
+                "id": [
+                    "34"
+                ],
+                "Id": [
+                    "34"
+                ],
+                "Nazov": [
+                    "Vápnik v sére"
+                ],
+                "Skratka": [
+                    "S-Ca"
+                ],
+                "Jednotka": [
+                    "mmol/l"
+                ]
+            },
+            {
+                "id": [
+                    "35"
+                ],
+                "Id": [
+                    "35"
+                ],
+                "Nazov": [
+                    "Osmolalita v sére"
+                ],
+                "Skratka": [
+                    "S-OSMOL"
+                ],
+                "Jednotka": [
+                    "mmol/kg"
+                ]
+            }
+        ]
+    }
+}

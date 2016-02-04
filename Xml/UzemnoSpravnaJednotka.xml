@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<UzemnoSpravneJednotky>
+    <UzemnoSpravneJednotka id="1">
+        <Nazov>Banskobystrický kraj</Nazov>
+        <KratkyNazov>BB</KratkyNazov>
+    </UzemnoSpravneJednotka>
+
+    <UzemnoSpravneJednotka id="2">
+        <Nazov>Bratislavský kraj</Nazov>
+        <KratkyNazov>BA</KratkyNazov>
+    </UzemnoSpravneJednotka>
+
+    <UzemnoSpravneJednotka id="3">
+        <Nazov>Košický kraj</Nazov>
+        <KratkyNazov>KE</KratkyNazov>
+    </UzemnoSpravneJednotka>
+
+  <UzemnoSpravneJednotka id="4">
+    <Nazov>Trenčiansky kraj</Nazov>
+    <KratkyNazov>TN</KratkyNazov>
+  </UzemnoSpravneJednotka>
+</UzemnoSpravneJednotky>

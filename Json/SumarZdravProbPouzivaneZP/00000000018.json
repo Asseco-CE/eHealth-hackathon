@@ -1,0 +1,100 @@
+{
+    "SumarZdravProbPouzivaneZP": {
+        "SumarZdravProbPouzivanaZP": [
+            {
+                "id": [
+                    "1"
+                ],
+                "DruhZP": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DruhZdravotnickejPomocky"
+                        ]
+                    }
+                ],
+                "DatumImplantacie": [
+                    "2005-08-19T00:00:00"
+                ],
+                "KodZP": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "PlnyNazovZP": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "PlnyNazov"
+                        ]
+                    }
+                ],
+                "Poznamka": [
+                    "Poznámka k zdravotnej pomôcke"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "Zneplatneny": [
+                    "False"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "DruhZP": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DruhZdravotnickejPomocky"
+                        ]
+                    }
+                ],
+                "DatumImplantacie": [
+                    "2005-08-19T00:00:00"
+                ],
+                "KodZP": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "PlnyNazovZP": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "ZdravotnickaPomocka"
+                        ],
+                        "elementName": [
+                            "PlnyNazov"
+                        ]
+                    }
+                ],
+                "Poznamka": [
+                    "Poznámka k zdravotnej pomôcke"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "Zneplatneny": [
+                    "False"
+                ]
+            }
+        ]
+    }
+}

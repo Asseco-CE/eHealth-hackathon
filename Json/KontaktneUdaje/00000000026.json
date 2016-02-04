@@ -1,0 +1,127 @@
+{
+    "KontaktneUdaje": {
+        "KontaktnyUdaj": [
+            {
+                "id": [
+                    "1"
+                ],
+                "NotifikacnyKontakt": [
+                    "true"
+                ],
+                "Stat": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "UzemnoSpravnaJednotka": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "UzemnoSpravnaJednotka"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Obec": [
+                    {
+                        "_": "8",
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Ulica": [
+                    "Nová"
+                ],
+                "Cislo": [
+                    "33"
+                ],
+                "Telefon": [
+                    "0908 897 777"
+                ],
+                "EMail": [
+                    ""
+                ],
+                "Poznamka": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "NotifikacnyKontakt": [
+                    "false"
+                ],
+                "Stat": [
+                    {
+                        "id": [
+                            "Krajina"
+                        ]
+                    }
+                ],
+                "UzemnoSpravnaJednotka": [
+                    {
+                        "id": [
+                            "UzemnoSpravnaJednotka"
+                        ]
+                    }
+                ],
+                "Okres": [
+                    {
+                        "id": [
+                            "Okres"
+                        ]
+                    }
+                ],
+                "Obec": [
+                    {
+                        "id": [
+                            "Obec"
+                        ]
+                    }
+                ],
+                "Psc": [
+                    {
+                        "id": [
+                            "Psc"
+                        ]
+                    }
+                ],
+                "Ulica": [
+                    ""
+                ],
+                "Cislo": [
+                    ""
+                ],
+                "Telefon": [
+                    ""
+                ],
+                "EMail": [
+                    "miroslavml.ladinak@yahoo.com"
+                ],
+                "Poznamka": [
+                    ""
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "DruhyOckovania": {
+        "DruhOckovania": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "Tetanus"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "Mumps,Rubeola,vakcína proti osýpkam"
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "Nazov": [
+                    "vakcína proti záškrtu + tetanu"
+                ]
+            },
+            {
+                "id": [
+                    "4"
+                ],
+                "Nazov": [
+                    "Diftéria"
+                ]
+            },
+            {
+                "id": [
+                    "5"
+                ],
+                "Nazov": [
+                    "tuberkulóza (BCG)"
+                ]
+            },
+            {
+                "id": [
+                    "6"
+                ],
+                "Nazov": [
+                    "pertussis"
+                ]
+            },
+            {
+                "id": [
+                    "7"
+                ],
+                "Nazov": [
+                    "vírusová hepatitída B (VHB) "
+                ]
+            }
+        ]
+    }
+}

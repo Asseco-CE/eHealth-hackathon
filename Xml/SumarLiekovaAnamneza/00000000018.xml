@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<SumarLiekovaAnamneza>
+    <LiekovaAnamneza id="1">
+        <DatumOd>2013-03-10T00:00:00</DatumOd>
+        <DatumDo>2014-09-06T00:00:00</DatumDo>
+        <LiekNazov id="Liek">1</LiekNazov>
+        <LiekKod id="Liek" elementName="Kod">1</LiekKod>
+        <Davkovanie>1x 1/2</Davkovanie>
+        <Poznamka>Poznamka</Poznamka>
+        <Stornovany>False</Stornovany>
+    </LiekovaAnamneza>
+
+    <LiekovaAnamneza id="2">
+        <DatumOd>2012-01-10T00:00:00</DatumOd>
+        <DatumDo>2013-05-14T00:00:00</DatumDo>
+        <LiekNazov id="Liek">3</LiekNazov>
+        <LiekKod id="Liek" elementName="Kod">3</LiekKod>
+        <Davkovanie>3x1</Davkovanie>
+        <Poznamka>Poznamka</Poznamka>
+        <Stornovany>False</Stornovany>
+    </LiekovaAnamneza>
+
+    <LiekovaAnamneza id="3">
+        <DatumOd>2012-01-10T00:00:00</DatumOd>
+        <DatumDo>2013-05-14T00:00:00</DatumDo>
+        <LiekNazov id="Liek">3</LiekNazov>
+        <LiekKod id="Liek" elementName="Kod">3</LiekKod>
+        <Davkovanie>3x1</Davkovanie>
+        <Poznamka>Poznamka</Poznamka>
+        <Stornovany>False</Stornovany>
+    </LiekovaAnamneza>
+
+    <LiekovaAnamneza id="4">
+        <DatumOd>2012-01-10T00:00:00</DatumOd>
+        <DatumDo>2013-05-14T00:00:00</DatumDo>
+        <LiekNazov id="Liek">3</LiekNazov>
+        <LiekKod id="Liek" elementName="Kod">3</LiekKod>
+        <Davkovanie>3x1</Davkovanie>
+        <Poznamka>Poznamka</Poznamka>
+        <Stornovany>False</Stornovany>
+    </LiekovaAnamneza>
+
+    <LiekovaAnamneza id="5">
+        <DatumOd>2012-01-10T00:00:00</DatumOd>
+        <DatumDo>2013-05-14T00:00:00</DatumDo>
+        <LiekNazov id="Liek">3</LiekNazov>
+        <LiekKod id="Liek" elementName="Kod">3</LiekKod>
+        <Davkovanie>3x1</Davkovanie>
+        <Poznamka>Poznamka</Poznamka>
+        <Stornovany>False</Stornovany>
+    </LiekovaAnamneza>
+
+    <LiekovaAnamneza id="6">
+        <DatumOd>2012-01-10T00:00:00</DatumOd>
+        <DatumDo>2013-05-14T00:00:00</DatumDo>
+        <LiekNazov id="Liek">3</LiekNazov>
+        <LiekKod id="Liek" elementName="Kod">3</LiekKod>
+        <Davkovanie>3x1</Davkovanie>
+        <Poznamka>Poznamka</Poznamka>
+        <Stornovany>False</Stornovany>
+    </LiekovaAnamneza>
+
+    <LiekovaAnamneza id="7">
+        <DatumOd>2012-01-10T00:00:00</DatumOd>
+        <DatumDo>2013-05-14T00:00:00</DatumDo>
+        <LiekNazov id="Liek">3</LiekNazov>
+        <LiekKod id="Liek" elementName="Kod">3</LiekKod>
+        <Davkovanie>3x1</Davkovanie>
+        <Poznamka>Poznamka</Poznamka>
+        <Stornovany>False</Stornovany>
+    </LiekovaAnamneza>
+
+    <LiekovaAnamneza id="8">
+        <DatumOd>2012-01-10T00:00:00</DatumOd>
+        <DatumDo>2013-05-14T00:00:00</DatumDo>
+        <LiekNazov id="Liek">3</LiekNazov>
+        <LiekKod id="Liek" elementName="Kod">3</LiekKod>
+        <Davkovanie>3x1</Davkovanie>
+        <Poznamka>Poznamka</Poznamka>
+        <Stornovany>True</Stornovany>
+    </LiekovaAnamneza>
+
+    <LiekovaAnamneza id="9">
+        <DatumOd>2012-01-10T00:00:00</DatumOd>
+        <DatumDo>2013-05-14T00:00:00</DatumDo>
+        <LiekNazov id="Liek">3</LiekNazov>
+        <LiekKod id="Liek" elementName="Kod">3</LiekKod>
+        <Davkovanie>3x1</Davkovanie>
+        <Poznamka>Poznamka</Poznamka>
+        <Stornovany>True</Stornovany>
+    </LiekovaAnamneza>
+</SumarLiekovaAnamneza>
+

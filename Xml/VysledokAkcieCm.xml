@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<VysledkyAkciiCm>
+    <VysledokAkcieCm id="1">
+        <Nazov>Úspešná</Nazov>
+    </VysledokAkcieCm>
+
+    <VysledokAkcieCm id="2">
+        <Nazov>Neúspešná</Nazov>
+    </VysledokAkcieCm>
+</VysledkyAkciiCm>

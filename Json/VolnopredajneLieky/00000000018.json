@@ -1,0 +1,78 @@
+{
+    "VolnoPredajneLieky": {
+        "VolnoPredajnyLiek": [
+            {
+                "id": [
+                    "1"
+                ],
+                "DatumZaciatkuUzivania": [
+                    "2014-02-03T10:00:00"
+                ],
+                "DatumKoncaUzivania": [
+                    "2014-02-4T10:00:00"
+                ],
+                "KodLieku": [
+                    {
+                        "_": "5",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "NazovLieku": [
+                    {
+                        "_": "5",
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "PocetBaleni": [
+                    "1"
+                ],
+                "Davkovanie": [
+                    "Tri krát denne na teplotu"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "DatumZaciatkuUzivania": [
+                    "2013-02-05T08:15:00"
+                ],
+                "DatumKoncaUzivania": [
+                    "2013-02-06T18:30:00"
+                ],
+                "KodLieku": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "NazovLieku": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "PocetBaleni": [
+                    "1"
+                ],
+                "Davkovanie": [
+                    "Trikrát denne na teplotu"
+                ]
+            }
+        ]
+    }
+}

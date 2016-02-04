@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LaboratornePolozky>
+    <LaboratornaPolozka id="1">
+        <Id>1</Id>
+        <Nazov>Absolútny počet lymfocytov</Nazov>
+        <Skratka>Abs. poč. lymfocytov</Skratka>
+        <Jednotka>počet</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="2">
+        <Id>2</Id>
+        <Nazov>Adrenalín</Nazov>
+        <Skratka>Adr</Skratka>
+        <Jednotka>ml</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="3">
+        <Id>3</Id>
+        <Nazov>Erytrocyty</Nazov>
+        <Skratka>RBC</Skratka>
+        <Jednotka>10x12/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="4">
+        <Id>4</Id>
+        <Nazov>Kortizol v sére</Nazov>
+        <Skratka>Kortizol v sére</Skratka>
+        <Jednotka>ml</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="5">
+        <Id>5</Id>
+        <Nazov>Sodík v artérii</Nazov>
+        <Skratka>Sodík v artérii</Skratka>
+        <Jednotka>g/L</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="6">
+        <Id>6</Id>
+        <Nazov>Leukocyty</Nazov>
+        <Skratka>WBC</Skratka>
+        <Jednotka>10x9/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="7">
+        <Id>7</Id>
+        <Nazov>Hemoglobín</Nazov>
+        <Skratka>HGB</Skratka>
+        <Jednotka>g/L</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="8">
+        <Id>8</Id>
+        <Nazov>Hematokrit</Nazov>
+        <Skratka>HCT</Skratka>
+        <Jednotka></Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="9">
+        <Id>9</Id>
+        <Nazov>Trombocyty</Nazov>
+        <Skratka>PLT</Skratka>
+        <Jednotka>g/L</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="10">
+        <Id>10</Id>
+        <Nazov>Neutrofily</Nazov>
+        <Skratka>NEU</Skratka>
+        <Jednotka>%</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="11">
+        <Id>11</Id>
+        <Nazov>Absolútny počet neutrofilov</Nazov>
+        <Skratka>NEUabs</Skratka>
+        <Jednotka>10x9/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="12">
+        <Id>12</Id>
+        <Nazov>Kultivačné vyšetrenie + citlivosť výteru z tonzíl</Nazov>
+        <Skratka>VT</Skratka>
+        <Jednotka>ukat/L</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="13">
+        <Id>13</Id>
+        <Nazov>Kultivačné vyšetrenie + citlivosť výteru z nosa</Nazov>
+        <Skratka>VN</Skratka>
+        <Jednotka>ukat/L</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="14">
+        <Id>14</Id>
+        <Nazov>Bilirubín celkový v sére</Nazov>
+        <Skratka>S-BILC</Skratka>
+        <Jednotka>μmol/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="15">
+        <Id>15</Id>
+        <Nazov>GMT v sére</Nazov>
+        <Skratka>S-GMT</Skratka>
+        <Jednotka>μkat/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="16">
+        <Id>16</Id>
+        <Nazov>ALT v sére</Nazov>
+        <Skratka>S-ALT</Skratka>
+        <Jednotka>μkat/l</Jednotka>
+    </LaboratornaPolozka>
+
+
+    <LaboratornaPolozka id="17">
+        <Id>17</Id>
+        <Nazov>AST v sére</Nazov>
+        <Skratka>S-AST</Skratka>
+        <Jednotka>μkat/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="18">
+        <Id>18</Id>
+        <Nazov>ALP v sére</Nazov>
+        <Skratka>S-ALP</Skratka>
+        <Jednotka>μkat/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="19">
+        <Id>19</Id>
+        <Nazov>Laktátdehydrogenáza v sére</Nazov>
+        <Skratka>S-LD</Skratka>
+        <Jednotka>μkat/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="20">
+        <Id>20</Id>
+        <Nazov>CA 19-9 v sére</Nazov>
+        <Skratka>S-CA19-9</Skratka>
+        <Jednotka>U/ml</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="21">
+        <Id>21</Id>
+        <Nazov>Protrombínový čas % (Quick)</Nazov>
+        <Skratka>P-PT-%</Skratka>
+        <Jednotka>%</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="22">
+        <Id>22</Id>
+        <Nazov>PT 1+1 INR</Nazov>
+        <Skratka>P-PT1+1 INR</Skratka>
+        <Jednotka>INR</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="23">
+        <Id>23</Id>
+        <Nazov>Fibrinogén</Nazov>
+        <Skratka>P-FBG</Skratka>
+        <Jednotka>g/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="24">
+        <Id>24</Id>
+        <Nazov>CEA s</Nazov>
+        <Skratka>CEA s</Skratka>
+        <Jednotka>ng/ml</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="25">
+        <Id>25</Id>
+        <Nazov>Kreatinín v sére</Nazov>
+        <Skratka>S-KREA</Skratka>
+        <Jednotka>μmol/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="26">
+        <Id>26</Id>
+        <Nazov>Kyselina močová v sére</Nazov>
+        <Skratka>S-KM</Skratka>
+        <Jednotka>μmol/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="27">
+        <Id>27</Id>
+        <Nazov>Močovina v sére</Nazov>
+        <Skratka>S-UREA</Skratka>
+        <Jednotka>mmol/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="28">
+        <Id>28</Id>
+        <Nazov>Celkové bielkoviny v sére</Nazov>
+        <Skratka>S-CB</Skratka>
+        <Jednotka>g/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="29">
+        <Id>29</Id>
+        <Nazov>Albumín v sére</Nazov>
+        <Skratka>S-ALB</Skratka>
+        <Jednotka>g/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="30">
+        <Id>30</Id>
+        <Nazov>Glukóza v sére</Nazov>
+        <Skratka>S-GLU</Skratka>
+        <Jednotka>mmol/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="31">
+        <Id>31</Id>
+        <Nazov>Sodík v sére</Nazov>
+        <Skratka>S-Na</Skratka>
+        <Jednotka>mmol/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="32">
+        <Id>32</Id>
+        <Nazov>Draslík v sére</Nazov>
+        <Skratka>S-K</Skratka>
+        <Jednotka>mmol/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="33">
+        <Id>33</Id>
+        <Nazov>Chloridy v sére</Nazov>
+        <Skratka>S-Cl</Skratka>
+        <Jednotka>mmol/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="34">
+        <Id>34</Id>
+        <Nazov>Vápnik v sére</Nazov>
+        <Skratka>S-Ca</Skratka>
+        <Jednotka>mmol/l</Jednotka>
+    </LaboratornaPolozka>
+
+    <LaboratornaPolozka id="35">
+        <Id>35</Id>
+        <Nazov>Osmolalita v sére</Nazov>
+        <Skratka>S-OSMOL</Skratka>
+        <Jednotka>mmol/kg</Jednotka>
+    </LaboratornaPolozka>
+
+
+
+</LaboratornePolozky>

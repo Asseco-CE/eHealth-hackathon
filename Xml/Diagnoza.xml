@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Diagnozy>
+    <Diagnoza id="1">
+        <Nazov>Atopická dermatitída</Nazov>
+        <Kod>L20</Kod>
+        <UpresnenieDiagnozy></UpresnenieDiagnozy>
+    </Diagnoza>
+
+    <Diagnoza id="2">
+        <Nazov>Zlomenina sánky</Nazov>
+        <Kod>S02.6</Kod>
+        <UpresnenieDiagnozy></UpresnenieDiagnozy>
+    </Diagnoza>
+
+    <Diagnoza id="3">
+        <Nazov>Celkové lekárske vyšetrenie</Nazov>
+        <Kod>Z00.0</Kod>
+        <UpresnenieDiagnozy></UpresnenieDiagnozy>
+    </Diagnoza>
+
+    <Diagnoza id="4">
+        <Nazov>Migréna</Nazov>
+        <Kod>G43</Kod>
+        <UpresnenieDiagnozy></UpresnenieDiagnozy>
+    </Diagnoza>
+
+    <Diagnoza id="5">
+        <Nazov>Iné zdĺhavé choroby mandlí a adenoidného tkaniva</Nazov>
+        <Kod>J35.8</Kod>
+        <UpresnenieDiagnozy>zväčšené mandle</UpresnenieDiagnozy>
+    </Diagnoza>
+
+    <Diagnoza id="6">
+        <Nazov>Chrípka vyvolaná identifikovaným vírusom chrípky</Nazov>
+        <Kod>J10</Kod>
+        <UpresnenieDiagnozy></UpresnenieDiagnozy>
+    </Diagnoza>
+
+    <Diagnoza id="7">
+        <Nazov>Zlomenina horného konca lakťovej kosti (ulny)</Nazov>
+        <Kod>S52.0</Kod>
+        <UpresnenieDiagnozy></UpresnenieDiagnozy>
+    </Diagnoza>
+  
+  <Diagnoza id="8">
+    <Nazov>Zhubný nádor hrubého čreva - Zostupná časť</Nazov>
+    <Kod>C18.6</Kod>
+    <UpresnenieDiagnozy></UpresnenieDiagnozy>
+  </Diagnoza>
+
+  <Diagnoza id="9">
+    <Nazov>Flebitída a tromboflebitída iných hlbokých ciev dolných končatín</Nazov>
+    <Kod>I80.2</Kod>
+    <UpresnenieDiagnozy></UpresnenieDiagnozy>
+  </Diagnoza>
+
+  <Diagnoza id="10">
+    <Nazov>Nešpecifikovaná cystitída</Nazov>
+    <Kod>N30.9</Kod>
+    <UpresnenieDiagnozy></UpresnenieDiagnozy>
+  </Diagnoza>
+
+  <Diagnoza id="11">
+    <Nazov>Bližšie neurčená flebitída a tromboflebitída dolných končatín</Nazov>
+    <Kod>I80.3</Kod>
+    <UpresnenieDiagnozy></UpresnenieDiagnozy>
+  </Diagnoza>
+
+  <Diagnoza id="12">
+    <Nazov>Nešpecifikovaný akútny zápal mandlí</Nazov>
+    <Kod>J03.9</Kod>
+    <UpresnenieDiagnozy></UpresnenieDiagnozy>
+  </Diagnoza>
+
+  <Diagnoza id="13">
+    <Nazov>Streptokokový zápal mandlí</Nazov>
+    <Kod>J03.0</Kod>
+    <UpresnenieDiagnozy></UpresnenieDiagnozy>
+  </Diagnoza>
+
+  <Diagnoza id="14">
+    <Nazov>Otvorená rana prstov bez poškodenia nechtu</Nazov>
+    <Kod>S61.0</Kod>
+    <UpresnenieDiagnozy></UpresnenieDiagnozy>
+  </Diagnoza>
+
+  <Diagnoza id="15">
+    <Nazov>Alergická rinitída zavinená peľom</Nazov>
+    <Kod>J30.1</Kod>
+    <UpresnenieDiagnozy></UpresnenieDiagnozy>
+  </Diagnoza>
+
+
+</Diagnozy>

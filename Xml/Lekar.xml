@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Lekari>
+    <Lekar id="1">
+        <Nazov>MUDr. Alena Tuchyňová</Nazov>
+        <Titul id="Titul">4</Titul>
+        <Meno>Alena</Meno>
+        <Priezvisko>Tuchyňová</Priezvisko>
+        <Specializacia id="Specializacia">4</Specializacia>
+        <KodLekara>A31945020</KodLekara>
+        <Adresa1>MUDr. Alena Tuchyňová, Všeobecný lekár pre dospelých</Adresa1>
+        <Ulica>Ferdiša Kostku</Ulica>
+        <Cislo>1/A</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>alena.tuchynova@yahoo.com</Email>
+        <Telefon>0902 224 523</Telefon>
+        <KodPoskytovatela>P61438130312</KodPoskytovatela>
+    </Lekar>
+
+    <Lekar id="2">
+        <Nazov>MUDr. Pavol Mihalov</Nazov>
+        <Titul id="Titul">4</Titul>
+        <Meno>Pavol</Meno>
+        <Priezvisko>Mihalov</Priezvisko>
+        <Specializacia id="Specializacia">4</Specializacia>
+        <KodLekara>A31945020</KodLekara>
+        <Adresa1>MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých</Adresa1>
+        <Ulica>Ferdiša Kostku</Ulica>
+        <Cislo>1/A</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>pavol.mihalov@yahoo.com</Email>
+        <Telefon>0903 442 325</Telefon>
+        <KodPoskytovatela>P62437030304</KodPoskytovatela>
+    </Lekar>
+
+  <Lekar id="3">
+    <Nazov>MUDr. Jozef Jurovič</Nazov>
+    <Titul id="Titul">4</Titul>
+    <Meno>Jozef</Meno>
+    <Priezvisko>Jurovič</Priezvisko>
+    <Specializacia id="Specializacia">5</Specializacia>
+    <KodLekara>A45411225</KodLekara>
+    <Adresa1>MUDr. Jozef Jurovič, Laboratórium ALBA s.r.o.</Adresa1>
+    <Ulica>Štúrova 13</Ulica>
+    <Cislo>13</Cislo>
+    <Mesto id="Obec">8</Mesto>
+    <Psc id="Psc">6</Psc>
+    <Okres id="Okres">3</Okres>
+    <Stat id="Krajina">1</Stat>
+    <Email></Email>
+    <Telefon>0906 455 983</Telefon>
+    <KodPoskytovatela>N40547031501</KodPoskytovatela>
+  </Lekar>
+
+  <Lekar id="4">
+    <Nazov>MUDr. Ferdinand Šedivý</Nazov>
+    <Titul id="Titul">4</Titul>
+    <Meno>Ferdinand</Meno>
+    <Priezvisko>Šedivý</Priezvisko>
+    <Specializacia id="Specializacia">6</Specializacia>
+    <KodLekara>A827773010</KodLekara>
+    <Adresa1>MUDr. Ferdinand Šedivý, RL-PJ s.r.o.</Adresa1>
+    <Ulica>Ponická</Ulica>
+    <Cislo>23</Cislo>
+    <Mesto id="Obec">8</Mesto>
+    <Psc id="Psc">6</Psc>
+    <Okres id="Okres">3</Okres>
+    <Stat id="Krajina">1</Stat>
+    <Email></Email>
+    <Telefon>0906 124 444</Telefon>
+    <KodPoskytovatela>P18276010101</KodPoskytovatela>
+  </Lekar>
+
+  <Lekar id="5">
+    <Nazov>MUDr. Štefan Miko</Nazov>
+    <Titul id="Titul">4</Titul>
+    <Meno>Štefan</Meno>
+    <Priezvisko>Miko</Priezvisko>
+    <Specializacia id="Specializacia">4</Specializacia>
+    <KodLekara>A54501020</KodLekara>
+    <Adresa1>MUDr.Miko-Celet,s.r.o.</Adresa1>
+    <Ulica>Dlhá</Ulica>
+    <Cislo>46</Cislo>
+    <Mesto id="Obec">8</Mesto>
+    <Psc id="Psc">6</Psc>
+    <Okres id="Okres">3</Okres>
+    <Stat id="Krajina">1</Stat>
+    <Email></Email>
+    <Telefon>0903 447 841</Telefon>
+    <KodPoskytovatela>P72439636821</KodPoskytovatela>
+  </Lekar>
+
+  <Lekar id="6">
+    <Nazov>MUDr. Vendelín Žuchar</Nazov>
+    <Titul id="Titul">4</Titul>
+    <Meno>Vendelín</Meno>
+    <Priezvisko>Žuchar</Priezvisko>
+    <Specializacia id="Specializacia">7</Specializacia>
+    <KodLekara>A75665012</KodLekara>
+    <Adresa1>MUDr. Vendelín Žuchar, RL-PJ s.r.o.</Adresa1>
+    <Ulica>Ponická</Ulica>
+    <Cislo>23</Cislo>
+    <Mesto id="Obec">8</Mesto>
+    <Psc id="Psc">6</Psc>
+    <Okres id="Okres">3</Okres>
+    <Stat id="Krajina">1</Stat>
+    <Email></Email>
+    <Telefon>0903 144 983</Telefon>
+    <KodPoskytovatela>P39882012101</KodPoskytovatela>
+  </Lekar>
+
+  <Lekar id="7">
+    <Nazov>MUDr. Peter Záhorec</Nazov>
+    <Titul id="Titul">4</Titul>
+    <Meno>Peter</Meno>
+    <Priezvisko>Záhorec</Priezvisko>
+    <Specializacia id="Specializacia">8</Specializacia>
+    <KodLekara>A787563048</KodLekara>
+    <Adresa1>MUDr. Peter Záhorec, RL-PJ s.r.o.</Adresa1>
+    <Ulica>Ponická</Ulica>
+    <Cislo>23</Cislo>
+    <Mesto id="Obec">8</Mesto>
+    <Psc id="Psc">6</Psc>
+    <Okres id="Okres">3</Okres>
+    <Stat id="Krajina">1</Stat>
+    <Email></Email>
+    <Telefon>0903 144 983</Telefon>
+    <KodPoskytovatela>P81016048101</KodPoskytovatela>
+  </Lekar>
+
+  <Lekar id="8">
+    <Nazov>MUDr. Katarína Záhorcová</Nazov>
+    <Titul id="Titul">4</Titul>
+    <Meno>Katarína</Meno>
+    <Priezvisko>Záhorcová</Priezvisko>
+    <Specializacia id="Specializacia">8</Specializacia>
+    <KodLekara>A787139048</KodLekara>
+    <Adresa1>MUDr. Katarína Záhorcová, RL-PJ s.r.o.</Adresa1>
+    <Ulica>Ponická</Ulica>
+    <Cislo>23</Cislo>
+    <Mesto id="Obec">8</Mesto>
+    <Psc id="Psc">6</Psc>
+    <Okres id="Okres">3</Okres>
+    <Stat id="Krajina">1</Stat>
+    <Email></Email>
+    <Telefon>0903 144 983</Telefon>
+    <KodPoskytovatela>P81016048101</KodPoskytovatela>
+  </Lekar>
+
+  <Lekar id="9">
+    <Nazov>MUDr. Žofia Anderová</Nazov>
+    <Titul id="Titul">4</Titul>
+    <Meno>Katarína</Meno>
+    <Priezvisko>Záhorcová</Priezvisko>
+    <Specializacia id="Specializacia">9</Specializacia>
+    <KodLekara>A327433019</KodLekara>
+    <Adresa1>MUDr. Žofia Anderová, RL-PJ s.r.o.</Adresa1>
+    <Ulica>Ponická</Ulica>
+    <Cislo>23</Cislo>
+    <Mesto id="Obec">8</Mesto>
+    <Psc id="Psc">6</Psc>
+    <Okres id="Okres">3</Okres>
+    <Stat id="Krajina">1</Stat>
+    <Email></Email>
+    <Telefon>0911 451 741</Telefon>
+    <KodPoskytovatela>P95411019102</KodPoskytovatela>
+  </Lekar>
+
+  <Lekar id="10">
+    <Nazov>MUDr. Juraj Talár</Nazov>
+    <Titul id="Titul">4</Titul>
+    <Meno>Juraj</Meno>
+    <Priezvisko>Talár</Priezvisko>
+    <Specializacia id="Specializacia">10</Specializacia>
+    <KodLekara>A97276040</KodLekara>
+    <Adresa1>MUDr. Juraj Talár, RL-PJ s.r.o.</Adresa1>
+    <Ulica>Ponická</Ulica>
+    <Cislo>23</Cislo>
+    <Mesto id="Obec">8</Mesto>
+    <Psc id="Psc">6</Psc>
+    <Okres id="Okres">3</Okres>
+    <Stat id="Krajina">1</Stat>
+    <Email></Email>
+    <Telefon>0911 478 114</Telefon>
+    <KodPoskytovatela>R81016040101</KodPoskytovatela>
+  </Lekar>
+
+  <Lekar id="11">
+    <Nazov>MUDr. Alojz Tomáš</Nazov>
+    <Titul id="Titul">4</Titul>
+    <Meno>Alojz</Meno>
+    <Priezvisko>Tomáš</Priezvisko>
+    <Specializacia id="Specializacia">11</Specializacia>
+    <KodLekara>A97276013</KodLekara>
+    <Adresa1>MUDr. Alojz Tomáš, RL-PJ s.r.o.</Adresa1>
+    <Ulica>Ponická</Ulica>
+    <Cislo>23</Cislo>
+    <Mesto id="Obec">8</Mesto>
+    <Psc id="Psc">6</Psc>
+    <Okres id="Okres">3</Okres>
+    <Stat id="Krajina">1</Stat>
+    <Email></Email>
+    <Telefon>0911 478 114</Telefon>
+    <KodPoskytovatela>R81016040101</KodPoskytovatela>
+  </Lekar>
+
+  <Lekar id="12">
+    <Nazov>MUDr. Adela Chladná</Nazov>
+    <Titul id="Titul">4</Titul>
+    <Meno>Adela</Meno>
+    <Priezvisko>Chladná</Priezvisko>
+    <Specializacia id="Specializacia">12</Specializacia>
+    <KodLekara>A98873027</KodLekara>
+    <Adresa1>MUDr. Adela Chladná, RL-PJ s.r.o.</Adresa1>
+    <Ulica>Ponická</Ulica>
+    <Cislo>23</Cislo>
+    <Mesto id="Obec">8</Mesto>
+    <Psc id="Psc">6</Psc>
+    <Okres id="Okres">3</Okres>
+    <Stat id="Krajina">1</Stat>
+    <Email></Email>
+    <Telefon>0911 478 114</Telefon>
+    <KodPoskytovatela>R81016040101</KodPoskytovatela>
+  </Lekar>
+
+  <Lekar id="13">
+    <Nazov>MUDr. Peter Konôpka</Nazov>
+    <Titul id="Titul">4</Titul>
+    <Meno>Peter</Meno>
+    <Priezvisko>Konôpka</Priezvisko>
+    <Specializacia id="Specializacia">11</Specializacia>
+    <KodLekara>A88623013</KodLekara>
+    <Adresa1>MUDr. Peter Konôpka, NsP Malacky</Adresa1>
+    <Ulica>Nemocničná</Ulica>
+    <Cislo>1</Cislo>
+    <Mesto id="Obec">8</Mesto>
+    <Psc id="Psc">6</Psc>
+    <Okres id="Okres">3</Okres>
+    <Stat id="Krajina">1</Stat>
+    <Email></Email>
+    <Telefon></Telefon>
+    <KodPoskytovatela>R91116010101</KodPoskytovatela>
+  </Lekar>
+
+  <Lekar id="14">
+    <Nazov>MUDr. Iveta Janovcová</Nazov>
+    <Titul id="Titul">4</Titul>
+    <Meno>Iveta</Meno>
+    <Priezvisko>Janovcová</Priezvisko>
+    <Specializacia id="Specializacia">13</Specializacia>
+    <KodLekara>A21566008</KodLekara>
+    <Adresa1>PedDuo,s.r.o.</Adresa1>
+    <Ulica>Kollárova</Ulica>
+    <Cislo>45</Cislo>
+    <Mesto id="Obec">8</Mesto>
+    <Psc id="Psc">6</Psc>
+    <Okres id="Okres">3</Okres>
+    <Stat id="Krajina">1</Stat>
+    <Email></Email>
+    <Telefon></Telefon>
+    <KodPoskytovatela>P63537630417</KodPoskytovatela>
+  </Lekar>
+ 
+</Lekari>

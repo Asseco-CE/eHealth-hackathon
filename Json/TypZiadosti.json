@@ -1,0 +1,22 @@
+{
+    "TypyZiadosti": {
+        "TypZiadosti": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "Uzamknutie EZKO"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "Odomknutie EZKO"
+                ]
+            }
+        ]
+    }
+}

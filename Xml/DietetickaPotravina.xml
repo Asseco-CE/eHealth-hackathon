@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<DietetickePotraviny>
+    <DietetickaPotravina id="1">
+        <Nazov>MILUPA PKU 1 MIX</Nazov>
+        <DoplnokNazvu>plv 1x470 g</DoplnokNazvu>
+        <Kod>D0430</Kod>
+        <DoplatokPoistenca>0</DoplatokPoistenca>
+        <UhradaZP>0</UhradaZP>
+        <Forma>perorálna aplikácia</Forma>
+        <Bezlepkova>False</Bezlepkova>
+        <Popis1>MILUPA PKU 1 MIX</Popis1>
+        <Popis2>plv 1x470 g</Popis2>
+        <Popis3>20</Popis3>
+        <Popis4>Popis davkovacie schemy</Popis4>
+    </DietetickaPotravina>
+
+    <DietetickaPotravina id="2">
+        <Nazov>BEBA  A.R.</Nazov>
+        <DoplnokNazvu>plv 1x470 g</DoplnokNazvu>
+        <Kod>D0581</Kod>
+        <DoplatokPoistenca>5,66</DoplatokPoistenca>
+        <UhradaZP>0</UhradaZP>
+        <Forma>perorálna aplikácia</Forma>
+        <Bezlepkova>True</Bezlepkova>
+    </DietetickaPotravina>
+
+    <DietetickaPotravina id="3">
+        <Nazov>ENSURE PLUS, jahodová príchuť</Nazov>
+        <DoplnokNazvu>plv 1x470 g</DoplnokNazvu>
+        <Kod>D0463</Kod>
+        <DoplatokPoistenca>0,04</DoplatokPoistenca>
+        <UhradaZP>0</UhradaZP>
+        <Forma>roztok</Forma>
+        <Bezlepkova>True</Bezlepkova>
+    </DietetickaPotravina>
+
+    <DietetickaPotravina id="4">
+        <Nazov>KETOCAL – vanilka</Nazov>
+        <DoplnokNazvu>plv 1x300 g</DoplnokNazvu>
+        <Kod>D0198</Kod>
+        <DoplatokPoistenca>1,17</DoplatokPoistenca>
+        <UhradaZP>0</UhradaZP>
+        <Forma>Zmes na vnútorné užitie</Forma>
+        <Bezlepkova>False</Bezlepkova>
+    </DietetickaPotravina>
+
+    <DietetickaPotravina id="5">
+        <Nazov>Pain Campagnard - bezlepkový domáci chlieb</Nazov>
+        <DoplnokNazvu>1x240 g</DoplnokNazvu>
+        <Kod>D0479</Kod>
+        <DoplatokPoistenca>2,37</DoplatokPoistenca>
+        <UhradaZP>0</UhradaZP>
+        <Forma>Zmes na vnútorné užitie</Forma>
+        <Bezlepkova>True</Bezlepkova>
+    </DietetickaPotravina>
+
+    <DietetickaPotravina id="6">
+        <Nazov>PEPTAMEN VANILLA</Nazov>
+        <DoplnokNazvu>plv 1x430 g</DoplnokNazvu>
+        <Kod>D0242</Kod>
+        <DoplatokPoistenca>0</DoplatokPoistenca>
+        <UhradaZP>0</UhradaZP>
+        <Forma>prášok</Forma>
+        <Bezlepkova>False</Bezlepkova>
+    </DietetickaPotravina>
+
+    <DietetickaPotravina id="7">
+        <Nazov>Bezgluténové müsli</Nazov>
+        <DoplnokNazvu>1x375 g</DoplnokNazvu>
+        <Kod>D0289</Kod>
+        <DoplatokPoistenca>3,83</DoplatokPoistenca>
+        <UhradaZP>0</UhradaZP>
+        <Forma>perorálna aplikácia</Forma>
+        <Bezlepkova>True</Bezlepkova>
+    </DietetickaPotravina>
+</DietetickePotraviny>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TypyPrehliadok>
+    <TypPrehliadky id="1">
+        <Nazov>Preventívna prehliadka pre deti a dorast</Nazov>
+    </TypPrehliadky>
+
+    <TypPrehliadky id="2">
+        <Nazov>Preventívna starostlivosť o dorast a dospelých</Nazov>
+    </TypPrehliadky>
+
+    <TypPrehliadky id="3">
+        <Nazov>Gynekologická preventívna prehliadka</Nazov>
+    </TypPrehliadky>
+
+    <TypPrehliadky id="4">
+        <Nazov>Preventívna starostlivosť v materstve</Nazov>
+    </TypPrehliadky>
+
+    <TypPrehliadky id="5">
+        <Nazov>Urologická preventívna prehliadka</Nazov>
+    </TypPrehliadky>
+
+    <TypPrehliadky id="6">
+        <Nazov>Stomatologická preventívna prehliadka</Nazov>
+    </TypPrehliadky>
+
+    <TypPrehliadky id="7">
+        <Nazov>Preventívna stomatologická prehliadka pre deti</Nazov>
+    </TypPrehliadky>
+
+    <TypPrehliadky id="8">
+        <Nazov>Plánovaná prehliadka u špecialistu (dispenzarizácia)</Nazov>
+    </TypPrehliadky>
+
+    <TypPrehliadky id="9">
+        <Nazov>Plánovaná prehliadka iná</Nazov>
+    </TypPrehliadky>
+
+    <TypPrehliadky id="10">
+        <Nazov>Preventívne očkovanie nepovinné</Nazov>
+    </TypPrehliadky>
+</TypyPrehliadok>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Okresy>
+    <Okres id="1">
+        <Nazov>Poltár</Nazov>
+    </Okres>
+
+    <Okres id="2">
+        <Nazov>Banská Bystrica</Nazov>
+    </Okres>
+
+    <Okres id="3">
+        <Nazov>Malacky</Nazov>
+    </Okres>
+
+  <Okres id="4">
+    <Nazov>Trenčín</Nazov>
+  </Okres>
+</Okresy>

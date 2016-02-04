@@ -1,0 +1,28 @@
+{
+    "Krajiny": {
+        "Krajina": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "Slovensko"
+                ],
+                "KratkyNazov": [
+                    "SK"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "Česko"
+                ],
+                "KratkyNazov": [
+                    "CZ"
+                ]
+            }
+        ]
+    }
+}

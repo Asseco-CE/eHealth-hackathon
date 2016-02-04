@@ -1,0 +1,186 @@
+{
+    "TypyPristupuKStrankeCm": {
+        "TypPristupuKStrankeCm": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "Doplňujúce informácie"
+                ],
+                "KodStranky": [
+                    "PHR"
+                ],
+                "Popis": [
+                    "Poskytovanie doplňujúcich informácií, ktoré o zdravotnom stave zadal pacient."
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "Laboratórna žiadanka"
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "Nazov": [
+                    "Laboratórne výsledky"
+                ],
+                "KodStranky": [
+                    "LAB"
+                ],
+                "Popis": [
+                    "Poskytovanie výsledkov laboratórnych testov"
+                ]
+            },
+            {
+                "id": [
+                    "4"
+                ],
+                "Nazov": [
+                    "Laboratórne výsledky pre žiadateľa"
+                ]
+            },
+            {
+                "id": [
+                    "5"
+                ],
+                "Nazov": [
+                    "Liečebné prostriedky na recept"
+                ],
+                "KodStranky": [
+                    "REC"
+                ],
+                "Popis": [
+                    "Poskytovanie informácií o receptoch."
+                ]
+            },
+            {
+                "id": [
+                    "6"
+                ],
+                "Nazov": [
+                    "Notifikácie"
+                ]
+            },
+            {
+                "id": [
+                    "7"
+                ],
+                "Nazov": [
+                    "Očkovací preukaz"
+                ],
+                "KodStranky": [
+                    "OPP"
+                ],
+                "Popis": [
+                    "Poskytovanie informácií z očkovacieho preukazu, ktorý obsahuje vykonané, zrušené a plánované očkovania."
+                ]
+            },
+            {
+                "id": [
+                    "8"
+                ],
+                "Nazov": [
+                    "Osobné a administratívne údaje"
+                ],
+                "KodStranky": [
+                    "OAU"
+                ],
+                "Popis": [
+                    "Poskytovanie osobných a administratívnych údajov ako sú trvalá adresa, informácie o poistení, kontaktné údaje a ICE osoby"
+                ]
+            },
+            {
+                "id": [
+                    "9"
+                ],
+                "Nazov": [
+                    "Osobný účet poistenca"
+                ],
+                "KodStranky": [
+                    "OUP"
+                ],
+                "Popis": [
+                    "Poskytovanie informácií z osobného účetu poistenca, ktoré sú prenášané zo zdravotnej poisťovne (vykázané výkony PZS, lieky a zdravotné pomôcky)."
+                ]
+            },
+            {
+                "id": [
+                    "10"
+                ],
+                "Nazov": [
+                    "Pacientsky sumár"
+                ],
+                "KodStranky": [
+                    "PSU"
+                ],
+                "Popis": [
+                    "Poskytovanie pacientskeho sumáru, ktorý obsahuje prehľadný základný pohľad na zdravtoný stav pacienta."
+                ]
+            },
+            {
+                "id": [
+                    "11"
+                ],
+                "Nazov": [
+                    "Preventívne prehliadky"
+                ]
+            },
+            {
+                "id": [
+                    "12"
+                ],
+                "Nazov": [
+                    "Užívané lieky, zdravotnícke pomôcky, dietetické potraviny a individuálne pripravované lieky"
+                ],
+                "KodStranky": [
+                    "LIEK"
+                ],
+                "Popis": [
+                    "Poskytovanie informácií o užívaných liekov, zdravotníckych pomôckach, dietetických potravinách a individuálne pripravovaných liekoch"
+                ]
+            },
+            {
+                "id": [
+                    "13"
+                ],
+                "Nazov": [
+                    "Užívané voľnopredajné lieky"
+                ],
+                "KodStranky": [
+                    "UVLIEK"
+                ],
+                "Popis": [
+                    "Poskytovanie informácií o užívaných voľnopredajných liekoch, ktoré zadal pacient."
+                ]
+            },
+            {
+                "id": [
+                    "14"
+                ],
+                "Nazov": [
+                    "Vyšetrenia"
+                ],
+                "KodStranky": [
+                    "VVP"
+                ],
+                "Popis": [
+                    "Poskytovanie informácií o lekárskych správach - nálezoch."
+                ]
+            },
+            {
+                "id": [
+                    "15"
+                ],
+                "Nazov": [
+                    "Vyšetrenia pre žiadateľa"
+                ]
+            }
+        ]
+    }
+}

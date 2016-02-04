@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<SumarneInfo>
+    <Sumar id="00000000018">
+        <PorodnickaAnamnezaPredpokladanyDatumPorodu></PorodnickaAnamnezaPredpokladanyDatumPorodu>
+        <PorodnickaAnamnezaSposobUrceniaTerminuPorodu></PorodnickaAnamnezaSposobUrceniaTerminuPorodu>
+        <PorodnickaAnamnezaPoznamka></PorodnickaAnamnezaPoznamka>
+        <VysetreniaKrvnaSkupina>Krvná skupina 0</VysetreniaKrvnaSkupina>
+        <VysetreniaDatumVysetrenia>2005-08-19T00:00:00</VysetreniaDatumVysetrenia>
+        <VysetreniaPoznamka>Anti-er protilátky nevyšetrené</VysetreniaPoznamka>
+    </Sumar>
+
+    <Sumar id="00000000026">
+        <PorodnickaAnamnezaPredpokladanyDatumPorodu></PorodnickaAnamnezaPredpokladanyDatumPorodu>
+        <PorodnickaAnamnezaSposobUrceniaTerminuPorodu></PorodnickaAnamnezaSposobUrceniaTerminuPorodu>
+        <PorodnickaAnamnezaPoznamka></PorodnickaAnamnezaPoznamka>
+        <VysetreniaKrvnaSkupina>Krvná skupina AB</VysetreniaKrvnaSkupina>
+        <VysetreniaDatumVysetrenia>2004-11-03T00:00:00</VysetreniaDatumVysetrenia>
+        <VysetreniaPoznamka></VysetreniaPoznamka>
+    </Sumar>
+</SumarneInfo>

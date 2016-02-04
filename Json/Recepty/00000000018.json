@@ -1,0 +1,1242 @@
+{
+    "Recepty": {
+        "Recept": [
+            {
+                "id": [
+                    "1"
+                ],
+                "DatumVystavenia": [
+                    "2014-05-08T16:42:11"
+                ],
+                "PlatnostDo": [
+                    "2014-05-15T23:59:59"
+                ],
+                "ViacnasobnyRecept": [
+                    "false"
+                ],
+                "Blokovany": [
+                    "false"
+                ],
+                "Zneplatneny": [
+                    "false"
+                ],
+                "Stornovany": [
+                    "false"
+                ],
+                "DovodBloku": [
+                    ""
+                ],
+                "DovodZneplatnenia": [
+                    ""
+                ],
+                "DovodStorna": [
+                    ""
+                ],
+                "DatumZneplatnenia": [
+                    ""
+                ],
+                "DatumStorna": [
+                    ""
+                ],
+                "Zneplatnil": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "ZdravPoistovna": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ]
+                    }
+                ],
+                "ZdravPoistovnaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "PredpisLekarId": [
+                    "13"
+                ],
+                "PredpisLekar": [
+                    {
+                        "_": "13",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "PredpisLekarSpec": [
+                    {
+                        "_": "11",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "PredpisLiek": [
+                    {
+                        "_": "13",
+                        "customId": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "PredpisLiekId": [
+                    "13"
+                ],
+                "PredpisLiekData1": [
+                    {
+                        "_": "13",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis1"
+                        ]
+                    }
+                ],
+                "PredpisLiekData2": [
+                    {
+                        "_": "13",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis2"
+                        ]
+                    }
+                ],
+                "PredpisLiekData3": [
+                    {
+                        "_": "13",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis3"
+                        ]
+                    }
+                ],
+                "PredpisLiekData4": [
+                    {
+                        "_": "13",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis4"
+                        ]
+                    }
+                ],
+                "ReceptDiagnoza": [
+                    {
+                        "_": "14",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "ReceptDiagnozaKod": [
+                    {
+                        "_": "14",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "CelkoveMnozstvo": [
+                    "1"
+                ],
+                "SpravaLekara": [
+                    ""
+                ],
+                "OdporucajuciLekar": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "SchvalenyRevLekar": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "SchvalenyRevLekarDatum": [
+                    ""
+                ],
+                "VydanyLiek": [
+                    {
+                        "_": "1",
+                        "customId": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "VydanyLiekId": [
+                    "1"
+                ],
+                "VydanyLiekMedikaciaId": [
+                    "1"
+                ],
+                "VydanyLiekTyp": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "TypLieku"
+                        ]
+                    }
+                ],
+                "VydanyLiekData1": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis1"
+                        ]
+                    }
+                ],
+                "VydanyLiekData2": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis2"
+                        ]
+                    }
+                ],
+                "VydanyLiekData3": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis3"
+                        ]
+                    }
+                ],
+                "VydanyLiekData4": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis4"
+                        ]
+                    }
+                ],
+                "VydanyLiekCelkoveMnozstvo": [
+                    "1"
+                ],
+                "VydanyLiekPocetDniUzivania": [
+                    "7"
+                ],
+                "VydanyLiekSpravaLekarnika": [
+                    ""
+                ],
+                "VydanyLiekVydal": [
+                    "Lekáreň Štiavničky"
+                ],
+                "VydanyLiekVydalDatum": [
+                    "2014-05-10T12:21:31"
+                ],
+                "VydanyLiekZdravPoistovna": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ]
+                    }
+                ],
+                "VydanyLiekZdravPoistovnaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "VydanyLiekDoplatok": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "DoplatokPoistenca"
+                        ]
+                    }
+                ],
+                "VydanyLiekUhradaZp": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "UhradaZP"
+                        ]
+                    }
+                ],
+                "VydanyLiekSplnomocnenecMeno": [
+                    {
+                        "id": [
+                            "Patients"
+                        ],
+                        "elementName": [
+                            "KrstneMeno"
+                        ]
+                    }
+                ],
+                "VydanyLiekSplnomocnenecPriezvisko": [
+                    {
+                        "id": [
+                            "Patients"
+                        ],
+                        "elementName": [
+                            "Priezvisko"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "DatumVystavenia": [
+                    "2013-11-16T16:36:14"
+                ],
+                "PlatnostDo": [
+                    "2013-11-23T23:59:59"
+                ],
+                "ViacnasobnyRecept": [
+                    "false"
+                ],
+                "Blokovany": [
+                    "false"
+                ],
+                "Zneplatneny": [
+                    "false"
+                ],
+                "Stornovany": [
+                    "false"
+                ],
+                "DovodBloku": [
+                    ""
+                ],
+                "DovodZneplatnenia": [
+                    ""
+                ],
+                "DovodStorna": [
+                    ""
+                ],
+                "DatumZneplatnenia": [
+                    ""
+                ],
+                "DatumStorna": [
+                    ""
+                ],
+                "Zneplatnil": [
+                    ""
+                ],
+                "Stornoval": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "ZdravPoistovna": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ]
+                    }
+                ],
+                "ZdravPoistovnaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "PredpisLekarId": [
+                    "11"
+                ],
+                "PredpisLekar": [
+                    {
+                        "_": "11",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "PredpisLekarSpec": [
+                    {
+                        "_": "11",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "PredpisLiek": [
+                    {
+                        "_": "15",
+                        "customId": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "PredpisLiekId": [
+                    "15"
+                ],
+                "PredpisLiekData1": [
+                    {
+                        "_": "15",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis1"
+                        ]
+                    }
+                ],
+                "PredpisLiekData2": [
+                    {
+                        "_": "15",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis2"
+                        ]
+                    }
+                ],
+                "PredpisLiekData3": [
+                    {
+                        "_": "15",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis3"
+                        ]
+                    }
+                ],
+                "PredpisLiekData4": [
+                    {
+                        "_": "15",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis4"
+                        ]
+                    }
+                ],
+                "ReceptDiagnoza": [
+                    {
+                        "_": "7",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "ReceptDiagnozaKod": [
+                    {
+                        "_": "7",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "CelkoveMnozstvo": [
+                    "1"
+                ],
+                "SpravaLekara": [
+                    ""
+                ],
+                "OdporucajuciLekar": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "SchvalenyRevLekar": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "SchvalenyRevLekarDatum": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "DatumVystavenia": [
+                    "2013-08-19T07:48:06"
+                ],
+                "PlatnostDo": [
+                    "2013-08-26T23:59:59"
+                ],
+                "ViacnasobnyRecept": [
+                    "false"
+                ],
+                "Blokovany": [
+                    "false"
+                ],
+                "Zneplatneny": [
+                    "false"
+                ],
+                "Stornovany": [
+                    "false"
+                ],
+                "DovodBloku": [
+                    ""
+                ],
+                "DovodZneplatnenia": [
+                    ""
+                ],
+                "DovodStorna": [
+                    ""
+                ],
+                "DatumZneplatnenia": [
+                    ""
+                ],
+                "DatumStorna": [
+                    ""
+                ],
+                "Zneplatnil": [
+                    ""
+                ],
+                "Stornoval": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "ZdravPoistovna": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ]
+                    }
+                ],
+                "ZdravPoistovnaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "PredpisLekarId": [
+                    "10"
+                ],
+                "PredpisLekar": [
+                    {
+                        "_": "10",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "PredpisLekarSpec": [
+                    {
+                        "_": "10",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "PredpisLiek": [
+                    {
+                        "_": "1",
+                        "customId": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "PredpisLiekId": [
+                    "1"
+                ],
+                "PredpisLiekData1": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis1"
+                        ]
+                    }
+                ],
+                "PredpisLiekData2": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis2"
+                        ]
+                    }
+                ],
+                "PredpisLiekData3": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis3"
+                        ]
+                    }
+                ],
+                "PredpisLiekData4": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis4"
+                        ]
+                    }
+                ],
+                "ReceptDiagnoza": [
+                    {
+                        "_": "15",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "ReceptDiagnozaKod": [
+                    {
+                        "_": "15",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "CelkoveMnozstvo": [
+                    "1"
+                ],
+                "SpravaLekara": [
+                    ""
+                ],
+                "OdporucajuciLekar": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "SchvalenyRevLekar": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "SchvalenyRevLekarDatum": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "4"
+                ],
+                "DatumVystavenia": [
+                    "2012-09-08T08:42:23"
+                ],
+                "PlatnostDo": [
+                    "2012-09-15T23:59:59"
+                ],
+                "ViacnasobnyRecept": [
+                    "false"
+                ],
+                "Blokovany": [
+                    "false"
+                ],
+                "Zneplatneny": [
+                    "false"
+                ],
+                "Stornovany": [
+                    "false"
+                ],
+                "DovodBloku": [
+                    ""
+                ],
+                "DovodZneplatnenia": [
+                    ""
+                ],
+                "DovodStorna": [
+                    ""
+                ],
+                "DatumZneplatnenia": [
+                    ""
+                ],
+                "DatumStorna": [
+                    ""
+                ],
+                "Zneplatnil": [
+                    ""
+                ],
+                "Stornoval": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "ZdravPoistovna": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ]
+                    }
+                ],
+                "ZdravPoistovnaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "PredpisLekarId": [
+                    "10"
+                ],
+                "PredpisLekar": [
+                    {
+                        "_": "10",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "PredpisLekarSpec": [
+                    {
+                        "_": "10",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "PredpisLiek": [
+                    {
+                        "_": "17",
+                        "customId": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "PredpisLiekId": [
+                    "17"
+                ],
+                "PredpisLiekData1": [
+                    {
+                        "_": "17",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis1"
+                        ]
+                    }
+                ],
+                "PredpisLiekData2": [
+                    {
+                        "_": "17",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis2"
+                        ]
+                    }
+                ],
+                "PredpisLiekData3": [
+                    {
+                        "_": "17",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis3"
+                        ]
+                    }
+                ],
+                "PredpisLiekData4": [
+                    {
+                        "_": "17",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis4"
+                        ]
+                    }
+                ],
+                "ReceptDiagnoza": [
+                    {
+                        "_": "15",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "ReceptDiagnozaKod": [
+                    {
+                        "_": "15",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "CelkoveMnozstvo": [
+                    "1"
+                ],
+                "SpravaLekara": [
+                    ""
+                ],
+                "OdporucajuciLekar": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "SchvalenyRevLekar": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "SchvalenyRevLekarDatum": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "5"
+                ],
+                "DatumVystavenia": [
+                    "2012-09-08T08:42:06"
+                ],
+                "PlatnostDo": [
+                    "2012-09-15T23:59:59"
+                ],
+                "ViacnasobnyRecept": [
+                    "false"
+                ],
+                "Blokovany": [
+                    "false"
+                ],
+                "Zneplatneny": [
+                    "false"
+                ],
+                "Stornovany": [
+                    "false"
+                ],
+                "DovodBloku": [
+                    ""
+                ],
+                "DovodZneplatnenia": [
+                    ""
+                ],
+                "DovodStorna": [
+                    ""
+                ],
+                "DatumZneplatnenia": [
+                    ""
+                ],
+                "DatumStorna": [
+                    ""
+                ],
+                "Zneplatnil": [
+                    ""
+                ],
+                "Stornoval": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "ZdravPoistovna": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ]
+                    }
+                ],
+                "ZdravPoistovnaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "PredpisLekarId": [
+                    "10"
+                ],
+                "PredpisLekar": [
+                    {
+                        "_": "10",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "PredpisLekarSpec": [
+                    {
+                        "_": "10",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "PredpisLiek": [
+                    {
+                        "_": "16",
+                        "customId": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "PredpisLiekId": [
+                    "16"
+                ],
+                "PredpisLiekData1": [
+                    {
+                        "_": "16",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis1"
+                        ]
+                    }
+                ],
+                "PredpisLiekData2": [
+                    {
+                        "_": "16",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis2"
+                        ]
+                    }
+                ],
+                "PredpisLiekData3": [
+                    {
+                        "_": "16",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis3"
+                        ]
+                    }
+                ],
+                "PredpisLiekData4": [
+                    {
+                        "_": "16",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis4"
+                        ]
+                    }
+                ],
+                "ReceptDiagnoza": [
+                    {
+                        "_": "15",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "ReceptDiagnozaKod": [
+                    {
+                        "_": "15",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "CelkoveMnozstvo": [
+                    "1"
+                ],
+                "SpravaLekara": [
+                    ""
+                ],
+                "OdporucajuciLekar": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "SchvalenyRevLekar": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "SchvalenyRevLekarDatum": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "6"
+                ],
+                "DatumVystavenia": [
+                    "2012-05-04T08:31:55"
+                ],
+                "PlatnostDo": [
+                    "2012-05-26T23:59:59"
+                ],
+                "ViacnasobnyRecept": [
+                    "false"
+                ],
+                "Blokovany": [
+                    "false"
+                ],
+                "Zneplatneny": [
+                    "false"
+                ],
+                "Stornovany": [
+                    "false"
+                ],
+                "DovodBloku": [
+                    ""
+                ],
+                "DovodZneplatnenia": [
+                    ""
+                ],
+                "DovodStorna": [
+                    ""
+                ],
+                "DatumZneplatnenia": [
+                    ""
+                ],
+                "DatumStorna": [
+                    ""
+                ],
+                "Zneplatnil": [
+                    ""
+                ],
+                "Stornoval": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "ZdravPoistovna": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ]
+                    }
+                ],
+                "ZdravPoistovnaKod": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "ZdravotnaPoistovna"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "PredpisLekarId": [
+                    "10"
+                ],
+                "PredpisLekar": [
+                    {
+                        "_": "10",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "PredpisLekarSpec": [
+                    {
+                        "_": "10",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "PredpisLiek": [
+                    {
+                        "_": "1",
+                        "customId": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "PredpisLiekId": [
+                    "1"
+                ],
+                "PredpisLiekData1": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis1"
+                        ]
+                    }
+                ],
+                "PredpisLiekData2": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis2"
+                        ]
+                    }
+                ],
+                "PredpisLiekData3": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis3"
+                        ]
+                    }
+                ],
+                "PredpisLiekData4": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Popis4"
+                        ]
+                    }
+                ],
+                "ReceptDiagnoza": [
+                    {
+                        "_": "15",
+                        "id": [
+                            "Diagnoza"
+                        ]
+                    }
+                ],
+                "ReceptDiagnozaKod": [
+                    {
+                        "_": "15",
+                        "id": [
+                            "Diagnoza"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "CelkoveMnozstvo": [
+                    "1"
+                ],
+                "SpravaLekara": [
+                    ""
+                ],
+                "OdporucajuciLekar": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "SchvalenyRevLekar": [
+                    {
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "SchvalenyRevLekarDatum": [
+                    ""
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "SumarZdravProbZdravotneObmedzenia": {
+        "SumarZdravProbZdravotneObmedzenie": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Popis": [
+                    "Popis zdravotného obmedzenia B"
+                ],
+                "Poznamka": [
+                    "Poznámka k zdravotnému obmedzeniu"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "Zneplatneny": [
+                    "False"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Popis": [
+                    "Popis zdravotného obmedzenia B"
+                ],
+                "Poznamka": [
+                    "Poznámka k zdravotnému obmedzeniu"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "Zneplatneny": [
+                    "False"
+                ]
+            }
+        ]
+    }
+}

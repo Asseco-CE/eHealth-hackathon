@@ -1,0 +1,2440 @@
+{
+    "OckovaniaVykonane": {
+        "OckovanieVykonane": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Druh": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    ""
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "2013-05-14T09:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty "
+                ],
+                "PlanovanyDatumOckovania": [
+                    ""
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    "4"
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    "458-84"
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    "1.00 ml"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Druh": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    ""
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "2006-09-02T09:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty "
+                ],
+                "PlanovanyDatumOckovania": [
+                    ""
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    "4"
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    ""
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    "1.00 ml"
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "Druh": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "2 / 2"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "2005-09-27T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "2005-09-27T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    "12"
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "_": "12",
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "_": "12",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    ""
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "4"
+                ],
+                "Druh": [
+                    {
+                        "_": "7",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "3 / 3"
+                ],
+                "PoslednaDavka": [
+                    "True"
+                ],
+                "Datum": [
+                    "2004-04-23T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "2004-04-23T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    "11"
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "_": "11",
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "_": "11",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    ""
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "5"
+                ],
+                "Druh": [
+                    {
+                        "_": "7",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "2 / 3"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "2003-08-18T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "2003-08-18T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    "11"
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "_": "11",
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "_": "11",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    ""
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "6"
+                ],
+                "Druh": [
+                    {
+                        "_": "7",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "1 / 3"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "2003-07-21T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "2003-07-21T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    "11"
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "_": "11",
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "_": "11",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    ""
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "7"
+                ],
+                "Druh": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "4 / 4"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "2001-08-30T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "2001-07-16T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    ""
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "8"
+                ],
+                "Druh": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "4 / 4"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "2001-08-30T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "2001-07-16T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    ""
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "9"
+                ],
+                "Druh": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "4 / 4"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "2001-08-30T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "2001-07-16T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    ""
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "10"
+                ],
+                "Druh": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "3 / 3"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "1997-08-25T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "1995-07-05T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    "05-0596"
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "11"
+                ],
+                "Druh": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "3 / 3"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "1997-08-25T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "1995-07-05T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    "05-0596"
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "12"
+                ],
+                "Druh": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "3 / 3"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "1997-08-25T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "1995-07-05T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    "05-0596"
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "13"
+                ],
+                "Druh": [
+                    {
+                        "_": "5",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "1 / 1"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "1996-07-09T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "1996-07-09T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    ""
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "14"
+                ],
+                "Druh": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "2 / 2"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "1995-11-27T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "1995-11-27T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    "10"
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "_": "10",
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "_": "10",
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    "20369"
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "15"
+                ],
+                "Druh": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "2 / 2"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "1995-07-05T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "1995-07-05T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    "03-0699"
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "16"
+                ],
+                "Druh": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "2 / 2"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "1995-07-05T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "1995-07-05T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    "03-0699"
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "17"
+                ],
+                "Druh": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "2 / 2"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "1995-07-05T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "1995-07-05T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    "03-0699"
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "18"
+                ],
+                "Druh": [
+                    {
+                        "_": "5",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "1 / 1"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "1994-12-13T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "1994-12-13T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    ""
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "19"
+                ],
+                "Druh": [
+                    {
+                        "_": "4",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "1 / 1"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "1994-12-12T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "1994-12-12T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    "03-0393"
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "20"
+                ],
+                "Druh": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "1 / 1"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "1994-12-12T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "1994-12-12T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    "03-0393"
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "21"
+                ],
+                "Druh": [
+                    {
+                        "_": "6",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "1 / 1"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "1994-12-12T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "1994-12-12T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    "03-0393"
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            },
+            {
+                "id": [
+                    "22"
+                ],
+                "Druh": [
+                    {
+                        "_": "5",
+                        "id": [
+                            "DruhOckovania"
+                        ]
+                    }
+                ],
+                "Typ": [
+                    {
+                        "_": "1",
+                        "id": [
+                            "TypOckovania"
+                        ]
+                    }
+                ],
+                "PoradieDavky": [
+                    "1 / 1"
+                ],
+                "PoslednaDavka": [
+                    "False"
+                ],
+                "Datum": [
+                    "1994-08-17T10:00:00"
+                ],
+                "PritomnostReakciePoznamky": [
+                    "False"
+                ],
+                "Poznamka": [
+                    "Pacient je zdravý, bez zvýšenej teploty"
+                ],
+                "PlanovanyDatumOckovania": [
+                    "1994-08-17T10:00:00"
+                ],
+                "ZruseneOckovanie": [
+                    "False"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "DatumStornovania": [
+                    ""
+                ],
+                "Stornoval": [
+                    ""
+                ],
+                "DovodZrusenia": [
+                    ""
+                ],
+                "VykonalLekarMeno": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ]
+                    }
+                ],
+                "VykonalLekarSpecializacia": [
+                    {
+                        "_": "3",
+                        "id": [
+                            "Specializacia"
+                        ]
+                    }
+                ],
+                "VykonalLekarPoskytovatel": [
+                    {
+                        "_": "2",
+                        "id": [
+                            "Lekar"
+                        ],
+                        "elementName": [
+                            "Adresa1"
+                        ]
+                    }
+                ],
+                "OckovaciaLatka": [
+                    ""
+                ],
+                "OckovaciaLatkaNazov": [
+                    {
+                        "id": [
+                            "Liek"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSukl": [
+                    {
+                        "id": [
+                            "Liek"
+                        ],
+                        "elementName": [
+                            "Kod"
+                        ]
+                    }
+                ],
+                "OckovaciaLatkaSarza": [
+                    "2340 11B"
+                ],
+                "OckovaciaLatkaPoznamka": [
+                    ""
+                ],
+                "OckovaciaLatkaMnozstvo": [
+                    ""
+                ]
+            }
+        ]
+    }
+}

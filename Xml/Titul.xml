@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Tituly>
+    <Titul id="1">
+        <Nazov>Ing.</Nazov>
+    </Titul>
+
+    <Titul id="2">
+        <Nazov>Mgr.</Nazov>
+    </Titul>
+
+    <Titul id="3">
+        <Nazov>Bc.</Nazov>
+    </Titul>
+    
+    <Titul id="4">
+        <Nazov>Mudr.</Nazov>
+    </Titul>
+</Tituly>

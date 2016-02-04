@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ZdravotnePoistovne>
+    <ZdravotnaPoistovna id="1">
+        <Nazov>Všeobecná zdravotná poisťovňa, a.s.</Nazov>
+        <Kod>2500</Kod>
+    </ZdravotnaPoistovna>
+
+    <ZdravotnaPoistovna id="2">
+        <Nazov>Union zdravotná poisťovňa, a. s.</Nazov>
+        <Kod>2600</Kod>
+    </ZdravotnaPoistovna>
+</ZdravotnePoistovne>

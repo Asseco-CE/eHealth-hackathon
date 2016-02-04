@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<RodinneStavy>
+    <RodinnyStav id="1">
+        <Nazov>Slobodný/slobodná</Nazov>
+    </RodinnyStav>
+
+    <RodinnyStav id="2">
+        <Nazov>Ženatý/vydatá</Nazov>
+    </RodinnyStav>
+</RodinneStavy>

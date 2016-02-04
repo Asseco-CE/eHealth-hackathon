@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<TypySprav>
+    <TypSpravy id="1">
+        <Nazov>Zobrazovacie vyšetrenie</Nazov>
+        <EnumName>ZobrazovacieVysetrenie</EnumName>
+    </TypSpravy>
+
+    <TypSpravy id="2">
+        <Nazov>Odborné vyšetrenie</Nazov>
+        <EnumName>OdborneVysetrenie</EnumName>
+    </TypSpravy>
+
+    <TypSpravy id="3">
+        <Nazov>Lekárska prepúšťacia správa</Nazov>
+        <EnumName>LekarskaPrepustaciaSprava</EnumName>
+    </TypSpravy>
+</TypySprav>

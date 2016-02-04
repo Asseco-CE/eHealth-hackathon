@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Krajiny>
+    <Krajina id="1">
+        <Nazov>Slovensko</Nazov>
+        <KratkyNazov>SK</KratkyNazov>
+    </Krajina>
+
+    <Krajina id="2">
+        <Nazov>Česko</Nazov>
+        <KratkyNazov>CZ</KratkyNazov>
+    </Krajina>
+</Krajiny>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<OUPUstavnaZSZoznam>
+    <OUPUstavnaZS id="1">
+        <ObdobieHospitalizacie>2013-08-01T10:00:00</ObdobieHospitalizacie>
+        <DatumNastupu>2013-08-01T10:00:00</DatumNastupu>
+        <DatumPrepustenia>2013-08-08T10:00:00</DatumPrepustenia>
+        <TypVykonu>O</TypVykonu>
+        <NazovTypuVykonu>Operačný výkon</NazovTypuVykonu>
+        <TypHospitalizacie>Neodkladná hospitalizácia</TypHospitalizacie>
+        <Pocet>1</Pocet>
+        <OsetrujuciLekarId>1</OsetrujuciLekarId>
+        <OsetrujuciLekarKodPZS id="Lekar" elementName="KodPoskytovatela">1</OsetrujuciLekarKodPZS>
+        <OsetrujuciLekar id="Lekar">1</OsetrujuciLekar>
+        <OdporucajuciLekarId>2</OdporucajuciLekarId>
+        <OdporucajuciLekarKodPZS id="Lekar" elementName="KodPoskytovatela">2</OdporucajuciLekarKodPZS>
+        <OdporucajuciLekar id="Lekar">2</OdporucajuciLekar>
+
+        <!-- Detail -->
+        <KodDiagnozyPriPrijati id="Diagnoza" elementName="Kod">1</KodDiagnozyPriPrijati>
+        <NazovDiagnozyPriPrijati id="Diagnoza">1</NazovDiagnozyPriPrijati>
+        <KodDiagnozyPriPrepusteni id="Diagnoza" elementName="Kod">2</KodDiagnozyPriPrepusteni>
+        <NazovDiagnozyPriPrepusteni id="Diagnoza">2</NazovDiagnozyPriPrepusteni>
+        <PripocitatelnePolozky>E00100</PripocitatelnePolozky>
+        <PripocitatelnePolozkyMnozstvo>1</PripocitatelnePolozkyMnozstvo>
+    </OUPUstavnaZS>
+</OUPUstavnaZSZoznam>
+

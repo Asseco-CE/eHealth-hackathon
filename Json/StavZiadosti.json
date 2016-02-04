@@ -1,0 +1,30 @@
+{
+    "StavyZiadosti": {
+        "StavZiadosti": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "Aktivovaná"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "Stornovaná"
+                ]
+            },
+            {
+                "id": [
+                    "3"
+                ],
+                "Nazov": [
+                    "Zaevidovaná"
+                ]
+            }
+        ]
+    }
+}

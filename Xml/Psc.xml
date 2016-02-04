@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<PostoveSmerovacieCisla>
+    <Psc id="1">
+        <Nazov>98012</Nazov>
+    </Psc>
+
+    <Psc id="2">
+        <Nazov>98013</Nazov>
+    </Psc>
+
+    <Psc id="3">
+        <Nazov>97404</Nazov>
+    </Psc>
+
+    <Psc id="4">
+        <Nazov>97401</Nazov>
+    </Psc>
+
+    <Psc id="5">
+        <Nazov>97402</Nazov>
+    </Psc>
+
+    <Psc id="6">
+        <Nazov>821 06</Nazov>
+    </Psc>
+
+    <Psc id="7">
+      <Nazov>901 01</Nazov>
+    </Psc>
+
+
+    <Psc id="8">
+      <Nazov>914 51</Nazov>
+    </Psc>
+</PostoveSmerovacieCisla>

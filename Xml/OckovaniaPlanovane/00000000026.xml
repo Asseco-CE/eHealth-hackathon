@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<OckovaniaPlanovane>
+  <OckovaniePlanovane id="1">
+    <Druh id="DruhOckovania">1</Druh>
+    <Typ id="TypOckovania">2</Typ>
+    <DatumOd>2027-05-01T00:00:00</DatumOd>
+    <DatumDo>2027-06-01T00:00:00</DatumDo>
+    <Vek>31</Vek>
+    <VykonaneOckovanie>False</VykonaneOckovanie>
+    <ZruseneOckovanie>False</ZruseneOckovanie>
+    <DatumVykonaniaZrusenia></DatumVykonaniaZrusenia>
+    <Predpoklad>False</Predpoklad>
+  </OckovaniePlanovane>
+</OckovaniaPlanovane>
+

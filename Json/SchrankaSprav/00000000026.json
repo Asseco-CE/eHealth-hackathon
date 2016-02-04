@@ -1,0 +1,26 @@
+{
+    "SchrankaSprav": {
+        "Sprava": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Predmet": [
+                    "Zverejnenie laboratórneho výsledku 750380000635638458154"
+                ],
+                "Telo": [
+                    "Výsledky Vášho laboratórneho vyšetrenia číslo:750380000635638458154 zo dňa 06 Mar 2014, boli zverejnené. Bližšie informácie nájdete na portály EZKO."
+                ],
+                "DatumPrijatia": [
+                    "2014-03-06T10:00:00"
+                ],
+                "Precitana": [
+                    "false"
+                ],
+                "ZaslanaNotifikacia": [
+                    "false"
+                ]
+            }
+        ]
+    }
+}

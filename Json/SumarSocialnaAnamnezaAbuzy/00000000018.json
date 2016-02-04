@@ -1,0 +1,58 @@
+{
+    "SumarSocialnaAnamnezaAbuzys": {
+        "SumarSocialnaAnamnezaAbuzy": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Typ": [
+                    "FAJČENIE A VYSTAVENIE TABAKOVÉMU DYMU"
+                ],
+                "Pocet": [
+                    "3 ks"
+                ],
+                "DatumOd": [
+                    "1987-01-16T00:00:00"
+                ],
+                "DatumDo": [
+                    "2100-01-01T00:00:00"
+                ],
+                "Poznamka": [
+                    "od 18 rokov"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "Zneplatneny": [
+                    "False"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Typ": [
+                    "FAJČENIE A VYSTAVENIE TABAKOVÉMU DYMU"
+                ],
+                "Pocet": [
+                    "3 ks"
+                ],
+                "DatumOd": [
+                    "1987-01-16T00:00:00"
+                ],
+                "DatumDo": [
+                    "2100-01-01T00:00:00"
+                ],
+                "Poznamka": [
+                    "od 18 rokov"
+                ],
+                "Stornovany": [
+                    "False"
+                ],
+                "Zneplatneny": [
+                    "False"
+                ]
+            }
+        ]
+    }
+}

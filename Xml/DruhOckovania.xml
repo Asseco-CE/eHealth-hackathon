@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<DruhyOckovania>
+  <DruhOckovania id="1">
+    <Nazov>Tetanus</Nazov>
+  </DruhOckovania>
+
+  <DruhOckovania id="2">
+    <Nazov>Mumps,Rubeola,vakcína proti osýpkam</Nazov>
+  </DruhOckovania>
+
+  <DruhOckovania id="3">
+    <Nazov>vakcína proti záškrtu + tetanu</Nazov>
+  </DruhOckovania>
+
+  <DruhOckovania id="4">
+    <Nazov>Diftéria</Nazov>
+  </DruhOckovania>
+
+  <DruhOckovania id="5">
+    <Nazov>tuberkulóza (BCG)</Nazov>
+  </DruhOckovania>
+
+  <DruhOckovania id="6">
+    <Nazov>pertussis</Nazov>
+  </DruhOckovania>
+
+  <DruhOckovania id="7">
+    <Nazov>vírusová hepatitída B (VHB) </Nazov>
+  </DruhOckovania>
+</DruhyOckovania>

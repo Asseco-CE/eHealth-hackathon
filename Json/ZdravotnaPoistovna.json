@@ -1,0 +1,28 @@
+{
+    "ZdravotnePoistovne": {
+        "ZdravotnaPoistovna": [
+            {
+                "id": [
+                    "1"
+                ],
+                "Nazov": [
+                    "Všeobecná zdravotná poisťovňa, a.s."
+                ],
+                "Kod": [
+                    "2500"
+                ]
+            },
+            {
+                "id": [
+                    "2"
+                ],
+                "Nazov": [
+                    "Union zdravotná poisťovňa, a. s."
+                ],
+                "Kod": [
+                    "2600"
+                ]
+            }
+        ]
+    }
+}

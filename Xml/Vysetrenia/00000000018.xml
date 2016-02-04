@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Vysetrenia>
+    <Vysetrenie id="1">
+        <DatumOdoslania></DatumOdoslania>
+        <DatumVysetrenia>2014-05-08T16:47:21</DatumVysetrenia>
+        <TypSpravy id="TypSpravy">2</TypSpravy>
+        <TypSpravyEnum id="TypSpravy" elementName="EnumName">2</TypSpravyEnum>
+        <HlavnaDiagnoza id="Diagnoza">14</HlavnaDiagnoza>
+        <HlavnaDiagnozaKod id="Diagnoza" elementName="Kod">14</HlavnaDiagnozaKod>
+        <OsetrujuciLekar id="Lekar">13</OsetrujuciLekar>
+        <OsetrujuciLekarId>13</OsetrujuciLekarId>
+        <SpecializaciaLekara id="Specializacia">11</SpecializaciaLekara>
+        <Stornovany>false</Stornovany>
+
+        <StornoDatum></StornoDatum>
+        <StornoOsoba id="Lekar"></StornoOsoba>
+        <DiagnozyPriOdoslani></DiagnozyPriOdoslani>
+        <OdosielajuciLekarId></OdosielajuciLekarId>
+        <DiagnostickyZaver></DiagnostickyZaver>
+        <Odporucanie>Kontrola a stehy ex za 7 dní ad chirurgická amb</Odporucanie>
+        <DetailDataId>6</DetailDataId>
+    </Vysetrenie>
+
+
+  <Vysetrenie id="2">
+    <DatumOdoslania>2014-01-04T11:16:36</DatumOdoslania>
+    <DatumVysetrenia>2014-02-01T09:42:11</DatumVysetrenia>
+    <TypSpravy id="TypSpravy">2</TypSpravy>
+    <TypSpravyEnum id="TypSpravy" elementName="EnumName">2</TypSpravyEnum>
+    <HlavnaDiagnoza id="Diagnoza">7</HlavnaDiagnoza>
+    <HlavnaDiagnozaKod id="Diagnoza" elementName="Kod">7</HlavnaDiagnozaKod>
+    <OsetrujuciLekar id="Lekar">12</OsetrujuciLekar>
+    <OsetrujuciLekarId>12</OsetrujuciLekarId>
+    <SpecializaciaLekara id="Specializacia">12</SpecializaciaLekara>
+    <Stornovany>false</Stornovany>
+
+    <StornoDatum></StornoDatum>
+    <StornoOsoba id="Lekar"></StornoOsoba>
+    <DiagnozyPriOdoslani>16</DiagnozyPriOdoslani>
+    <OdosielajuciLekarId>11</OdosielajuciLekarId>
+    <DiagnostickyZaver>16</DiagnostickyZaver>
+    <Odporucanie>Pokračovať doma v cvičení podľa inštruktáže. Pac. poučený. Kúpeľný poukaz vystavený.</Odporucanie>
+    <DetailDataId>7</DetailDataId>
+    <OdkazNaVysetrenieSVymennymListkom>4</OdkazNaVysetrenieSVymennymListkom>
+  </Vysetrenie>
+
+
+<Vysetrenie id="3">
+  <DatumOdoslania>2013-12-22T10:06:52</DatumOdoslania>
+  <DatumVysetrenia>2014-01-04T11:16:36</DatumVysetrenia>
+  <TypSpravy id="TypSpravy">2</TypSpravy>
+  <TypSpravyEnum id="TypSpravy" elementName="EnumName">2</TypSpravyEnum>
+  <HlavnaDiagnoza id="Diagnoza">7</HlavnaDiagnoza>
+  <HlavnaDiagnozaKod id="Diagnoza" elementName="Kod">7</HlavnaDiagnozaKod>
+  <OsetrujuciLekar id="Lekar">12</OsetrujuciLekar>
+  <OsetrujuciLekarId>12</OsetrujuciLekarId>
+  <SpecializaciaLekara id="Specializacia">12</SpecializaciaLekara>
+  <Stornovany>false</Stornovany>
+
+  <StornoDatum></StornoDatum>
+  <StornoOsoba id="Lekar"></StornoOsoba>
+  <DiagnozyPriOdoslani>16</DiagnozyPriOdoslani>
+  <OdosielajuciLekarId>11</OdosielajuciLekarId>
+  <DiagnostickyZaver>16</DiagnostickyZaver>
+  <Odporucanie>Individuálna rehabilitácia, masáž, elektroliečba podľa rozpisu. Pac. poučený.</Odporucanie>
+  <DetailDataId>8</DetailDataId>
+  <OdkazNaVysetrenieSVymennymListkom>4</OdkazNaVysetrenieSVymennymListkom>
+</Vysetrenie>
+
+  <Vysetrenie id="4">
+    <DatumOdoslania>2013-11-17T09:34:06</DatumOdoslania>
+    <DatumVysetrenia>2013-12-22T10:06:52</DatumVysetrenia>
+    <TypSpravy id="TypSpravy">2</TypSpravy>
+    <TypSpravyEnum id="TypSpravy" elementName="EnumName">2</TypSpravyEnum>
+    <HlavnaDiagnoza id="Diagnoza">7</HlavnaDiagnoza>
+    <HlavnaDiagnozaKod id="Diagnoza" elementName="Kod">7</HlavnaDiagnozaKod>
+    <OsetrujuciLekar id="Lekar">11</OsetrujuciLekar>
+    <OsetrujuciLekarId>11</OsetrujuciLekarId>
+    <SpecializaciaLekara id="Specializacia">11</SpecializaciaLekara>
+    <VymennyListok>2</VymennyListok>
+    <Stornovany>false</Stornovany>
+
+    <StornoDatum></StornoDatum>
+    <StornoOsoba id="Lekar"></StornoOsoba>
+    <DiagnozyPriOdoslani>16</DiagnozyPriOdoslani>
+    <OdosielajuciLekarId>11</OdosielajuciLekarId>
+    <DiagnostickyZaver>16</DiagnostickyZaver>
+    <Odporucanie>Rehabilitácia a fyzikálna terapia, pac. poučený.</Odporucanie>
+    <DetailDataId>9</DetailDataId>
+    <OdkazNaVysetrenieSVymennymListkom>6</OdkazNaVysetrenieSVymennymListkom>
+  </Vysetrenie>
+
+  <Vysetrenie id="5">
+    <DatumOdoslania>2013-11-16T16:35:11</DatumOdoslania>
+    <DatumVysetrenia>2013-11-17T09:34:06</DatumVysetrenia>
+    <TypSpravy id="TypSpravy">2</TypSpravy>
+    <TypSpravyEnum id="TypSpravy" elementName="EnumName">2</TypSpravyEnum>
+    <HlavnaDiagnoza id="Diagnoza">7</HlavnaDiagnoza>
+    <HlavnaDiagnozaKod id="Diagnoza" elementName="Kod">7</HlavnaDiagnozaKod>
+    <OsetrujuciLekar id="Lekar">11</OsetrujuciLekar>
+    <OsetrujuciLekarId>11</OsetrujuciLekarId>
+    <SpecializaciaLekara id="Specializacia">11</SpecializaciaLekara>
+    <Stornovany>false</Stornovany>
+
+    <StornoDatum></StornoDatum>
+    <StornoOsoba id="Lekar"></StornoOsoba>
+    <DiagnozyPriOdoslani>16</DiagnozyPriOdoslani>
+    <OdosielajuciLekarId>11</OdosielajuciLekarId>
+    <DiagnostickyZaver>16</DiagnostickyZaver>
+    <Odporucanie>Sadra dolu o 6 týždňov, kontrola podľa potreby.</Odporucanie>
+    <DetailDataId>10</DetailDataId>
+    <OdkazNaVysetrenieSVymennymListkom>6</OdkazNaVysetrenieSVymennymListkom>
+  </Vysetrenie>
+
+
+  <Vysetrenie id="6">
+    <DatumOdoslania></DatumOdoslania>
+    <DatumVysetrenia>2013-11-16T16:35:11</DatumVysetrenia>
+    <TypSpravy id="TypSpravy">2</TypSpravy>
+    <TypSpravyEnum id="TypSpravy" elementName="EnumName">2</TypSpravyEnum>
+    <HlavnaDiagnoza id="Diagnoza">7</HlavnaDiagnoza>
+    <HlavnaDiagnozaKod id="Diagnoza" elementName="Kod">7</HlavnaDiagnozaKod>
+    <OsetrujuciLekar id="Lekar">11</OsetrujuciLekar>
+    <OsetrujuciLekarId>11</OsetrujuciLekarId>
+    <SpecializaciaLekara id="Specializacia">11</SpecializaciaLekara>
+    <VymennyListok>1</VymennyListok>
+    <Stornovany>false</Stornovany>
+
+    <StornoDatum></StornoDatum>
+    <StornoOsoba id="Lekar"></StornoOsoba>
+    <DiagnozyPriOdoslani></DiagnozyPriOdoslani>
+    <OdosielajuciLekarId></OdosielajuciLekarId>
+    <DiagnostickyZaver>16</DiagnostickyZaver>
+    <Odporucanie>Kontrola zajtra.</Odporucanie>
+    <DetailDataId>11</DetailDataId>
+  </Vysetrenie>
+
+
+  <Vysetrenie id="7">
+    <DatumOdoslania></DatumOdoslania>
+    <DatumVysetrenia>2012-05-04T10:32:11</DatumVysetrenia>
+    <TypSpravy id="TypSpravy">2</TypSpravy>
+    <TypSpravyEnum id="TypSpravy" elementName="EnumName">2</TypSpravyEnum>
+    <HlavnaDiagnoza id="Diagnoza">15</HlavnaDiagnoza>
+    <HlavnaDiagnozaKod id="Diagnoza" elementName="Kod">15</HlavnaDiagnozaKod>
+    <OsetrujuciLekar id="Lekar">10</OsetrujuciLekar>
+    <OsetrujuciLekarId>10</OsetrujuciLekarId>
+    <SpecializaciaLekara id="Specializacia">10</SpecializaciaLekara>
+    <Stornovany>false</Stornovany>
+
+    <StornoDatum></StornoDatum>
+    <StornoOsoba id="Lekar"></StornoOsoba>
+    <DiagnozyPriOdoslani></DiagnozyPriOdoslani>
+    <OdosielajuciLekarId></OdosielajuciLekarId>
+    <DiagnostickyZaver>15</DiagnostickyZaver>
+    <Odporucanie>Kontrola týždeň pred dobratím liekov, skôr v prípade potreby.</Odporucanie>
+    <DetailDataId>12</DetailDataId>
+  </Vysetrenie>
+
+  <!--
+  
+  Vzoorve priklady
+  
+  
+  <Vysetrenie id="2">
+        <DatumOdoslania>2013-02-03T10:00:00</DatumOdoslania>
+        <DatumVysetrenia>2013-03-03T10:00:00</DatumVysetrenia>
+        <TypSpravy id="TypSpravy">2</TypSpravy>
+        <TypSpravyEnum id="TypSpravy" elementName="EnumName">2</TypSpravyEnum>
+        <HlavnaDiagnoza id="Diagnoza">2</HlavnaDiagnoza>
+        <HlavnaDiagnozaKod id="Diagnoza" elementName="Kod">2</HlavnaDiagnozaKod>
+        <OsetrujuciLekar id="Lekar">2</OsetrujuciLekar>
+        <OsetrujuciLekarId>2</OsetrujuciLekarId>
+        <SpecializaciaLekara id="Specializacia">2</SpecializaciaLekara>
+        <VymennyListok>1</VymennyListok>
+        <Stornovany>false</Stornovany>
+
+        <StornoDatum></StornoDatum>
+        <StornoOsoba id="Lekar"></StornoOsoba>
+        <DiagnozyPriOdoslani>1</DiagnozyPriOdoslani>
+        <OdosielajuciLekarId>2</OdosielajuciLekarId>
+        <DiagnostickyZaver>5,3</DiagnostickyZaver>
+        <Odporucanie>Kontrola v ZZ o mesiac</Odporucanie>
+        <DetailDataId>7</DetailDataId>
+    </Vysetrenie>
+
+
+  <Vysetrenie id="3">
+        <DatumOdoslania>2014-01-03T10:00:00</DatumOdoslania>
+        <DatumVysetrenia>2014-02-03T10:00:00</DatumVysetrenia>
+        <TypSpravy id="TypSpravy">3</TypSpravy>
+        <TypSpravyEnum id="TypSpravy" elementName="EnumName">3</TypSpravyEnum>
+        <HlavnaDiagnoza id="Diagnoza">5</HlavnaDiagnoza>
+        <HlavnaDiagnozaKod id="Diagnoza" elementName="Kod">5</HlavnaDiagnozaKod>
+        <OsetrujuciLekar id="Lekar">2</OsetrujuciLekar>
+        <OsetrujuciLekarId>2</OsetrujuciLekarId>
+        <SpecializaciaLekara id="Specializacia">2</SpecializaciaLekara>
+        <Stornovany>false</Stornovany>
+
+        <StornoDatum></StornoDatum>
+        <StornoOsoba id="Lekar"></StornoOsoba>
+        <DiagnozyPriOdoslani></DiagnozyPriOdoslani>
+        <OdosielajuciLekarId>2</OdosielajuciLekarId>
+        <DiagnostickyZaver>5,3</DiagnostickyZaver>
+        <Odporucanie>Kontrola v ZZ o mesiac</Odporucanie>
+        <DetailDataId>1</DetailDataId>
+    </Vysetrenie>
+
+    <Vysetrenie id="4">
+        <DatumOdoslania>2014-01-05T10:00:00</DatumOdoslania>
+        <DatumVysetrenia>2014-01-13T10:00:00</DatumVysetrenia>
+        <TypSpravy id="TypSpravy">2</TypSpravy>
+        <TypSpravyEnum id="TypSpravy" elementName="EnumName">2</TypSpravyEnum>
+        <HlavnaDiagnoza id="Diagnoza">3</HlavnaDiagnoza>
+        <HlavnaDiagnozaKod id="Diagnoza" elementName="Kod">3</HlavnaDiagnozaKod>
+        <OsetrujuciLekar id="Lekar">2</OsetrujuciLekar>
+        <OsetrujuciLekarId>2</OsetrujuciLekarId>
+        <SpecializaciaLekara id="Specializacia">2</SpecializaciaLekara>
+        <Stornovany>false</Stornovany>
+
+        <StornoDatum></StornoDatum>
+        <StornoOsoba id="Lekar"></StornoOsoba>
+        <DiagnozyPriOdoslani>1</DiagnozyPriOdoslani>
+        <OdosielajuciLekarId>2</OdosielajuciLekarId>
+        <DiagnostickyZaver>5,3,2</DiagnostickyZaver>
+        <Odporucanie>Kontrola v ZZ o mesiac</Odporucanie>
+        <DetailDataId>2</DetailDataId>
+        <OdkazNaVysetrenieSVymennymListkom>2</OdkazNaVysetrenieSVymennymListkom>
+    </Vysetrenie>
+-->
+
+</Vysetrenia>
+

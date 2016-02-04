@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<SumarVysetreniaObjektivneNalezy>
+    <SumarVysetreniaObjektivnyNalez id="1">
+        <Datum>2011-08-19T00:00:00</Datum>
+        <KrvnyTlak>120/80 mmHg</KrvnyTlak>
+        <Pulz>72 počet/min.</Pulz>
+        <MetodaMerania>Askultačná metóda použitím stetoskopu (Karotkovova)</MetodaMerania>
+        <MiestoMerania>Rameno</MiestoMerania>
+        <OkolnostiMerania>V priamom sede</OkolnostiMerania>
+        <Poznamka>Poznámka merania A</Poznamka>
+        <Stornovany>False</Stornovany>
+        <Zneplatneny>False</Zneplatneny>
+    </SumarVysetreniaObjektivnyNalez>
+
+    <SumarVysetreniaObjektivnyNalez id="2">
+        <Datum>2011-08-19T00:00:00</Datum>
+        <KrvnyTlak>120/80 mmHg</KrvnyTlak>
+        <Pulz>72 počet/min.</Pulz>
+        <MetodaMerania>Askultačná metóda použitím stetoskopu (Karotkovova)</MetodaMerania>
+        <MiestoMerania>Rameno</MiestoMerania>
+        <OkolnostiMerania>V priamom sede</OkolnostiMerania>
+        <Poznamka>Poznámka merania A</Poznamka>
+        <Stornovany>False</Stornovany>
+        <Zneplatneny>False</Zneplatneny>
+    </SumarVysetreniaObjektivnyNalez>
+</SumarVysetreniaObjektivneNalezy>
+
