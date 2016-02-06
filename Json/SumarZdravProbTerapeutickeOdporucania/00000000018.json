@@ -2,38 +2,18 @@
     "SumarZdravProbTerapeutickeOdporucania": {
         "SumarZdravProbTerapeutickeOdporucanie": [
             {
-                "id": [
-                    "1"
-                ],
-                "Popis": [
-                    "Popis terapeutického odporúčania"
-                ],
-                "Poznamka": [
-                    "Poznámka teraperuta"
-                ],
-                "Stornovany": [
-                    "False"
-                ],
-                "Zneplatneny": [
-                    "False"
-                ]
+                "id": "1",
+                "Popis": "Popis terapeutického odporúčania",
+                "Poznamka": "Poznámka teraperuta",
+                "Stornovany": "False",
+                "Zneplatneny": "False"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Popis": [
-                    "Popis terapeutického odporúčania"
-                ],
-                "Poznamka": [
-                    "Poznámka teraperuta"
-                ],
-                "Stornovany": [
-                    "False"
-                ],
-                "Zneplatneny": [
-                    "False"
-                ]
+                "id": "2",
+                "Popis": "Popis terapeutického odporúčania",
+                "Poznamka": "Poznámka teraperuta",
+                "Stornovany": "False",
+                "Zneplatneny": "False"
             }
         ]
     }

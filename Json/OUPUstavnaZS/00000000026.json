@@ -1,11 +1,7 @@
 {
     "OUPUstavnaZSZoznam": {
-        "OUPUstavnaZS": [
-            {
-                "id": [
-                    "1"
-                ]
-            }
-        ]
+        "OUPUstavnaZS": {
+            "id": "1"
+        }
     }
 }

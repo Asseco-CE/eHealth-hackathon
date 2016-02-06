@@ -2,355 +2,157 @@
     "SumarLiekovaAnamneza": {
         "LiekovaAnamneza": [
             {
-                "id": [
-                    "1"
-                ],
-                "DatumOd": [
-                    "2013-03-10T00:00:00"
-                ],
-                "DatumDo": [
-                    "2014-09-06T00:00:00"
-                ],
-                "LiekNazov": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Liek"
-                        ]
-                    }
-                ],
-                "LiekKod": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Liek"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "Davkovanie": [
-                    "1x 1/2"
-                ],
-                "Poznamka": [
-                    "Poznamka"
-                ],
-                "Stornovany": [
-                    "False"
-                ]
+                "id": "1",
+                "DatumOd": "2013-03-10T00:00:00",
+                "DatumDo": "2014-09-06T00:00:00",
+                "LiekNazov": {
+                    "_": "1",
+                    "id": "Liek"
+                },
+                "LiekKod": {
+                    "_": "1",
+                    "id": "Liek",
+                    "elementName": "Kod"
+                },
+                "Davkovanie": "1x 1/2",
+                "Poznamka": "Poznamka",
+                "Stornovany": "False"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "DatumOd": [
-                    "2012-01-10T00:00:00"
-                ],
-                "DatumDo": [
-                    "2013-05-14T00:00:00"
-                ],
-                "LiekNazov": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ]
-                    }
-                ],
-                "LiekKod": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "Davkovanie": [
-                    "3x1"
-                ],
-                "Poznamka": [
-                    "Poznamka"
-                ],
-                "Stornovany": [
-                    "False"
-                ]
+                "id": "2",
+                "DatumOd": "2012-01-10T00:00:00",
+                "DatumDo": "2013-05-14T00:00:00",
+                "LiekNazov": {
+                    "_": "3",
+                    "id": "Liek"
+                },
+                "LiekKod": {
+                    "_": "3",
+                    "id": "Liek",
+                    "elementName": "Kod"
+                },
+                "Davkovanie": "3x1",
+                "Poznamka": "Poznamka",
+                "Stornovany": "False"
             },
             {
-                "id": [
-                    "3"
-                ],
-                "DatumOd": [
-                    "2012-01-10T00:00:00"
-                ],
-                "DatumDo": [
-                    "2013-05-14T00:00:00"
-                ],
-                "LiekNazov": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ]
-                    }
-                ],
-                "LiekKod": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "Davkovanie": [
-                    "3x1"
-                ],
-                "Poznamka": [
-                    "Poznamka"
-                ],
-                "Stornovany": [
-                    "False"
-                ]
+                "id": "3",
+                "DatumOd": "2012-01-10T00:00:00",
+                "DatumDo": "2013-05-14T00:00:00",
+                "LiekNazov": {
+                    "_": "3",
+                    "id": "Liek"
+                },
+                "LiekKod": {
+                    "_": "3",
+                    "id": "Liek",
+                    "elementName": "Kod"
+                },
+                "Davkovanie": "3x1",
+                "Poznamka": "Poznamka",
+                "Stornovany": "False"
             },
             {
-                "id": [
-                    "4"
-                ],
-                "DatumOd": [
-                    "2012-01-10T00:00:00"
-                ],
-                "DatumDo": [
-                    "2013-05-14T00:00:00"
-                ],
-                "LiekNazov": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ]
-                    }
-                ],
-                "LiekKod": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "Davkovanie": [
-                    "3x1"
-                ],
-                "Poznamka": [
-                    "Poznamka"
-                ],
-                "Stornovany": [
-                    "False"
-                ]
+                "id": "4",
+                "DatumOd": "2012-01-10T00:00:00",
+                "DatumDo": "2013-05-14T00:00:00",
+                "LiekNazov": {
+                    "_": "3",
+                    "id": "Liek"
+                },
+                "LiekKod": {
+                    "_": "3",
+                    "id": "Liek",
+                    "elementName": "Kod"
+                },
+                "Davkovanie": "3x1",
+                "Poznamka": "Poznamka",
+                "Stornovany": "False"
             },
             {
-                "id": [
-                    "5"
-                ],
-                "DatumOd": [
-                    "2012-01-10T00:00:00"
-                ],
-                "DatumDo": [
-                    "2013-05-14T00:00:00"
-                ],
-                "LiekNazov": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ]
-                    }
-                ],
-                "LiekKod": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "Davkovanie": [
-                    "3x1"
-                ],
-                "Poznamka": [
-                    "Poznamka"
-                ],
-                "Stornovany": [
-                    "False"
-                ]
+                "id": "5",
+                "DatumOd": "2012-01-10T00:00:00",
+                "DatumDo": "2013-05-14T00:00:00",
+                "LiekNazov": {
+                    "_": "3",
+                    "id": "Liek"
+                },
+                "LiekKod": {
+                    "_": "3",
+                    "id": "Liek",
+                    "elementName": "Kod"
+                },
+                "Davkovanie": "3x1",
+                "Poznamka": "Poznamka",
+                "Stornovany": "False"
             },
             {
-                "id": [
-                    "6"
-                ],
-                "DatumOd": [
-                    "2012-01-10T00:00:00"
-                ],
-                "DatumDo": [
-                    "2013-05-14T00:00:00"
-                ],
-                "LiekNazov": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ]
-                    }
-                ],
-                "LiekKod": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "Davkovanie": [
-                    "3x1"
-                ],
-                "Poznamka": [
-                    "Poznamka"
-                ],
-                "Stornovany": [
-                    "False"
-                ]
+                "id": "6",
+                "DatumOd": "2012-01-10T00:00:00",
+                "DatumDo": "2013-05-14T00:00:00",
+                "LiekNazov": {
+                    "_": "3",
+                    "id": "Liek"
+                },
+                "LiekKod": {
+                    "_": "3",
+                    "id": "Liek",
+                    "elementName": "Kod"
+                },
+                "Davkovanie": "3x1",
+                "Poznamka": "Poznamka",
+                "Stornovany": "False"
             },
             {
-                "id": [
-                    "7"
-                ],
-                "DatumOd": [
-                    "2012-01-10T00:00:00"
-                ],
-                "DatumDo": [
-                    "2013-05-14T00:00:00"
-                ],
-                "LiekNazov": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ]
-                    }
-                ],
-                "LiekKod": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "Davkovanie": [
-                    "3x1"
-                ],
-                "Poznamka": [
-                    "Poznamka"
-                ],
-                "Stornovany": [
-                    "False"
-                ]
+                "id": "7",
+                "DatumOd": "2012-01-10T00:00:00",
+                "DatumDo": "2013-05-14T00:00:00",
+                "LiekNazov": {
+                    "_": "3",
+                    "id": "Liek"
+                },
+                "LiekKod": {
+                    "_": "3",
+                    "id": "Liek",
+                    "elementName": "Kod"
+                },
+                "Davkovanie": "3x1",
+                "Poznamka": "Poznamka",
+                "Stornovany": "False"
             },
             {
-                "id": [
-                    "8"
-                ],
-                "DatumOd": [
-                    "2012-01-10T00:00:00"
-                ],
-                "DatumDo": [
-                    "2013-05-14T00:00:00"
-                ],
-                "LiekNazov": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ]
-                    }
-                ],
-                "LiekKod": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "Davkovanie": [
-                    "3x1"
-                ],
-                "Poznamka": [
-                    "Poznamka"
-                ],
-                "Stornovany": [
-                    "True"
-                ]
+                "id": "8",
+                "DatumOd": "2012-01-10T00:00:00",
+                "DatumDo": "2013-05-14T00:00:00",
+                "LiekNazov": {
+                    "_": "3",
+                    "id": "Liek"
+                },
+                "LiekKod": {
+                    "_": "3",
+                    "id": "Liek",
+                    "elementName": "Kod"
+                },
+                "Davkovanie": "3x1",
+                "Poznamka": "Poznamka",
+                "Stornovany": "True"
             },
             {
-                "id": [
-                    "9"
-                ],
-                "DatumOd": [
-                    "2012-01-10T00:00:00"
-                ],
-                "DatumDo": [
-                    "2013-05-14T00:00:00"
-                ],
-                "LiekNazov": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ]
-                    }
-                ],
-                "LiekKod": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Liek"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "Davkovanie": [
-                    "3x1"
-                ],
-                "Poznamka": [
-                    "Poznamka"
-                ],
-                "Stornovany": [
-                    "True"
-                ]
+                "id": "9",
+                "DatumOd": "2012-01-10T00:00:00",
+                "DatumDo": "2013-05-14T00:00:00",
+                "LiekNazov": {
+                    "_": "3",
+                    "id": "Liek"
+                },
+                "LiekKod": {
+                    "_": "3",
+                    "id": "Liek",
+                    "elementName": "Kod"
+                },
+                "Davkovanie": "3x1",
+                "Poznamka": "Poznamka",
+                "Stornovany": "True"
             }
         ]
     }

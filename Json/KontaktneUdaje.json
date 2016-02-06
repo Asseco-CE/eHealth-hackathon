@@ -2,220 +2,100 @@
     "KontaktneUdajePacientov": {
         "KontaktneUdajePacienta": [
             {
-                "id": [
-                    "00000000018"
-                ],
-                "Poznamka": [
-                    "Test poznamka"
-                ],
-                "PrefPravnickaOsobaNazov": [
-                    "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých"
-                ],
-                "PrefPravnickaOsobaEmail": [
-                    "Test@test.sk"
-                ],
-                "PrefPravnickaOsobaTelefon": [
-                    "0901155531"
-                ],
-                "PrefPravnickaOsobaPoznamka": [
-                    "Test poznamky"
-                ],
-                "PrefPravnickaOsobaUlica": [
-                    "Stupavská"
-                ],
-                "PrefPravnickaOsobaCislo": [
-                    "22"
-                ],
-                "PrefPravnickaOsobaPsc": [
-                    {
-                        "_": "6",
-                        "id": [
-                            "Psc"
-                        ]
-                    }
-                ],
-                "PrefPravnickaOsobaObec": [
-                    {
-                        "_": "8",
-                        "id": [
-                            "Obec"
-                        ]
-                    }
-                ],
-                "PrefPravnickaOsobaOkres": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "PrefPravnickaOsobaStat": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Krajina"
-                        ]
-                    }
-                ],
-                "PrefZdravotnickyPracovnikMeno": [
-                    "Pavol Mihalov"
-                ],
-                "PrefZdravotnickyPracovnikEmail": [
-                    "pavol.mihalov@yahoo.com"
-                ],
-                "PrefZdravotnickyPracovnikTelefon": [
-                    "0915667211"
-                ],
-                "PrefZdravotnickyPracovnikPoznamka": [
-                    "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých"
-                ],
-                "PrefZdravotnickyPracovnikUlica": [
-                    "Stupavská"
-                ],
-                "PrefZdravotnickyPracovnikCislo": [
-                    "22"
-                ],
-                "PrefZdravotnickyPracovnikPsc": [
-                    {
-                        "_": "6",
-                        "id": [
-                            "Psc"
-                        ]
-                    }
-                ],
-                "PrefZdravotnickyPracovnikObec": [
-                    {
-                        "_": "8",
-                        "id": [
-                            "Obec"
-                        ]
-                    }
-                ],
-                "PrefZdravotnickyPracovnikOkres": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "PrefZdravotnickyPracovnikStat": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Krajina"
-                        ]
-                    }
-                ]
+                "id": "00000000018",
+                "Poznamka": "Test poznamka",
+                "PrefPravnickaOsobaNazov": "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých",
+                "PrefPravnickaOsobaEmail": "Test@test.sk",
+                "PrefPravnickaOsobaTelefon": "0901155531",
+                "PrefPravnickaOsobaPoznamka": "Test poznamky",
+                "PrefPravnickaOsobaUlica": "Stupavská",
+                "PrefPravnickaOsobaCislo": "22",
+                "PrefPravnickaOsobaPsc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "PrefPravnickaOsobaObec": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "PrefPravnickaOsobaOkres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "PrefPravnickaOsobaStat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "PrefZdravotnickyPracovnikMeno": "Pavol Mihalov",
+                "PrefZdravotnickyPracovnikEmail": "pavol.mihalov@yahoo.com",
+                "PrefZdravotnickyPracovnikTelefon": "0915667211",
+                "PrefZdravotnickyPracovnikPoznamka": "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých",
+                "PrefZdravotnickyPracovnikUlica": "Stupavská",
+                "PrefZdravotnickyPracovnikCislo": "22",
+                "PrefZdravotnickyPracovnikPsc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "PrefZdravotnickyPracovnikObec": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "PrefZdravotnickyPracovnikOkres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "PrefZdravotnickyPracovnikStat": {
+                    "_": "1",
+                    "id": "Krajina"
+                }
             },
             {
-                "id": [
-                    "00000000026"
-                ],
-                "Poznamka": [
-                    "Test poznamka"
-                ],
-                "PrefPravnickaOsobaNazov": [
-                    "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých"
-                ],
-                "PrefPravnickaOsobaEmail": [
-                    "Test@test.sk"
-                ],
-                "PrefPravnickaOsobaTelefon": [
-                    "0901155531"
-                ],
-                "PrefPravnickaOsobaPoznamka": [
-                    "Test poznamky"
-                ],
-                "PrefPravnickaOsobaUlica": [
-                    "Stupavská"
-                ],
-                "PrefPravnickaOsobaCislo": [
-                    "22"
-                ],
-                "PrefPravnickaOsobaPsc": [
-                    {
-                        "_": "6",
-                        "id": [
-                            "Psc"
-                        ]
-                    }
-                ],
-                "PrefPravnickaOsobaObec": [
-                    {
-                        "_": "8",
-                        "id": [
-                            "Obec"
-                        ]
-                    }
-                ],
-                "PrefPravnickaOsobaOkres": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "PrefPravnickaOsobaStat": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Krajina"
-                        ]
-                    }
-                ],
-                "PrefZdravotnickyPracovnikMeno": [
-                    "Pavol Mihalov"
-                ],
-                "PrefZdravotnickyPracovnikEmail": [
-                    "pavol.mihalov@yahoo.com"
-                ],
-                "PrefZdravotnickyPracovnikTelefon": [
-                    "0915667211"
-                ],
-                "PrefZdravotnickyPracovnikPoznamka": [
-                    "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých"
-                ],
-                "PrefZdravotnickyPracovnikUlica": [
-                    "Stupavská"
-                ],
-                "PrefZdravotnickyPracovnikCislo": [
-                    "22"
-                ],
-                "PrefZdravotnickyPracovnikPsc": [
-                    {
-                        "_": "6",
-                        "id": [
-                            "Psc"
-                        ]
-                    }
-                ],
-                "PrefZdravotnickyPracovnikObec": [
-                    {
-                        "_": "8",
-                        "id": [
-                            "Obec"
-                        ]
-                    }
-                ],
-                "PrefZdravotnickyPracovnikOkres": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "PrefZdravotnickyPracovnikStat": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Krajina"
-                        ]
-                    }
-                ]
+                "id": "00000000026",
+                "Poznamka": "Test poznamka",
+                "PrefPravnickaOsobaNazov": "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých",
+                "PrefPravnickaOsobaEmail": "Test@test.sk",
+                "PrefPravnickaOsobaTelefon": "0901155531",
+                "PrefPravnickaOsobaPoznamka": "Test poznamky",
+                "PrefPravnickaOsobaUlica": "Stupavská",
+                "PrefPravnickaOsobaCislo": "22",
+                "PrefPravnickaOsobaPsc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "PrefPravnickaOsobaObec": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "PrefPravnickaOsobaOkres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "PrefPravnickaOsobaStat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "PrefZdravotnickyPracovnikMeno": "Pavol Mihalov",
+                "PrefZdravotnickyPracovnikEmail": "pavol.mihalov@yahoo.com",
+                "PrefZdravotnickyPracovnikTelefon": "0915667211",
+                "PrefZdravotnickyPracovnikPoznamka": "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých",
+                "PrefZdravotnickyPracovnikUlica": "Stupavská",
+                "PrefZdravotnickyPracovnikCislo": "22",
+                "PrefZdravotnickyPracovnikPsc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "PrefZdravotnickyPracovnikObec": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "PrefZdravotnickyPracovnikOkres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "PrefZdravotnickyPracovnikStat": {
+                    "_": "1",
+                    "id": "Krajina"
+                }
             }
         ]
     }

@@ -2,73 +2,37 @@
     "ZoznamSuhlasovCm": {
         "SuhlasCm": [
             {
-                "id": [
-                    "1"
-                ],
-                "SubjektJeDoktor": [
-                    "true"
-                ],
-                "ZaciatokPlatnosti": [
-                    "2014-03-01T11:59:00"
-                ],
-                "KoniecPlatnosti": [
-                    "2015-03-01T11:59:00"
-                ],
-                "SubjektId": [
-                    "1"
-                ],
-                "Citlivost": [
-                    "5"
-                ],
-                "PodpisanaDohoda": [
-                    "true"
-                ],
-                "ZrusenySuhlas": [
-                    "false"
-                ],
-                "Stranky": [
-                    {
-                        "Stranka": [
-                            "1",
-                            "3"
-                        ]
-                    }
-                ]
+                "id": "1",
+                "SubjektJeDoktor": "true",
+                "ZaciatokPlatnosti": "2014-03-01T11:59:00",
+                "KoniecPlatnosti": "2015-03-01T11:59:00",
+                "SubjektId": "1",
+                "Citlivost": "5",
+                "PodpisanaDohoda": "true",
+                "ZrusenySuhlas": "false",
+                "Stranky": {
+                    "Stranka": [
+                        "1",
+                        "3"
+                    ]
+                }
             },
             {
-                "id": [
-                    "2"
-                ],
-                "SubjektJeDoktor": [
-                    "false"
-                ],
-                "ZaciatokPlatnosti": [
-                    "2012-03-01T11:59:00"
-                ],
-                "KoniecPlatnosti": [
-                    "2013-03-01T11:59:00"
-                ],
-                "SubjektId": [
-                    "00000000018"
-                ],
-                "Citlivost": [
-                    "3"
-                ],
-                "PodpisanaDohoda": [
-                    "false"
-                ],
-                "ZrusenySuhlas": [
-                    "false"
-                ],
-                "Stranky": [
-                    {
-                        "Stranka": [
-                            "1",
-                            "3",
-                            "5"
-                        ]
-                    }
-                ]
+                "id": "2",
+                "SubjektJeDoktor": "false",
+                "ZaciatokPlatnosti": "2012-03-01T11:59:00",
+                "KoniecPlatnosti": "2013-03-01T11:59:00",
+                "SubjektId": "00000000018",
+                "Citlivost": "3",
+                "PodpisanaDohoda": "false",
+                "ZrusenySuhlas": "false",
+                "Stranky": {
+                    "Stranka": [
+                        "1",
+                        "3",
+                        "5"
+                    ]
+                }
             }
         ]
     }

@@ -2,64 +2,28 @@
     "SchrankaSprav": {
         "Sprava": [
             {
-                "id": [
-                    "1"
-                ],
-                "Predmet": [
-                    "Zverejnenie laboratórneho výsledku 750380000635638458154"
-                ],
-                "Telo": [
-                    "Výsledky Vášho laboratórneho vyšetrenia číslo:750380000635638458154 zo dňa 06 Mar 2014, boli zverejnené. Bližšie informácie nájdete na portály EZKO."
-                ],
-                "DatumPrijatia": [
-                    "2014-03-06T10:00:00"
-                ],
-                "Precitana": [
-                    "false"
-                ],
-                "ZaslanaNotifikacia": [
-                    "false"
-                ]
+                "id": "1",
+                "Predmet": "Zverejnenie laboratórneho výsledku 750380000635638458154",
+                "Telo": "Výsledky Vášho laboratórneho vyšetrenia číslo:750380000635638458154 zo dňa 06 Mar 2014, boli zverejnené. Bližšie informácie nájdete na portály EZKO.",
+                "DatumPrijatia": "2014-03-06T10:00:00",
+                "Precitana": "false",
+                "ZaslanaNotifikacia": "false"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Predmet": [
-                    "Zverejnenie laboratórneho výsledku 750500000549100527248"
-                ],
-                "Telo": [
-                    "Výsledky Vášho laboratórneho vyšetrenia číslo:750500000549100527248 zo dňa 26 Nov 2013, boli zverejnené. Bližšie informácie nájdete na portály EZKO."
-                ],
-                "DatumPrijatia": [
-                    "2013-11-26T10:00:00"
-                ],
-                "Precitana": [
-                    "true"
-                ],
-                "ZaslanaNotifikacia": [
-                    "false"
-                ]
+                "id": "2",
+                "Predmet": "Zverejnenie laboratórneho výsledku 750500000549100527248",
+                "Telo": "Výsledky Vášho laboratórneho vyšetrenia číslo:750500000549100527248 zo dňa 26 Nov 2013, boli zverejnené. Bližšie informácie nájdete na portály EZKO.",
+                "DatumPrijatia": "2013-11-26T10:00:00",
+                "Precitana": "true",
+                "ZaslanaNotifikacia": "false"
             },
             {
-                "id": [
-                    "3"
-                ],
-                "Predmet": [
-                    "Zverejnenie laboratórneho výsledku [[IdZaznamu]]"
-                ],
-                "Telo": [
-                    "Výsledky Vášho laboratórneho vyšetrenia číslo:[[IdZaznamu]] zo dňa [[DatumVysetrenia]], boli zverejnené. Bližšie informácie nájdete na portály EZKO."
-                ],
-                "DatumPrijatia": [
-                    "2014-02-20T10:00:00"
-                ],
-                "Precitana": [
-                    "false"
-                ],
-                "ZaslanaNotifikacia": [
-                    "true"
-                ]
+                "id": "3",
+                "Predmet": "Zverejnenie laboratórneho výsledku [[IdZaznamu]]",
+                "Telo": "Výsledky Vášho laboratórneho vyšetrenia číslo:[[IdZaznamu]] zo dňa [[DatumVysetrenia]], boli zverejnené. Bližšie informácie nájdete na portály EZKO.",
+                "DatumPrijatia": "2014-02-20T10:00:00",
+                "Precitana": "false",
+                "ZaslanaNotifikacia": "true"
             }
         ]
     }

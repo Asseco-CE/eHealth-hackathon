@@ -1,11 +1,7 @@
 {
     "OUPAmulantnaZSZoznam": {
-        "OUPAmulantnaZS": [
-            {
-                "id": [
-                    "1"
-                ]
-            }
-        ]
+        "OUPAmulantnaZS": {
+            "id": "1"
+        }
     }
 }

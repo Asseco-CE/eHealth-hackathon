@@ -2,20 +2,12 @@
     "VysledkyAkciiCm": {
         "VysledokAkcieCm": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "Úspešná"
-                ]
+                "id": "1",
+                "Nazov": "Úspešná"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "Neúspešná"
-                ]
+                "id": "2",
+                "Nazov": "Neúspešná"
             }
         ]
     }

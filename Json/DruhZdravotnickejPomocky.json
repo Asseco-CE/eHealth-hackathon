@@ -1,14 +1,8 @@
 {
     "DruhyZdravotnickejPomocky": {
-        "DruhZdravotnickejPomocky": [
-            {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "Ortézy individuálne dolných končatín bandážneho typu"
-                ]
-            }
-        ]
+        "DruhZdravotnickejPomocky": {
+            "id": "1",
+            "Nazov": "Ortézy individuálne dolných končatín bandážneho typu"
+        }
     }
 }

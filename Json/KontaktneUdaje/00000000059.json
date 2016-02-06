@@ -1,69 +1,33 @@
 {
     "KontaktneUdaje": {
-        "KontaktnyUdaj": [
-            {
-                "id": [
-                    "1"
-                ],
-                "NotifikacnyKontakt": [
-                    "true"
-                ],
-                "Stat": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Krajina"
-                        ]
-                    }
-                ],
-                "UzemnoSpravnaJednotka": [
-                    {
-                        "_": "4",
-                        "id": [
-                            "UzemnoSpravnaJednotka"
-                        ]
-                    }
-                ],
-                "Obec": [
-                    {
-                        "_": "9",
-                        "id": [
-                            "Obec"
-                        ]
-                    }
-                ],
-                "Okres": [
-                    {
-                        "_": "4",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "Psc": [
-                    {
-                        "_": "8",
-                        "id": [
-                            "Psc"
-                        ]
-                    }
-                ],
-                "Ulica": [
-                    "Dolná"
-                ],
-                "Cislo": [
-                    "101"
-                ],
-                "Telefon": [
-                    "0903 220 296"
-                ],
-                "EMail": [
-                    ""
-                ],
-                "Poznamka": [
-                    ""
-                ]
-            }
-        ]
+        "KontaktnyUdaj": {
+            "id": "1",
+            "NotifikacnyKontakt": "true",
+            "Stat": {
+                "_": "1",
+                "id": "Krajina"
+            },
+            "UzemnoSpravnaJednotka": {
+                "_": "4",
+                "id": "UzemnoSpravnaJednotka"
+            },
+            "Obec": {
+                "_": "9",
+                "id": "Obec"
+            },
+            "Okres": {
+                "_": "4",
+                "id": "Okres"
+            },
+            "Psc": {
+                "_": "8",
+                "id": "Psc"
+            },
+            "Ulica": "Dolná",
+            "Cislo": "101",
+            "Telefon": "0903 220 296",
+            "EMail": "",
+            "Poznamka": ""
+        }
     }
 }

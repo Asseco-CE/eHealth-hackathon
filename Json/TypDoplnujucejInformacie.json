@@ -2,20 +2,12 @@
     "TypyDoplnujucejInformacie": {
         "TypDoplnujucejInformacie": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "informácia o životnom štýle"
-                ]
+                "id": "1",
+                "Nazov": "informácia o životnom štýle"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "poznámka z poskytnutej ZS"
-                ]
+                "id": "2",
+                "Nazov": "poznámka z poskytnutej ZS"
             }
         ]
     }

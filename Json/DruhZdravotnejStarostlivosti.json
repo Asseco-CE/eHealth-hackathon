@@ -2,20 +2,12 @@
     "DruhyZdravotnejStarostlivosti": {
         "DruhZdravotnejStarostlivosti": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "oddelenie"
-                ]
+                "id": "1",
+                "Nazov": "oddelenie"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "ambulantná"
-                ]
+                "id": "2",
+                "Nazov": "ambulantná"
             }
         ]
     }

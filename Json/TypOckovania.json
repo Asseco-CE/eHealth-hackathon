@@ -2,28 +2,16 @@
     "TypyOckovania": {
         "TypOckovania": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "základné očkovanie"
-                ]
+                "id": "1",
+                "Nazov": "základné očkovanie"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "preočkovanie"
-                ]
+                "id": "2",
+                "Nazov": "preočkovanie"
             },
             {
-                "id": [
-                    "3"
-                ],
-                "Nazov": [
-                    "preočkovanie každých 15.rokov"
-                ]
+                "id": "3",
+                "Nazov": "preočkovanie každých 15.rokov"
             }
         ]
     }

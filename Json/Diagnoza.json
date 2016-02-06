@@ -2,214 +2,94 @@
     "Diagnozy": {
         "Diagnoza": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "Atopická dermatitída"
-                ],
-                "Kod": [
-                    "L20"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "1",
+                "Nazov": "Atopická dermatitída",
+                "Kod": "L20",
+                "UpresnenieDiagnozy": ""
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "Zlomenina sánky"
-                ],
-                "Kod": [
-                    "S02.6"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "2",
+                "Nazov": "Zlomenina sánky",
+                "Kod": "S02.6",
+                "UpresnenieDiagnozy": ""
             },
             {
-                "id": [
-                    "3"
-                ],
-                "Nazov": [
-                    "Celkové lekárske vyšetrenie"
-                ],
-                "Kod": [
-                    "Z00.0"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "3",
+                "Nazov": "Celkové lekárske vyšetrenie",
+                "Kod": "Z00.0",
+                "UpresnenieDiagnozy": ""
             },
             {
-                "id": [
-                    "4"
-                ],
-                "Nazov": [
-                    "Migréna"
-                ],
-                "Kod": [
-                    "G43"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "4",
+                "Nazov": "Migréna",
+                "Kod": "G43",
+                "UpresnenieDiagnozy": ""
             },
             {
-                "id": [
-                    "5"
-                ],
-                "Nazov": [
-                    "Iné zdĺhavé choroby mandlí a adenoidného tkaniva"
-                ],
-                "Kod": [
-                    "J35.8"
-                ],
-                "UpresnenieDiagnozy": [
-                    "zväčšené mandle"
-                ]
+                "id": "5",
+                "Nazov": "Iné zdĺhavé choroby mandlí a adenoidného tkaniva",
+                "Kod": "J35.8",
+                "UpresnenieDiagnozy": "zväčšené mandle"
             },
             {
-                "id": [
-                    "6"
-                ],
-                "Nazov": [
-                    "Chrípka vyvolaná identifikovaným vírusom chrípky"
-                ],
-                "Kod": [
-                    "J10"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "6",
+                "Nazov": "Chrípka vyvolaná identifikovaným vírusom chrípky",
+                "Kod": "J10",
+                "UpresnenieDiagnozy": ""
             },
             {
-                "id": [
-                    "7"
-                ],
-                "Nazov": [
-                    "Zlomenina horného konca lakťovej kosti (ulny)"
-                ],
-                "Kod": [
-                    "S52.0"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "7",
+                "Nazov": "Zlomenina horného konca lakťovej kosti (ulny)",
+                "Kod": "S52.0",
+                "UpresnenieDiagnozy": ""
             },
             {
-                "id": [
-                    "8"
-                ],
-                "Nazov": [
-                    "Zhubný nádor hrubého čreva - Zostupná časť"
-                ],
-                "Kod": [
-                    "C18.6"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "8",
+                "Nazov": "Zhubný nádor hrubého čreva - Zostupná časť",
+                "Kod": "C18.6",
+                "UpresnenieDiagnozy": ""
             },
             {
-                "id": [
-                    "9"
-                ],
-                "Nazov": [
-                    "Flebitída a tromboflebitída iných hlbokých ciev dolných končatín"
-                ],
-                "Kod": [
-                    "I80.2"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "9",
+                "Nazov": "Flebitída a tromboflebitída iných hlbokých ciev dolných končatín",
+                "Kod": "I80.2",
+                "UpresnenieDiagnozy": ""
             },
             {
-                "id": [
-                    "10"
-                ],
-                "Nazov": [
-                    "Nešpecifikovaná cystitída"
-                ],
-                "Kod": [
-                    "N30.9"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "10",
+                "Nazov": "Nešpecifikovaná cystitída",
+                "Kod": "N30.9",
+                "UpresnenieDiagnozy": ""
             },
             {
-                "id": [
-                    "11"
-                ],
-                "Nazov": [
-                    "Bližšie neurčená flebitída a tromboflebitída dolných končatín"
-                ],
-                "Kod": [
-                    "I80.3"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "11",
+                "Nazov": "Bližšie neurčená flebitída a tromboflebitída dolných končatín",
+                "Kod": "I80.3",
+                "UpresnenieDiagnozy": ""
             },
             {
-                "id": [
-                    "12"
-                ],
-                "Nazov": [
-                    "Nešpecifikovaný akútny zápal mandlí"
-                ],
-                "Kod": [
-                    "J03.9"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "12",
+                "Nazov": "Nešpecifikovaný akútny zápal mandlí",
+                "Kod": "J03.9",
+                "UpresnenieDiagnozy": ""
             },
             {
-                "id": [
-                    "13"
-                ],
-                "Nazov": [
-                    "Streptokokový zápal mandlí"
-                ],
-                "Kod": [
-                    "J03.0"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "13",
+                "Nazov": "Streptokokový zápal mandlí",
+                "Kod": "J03.0",
+                "UpresnenieDiagnozy": ""
             },
             {
-                "id": [
-                    "14"
-                ],
-                "Nazov": [
-                    "Otvorená rana prstov bez poškodenia nechtu"
-                ],
-                "Kod": [
-                    "S61.0"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "14",
+                "Nazov": "Otvorená rana prstov bez poškodenia nechtu",
+                "Kod": "S61.0",
+                "UpresnenieDiagnozy": ""
             },
             {
-                "id": [
-                    "15"
-                ],
-                "Nazov": [
-                    "Alergická rinitída zavinená peľom"
-                ],
-                "Kod": [
-                    "J30.1"
-                ],
-                "UpresnenieDiagnozy": [
-                    ""
-                ]
+                "id": "15",
+                "Nazov": "Alergická rinitída zavinená peľom",
+                "Kod": "J30.1",
+                "UpresnenieDiagnozy": ""
             }
         ]
     }

@@ -2,48 +2,24 @@
     "UzemnoSpravneJednotky": {
         "UzemnoSpravneJednotka": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "Banskobystrický kraj"
-                ],
-                "KratkyNazov": [
-                    "BB"
-                ]
+                "id": "1",
+                "Nazov": "Banskobystrický kraj",
+                "KratkyNazov": "BB"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "Bratislavský kraj"
-                ],
-                "KratkyNazov": [
-                    "BA"
-                ]
+                "id": "2",
+                "Nazov": "Bratislavský kraj",
+                "KratkyNazov": "BA"
             },
             {
-                "id": [
-                    "3"
-                ],
-                "Nazov": [
-                    "Košický kraj"
-                ],
-                "KratkyNazov": [
-                    "KE"
-                ]
+                "id": "3",
+                "Nazov": "Košický kraj",
+                "KratkyNazov": "KE"
             },
             {
-                "id": [
-                    "4"
-                ],
-                "Nazov": [
-                    "Trenčiansky kraj"
-                ],
-                "KratkyNazov": [
-                    "TN"
-                ]
+                "id": "4",
+                "Nazov": "Trenčiansky kraj",
+                "KratkyNazov": "TN"
             }
         ]
     }

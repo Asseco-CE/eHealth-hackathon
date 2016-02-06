@@ -2,158 +2,74 @@
     "KontaktneUdaje": {
         "KontaktnyUdaj": [
             {
-                "id": [
-                    "1"
-                ],
-                "TitulPred": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Titul"
-                        ]
-                    }
-                ],
-                "Meno": [
-                    "Adam"
-                ],
-                "Priezvisko": [
-                    "Ladinák"
-                ],
-                "TitulZa": [
-                    ""
-                ],
-                "Vztah": [
-                    {
-                        "_": "6",
-                        "id": [
-                            "Vztah"
-                        ]
-                    }
-                ],
-                "Stat": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Krajina"
-                        ]
-                    }
-                ],
-                "UzemnoSpravnaJednotka": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "UzemnoSpravnaJednotka"
-                        ]
-                    }
-                ],
-                "Obec": [
-                    {
-                        "_": "8",
-                        "id": [
-                            "Obec"
-                        ]
-                    }
-                ],
-                "Ulica": [
-                    "Nová"
-                ],
-                "Cislo": [
-                    "33"
-                ],
-                "Psc": [
-                    {
-                        "_": "6",
-                        "id": [
-                            "Psc"
-                        ]
-                    }
-                ],
-                "Telefon": [
-                    "0909 321 111"
-                ],
-                "EMail": [
-                    "aladinak@mail.tcom.sk"
-                ],
-                "Poznamka": [
-                    ""
-                ]
+                "id": "1",
+                "TitulPred": {
+                    "_": "1",
+                    "id": "Titul"
+                },
+                "Meno": "Adam",
+                "Priezvisko": "Ladinák",
+                "TitulZa": "",
+                "Vztah": {
+                    "_": "6",
+                    "id": "Vztah"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "UzemnoSpravnaJednotka": {
+                    "_": "2",
+                    "id": "UzemnoSpravnaJednotka"
+                },
+                "Obec": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Ulica": "Nová",
+                "Cislo": "33",
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Telefon": "0909 321 111",
+                "EMail": "aladinak@mail.tcom.sk",
+                "Poznamka": ""
             },
             {
-                "id": [
-                    "2"
-                ],
-                "TitulPred": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Titul"
-                        ]
-                    }
-                ],
-                "Meno": [
-                    "Eva"
-                ],
-                "Priezvisko": [
-                    "Ladináková"
-                ],
-                "TitulZa": [
-                    ""
-                ],
-                "Vztah": [
-                    {
-                        "_": "7",
-                        "id": [
-                            "Vztah"
-                        ]
-                    }
-                ],
-                "Stat": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Krajina"
-                        ]
-                    }
-                ],
-                "UzemnoSpravnaJednotka": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "UzemnoSpravnaJednotka"
-                        ]
-                    }
-                ],
-                "Obec": [
-                    {
-                        "_": "8",
-                        "id": [
-                            "Obec"
-                        ]
-                    }
-                ],
-                "Ulica": [
-                    "Nová"
-                ],
-                "Cislo": [
-                    "33"
-                ],
-                "Psc": [
-                    {
-                        "_": "6",
-                        "id": [
-                            "Psc"
-                        ]
-                    }
-                ],
-                "Telefon": [
-                    "0908 897 777"
-                ],
-                "EMail": [
-                    ""
-                ],
-                "Poznamka": [
-                    ""
-                ]
+                "id": "2",
+                "TitulPred": {
+                    "_": "1",
+                    "id": "Titul"
+                },
+                "Meno": "Eva",
+                "Priezvisko": "Ladináková",
+                "TitulZa": "",
+                "Vztah": {
+                    "_": "7",
+                    "id": "Vztah"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "UzemnoSpravnaJednotka": {
+                    "_": "2",
+                    "id": "UzemnoSpravnaJednotka"
+                },
+                "Obec": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Ulica": "Nová",
+                "Cislo": "33",
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Telefon": "0908 897 777",
+                "EMail": "",
+                "Poznamka": ""
             }
         ]
     }

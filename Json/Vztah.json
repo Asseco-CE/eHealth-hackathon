@@ -2,60 +2,32 @@
     "Vztahy": {
         "Vztah": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "Brat"
-                ]
+                "id": "1",
+                "Nazov": "Brat"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "Sestra"
-                ]
+                "id": "2",
+                "Nazov": "Sestra"
             },
             {
-                "id": [
-                    "3"
-                ],
-                "Nazov": [
-                    "Bratranec"
-                ]
+                "id": "3",
+                "Nazov": "Bratranec"
             },
             {
-                "id": [
-                    "4"
-                ],
-                "Nazov": [
-                    "Syn"
-                ]
+                "id": "4",
+                "Nazov": "Syn"
             },
             {
-                "id": [
-                    "5"
-                ],
-                "Nazov": [
-                    "Manžel, Manželka"
-                ]
+                "id": "5",
+                "Nazov": "Manžel, Manželka"
             },
             {
-                "id": [
-                    "6"
-                ],
-                "Nazov": [
-                    "Otec"
-                ]
+                "id": "6",
+                "Nazov": "Otec"
             },
             {
-                "id": [
-                    "7"
-                ],
-                "Nazov": [
-                    "Matka"
-                ]
+                "id": "7",
+                "Nazov": "Matka"
             }
         ]
     }

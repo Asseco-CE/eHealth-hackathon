@@ -2,88 +2,40 @@
     "Planovac": {
         "Plan": [
             {
-                "id": [
-                    "1"
-                ],
-                "DatumPlanovanejPrehliadky": [
-                    "2014-05-01T11:59:00"
-                ],
-                "TypPrehliadky": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "TypPrehliadky"
-                        ]
-                    }
-                ],
-                "Pripomienka": [
-                    "14"
-                ],
-                "Nazov": [
-                    "Prehliadka pre 3.ročné deti"
-                ],
-                "Poznamka": [
-                    "Text poznamky"
-                ],
-                "ZaslanaNotifikacia": [
-                    "false"
-                ]
+                "id": "1",
+                "DatumPlanovanejPrehliadky": "2014-05-01T11:59:00",
+                "TypPrehliadky": {
+                    "_": "1",
+                    "id": "TypPrehliadky"
+                },
+                "Pripomienka": "14",
+                "Nazov": "Prehliadka pre 3.ročné deti",
+                "Poznamka": "Text poznamky",
+                "ZaslanaNotifikacia": "false"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "DatumPlanovanejPrehliadky": [
-                    "2014-04-20T11:59:00"
-                ],
-                "TypPrehliadky": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "TypPrehliadky"
-                        ]
-                    }
-                ],
-                "Pripomienka": [
-                    "10"
-                ],
-                "Nazov": [
-                    "Prehliadka pre 4.ročné deti"
-                ],
-                "Poznamka": [
-                    "Text poznamky 1"
-                ],
-                "ZaslanaNotifikacia": [
-                    "true"
-                ]
+                "id": "2",
+                "DatumPlanovanejPrehliadky": "2014-04-20T11:59:00",
+                "TypPrehliadky": {
+                    "_": "2",
+                    "id": "TypPrehliadky"
+                },
+                "Pripomienka": "10",
+                "Nazov": "Prehliadka pre 4.ročné deti",
+                "Poznamka": "Text poznamky 1",
+                "ZaslanaNotifikacia": "true"
             },
             {
-                "id": [
-                    "3"
-                ],
-                "DatumPlanovanejPrehliadky": [
-                    "2014-03-11T11:59:00"
-                ],
-                "TypPrehliadky": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "TypPrehliadky"
-                        ]
-                    }
-                ],
-                "Pripomienka": [
-                    "12"
-                ],
-                "Nazov": [
-                    "Prehliadka pre 5.ročné deti"
-                ],
-                "Poznamka": [
-                    "Text poznamky 2"
-                ],
-                "ZaslanaNotifikacia": [
-                    "false"
-                ]
+                "id": "3",
+                "DatumPlanovanejPrehliadky": "2014-03-11T11:59:00",
+                "TypPrehliadky": {
+                    "_": "3",
+                    "id": "TypPrehliadky"
+                },
+                "Pripomienka": "12",
+                "Nazov": "Prehliadka pre 5.ročné deti",
+                "Poznamka": "Text poznamky 2",
+                "ZaslanaNotifikacia": "false"
             }
         ]
     }

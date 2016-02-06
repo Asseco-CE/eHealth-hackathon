@@ -2,80 +2,32 @@
     "ZdravotnickePomocky": {
         "ZdravotnickaPomocka": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "obväz hydrofilný sterilný"
-                ],
-                "DoplnokNazvu": [
-                    "12cm x 5 m, á 10 ks"
-                ],
-                "PlnyNazov": [
-                    "obväz hydrofilný sterilný 12cm x 5 m, á 10 ks"
-                ],
-                "Kod": [
-                    "A21866"
-                ],
-                "DoplatokPoistenca": [
-                    "10"
-                ],
-                "UhradaZP": [
-                    "0"
-                ],
-                "Popis": [
-                    ""
-                ],
-                "PopisPouzitia": [
-                    "Priložíme na ranu a obviažeme"
-                ],
-                "Upotrebenie": [
-                    "Obviazanie rany"
-                ],
-                "Popis1": [
-                    "obväz hydrofilný sterilný"
-                ],
-                "Popis2": [
-                    "12cm x 5 m, á 10 ks"
-                ],
-                "Popis3": [
-                    "20"
-                ],
-                "Popis4": [
-                    "D.S. Priložíme na ranu a obviažeme"
-                ]
+                "id": "1",
+                "Nazov": "obväz hydrofilný sterilný",
+                "DoplnokNazvu": "12cm x 5 m, á 10 ks",
+                "PlnyNazov": "obväz hydrofilný sterilný 12cm x 5 m, á 10 ks",
+                "Kod": "A21866",
+                "DoplatokPoistenca": "10",
+                "UhradaZP": "0",
+                "Popis": "",
+                "PopisPouzitia": "Priložíme na ranu a obviažeme",
+                "Upotrebenie": "Obviazanie rany",
+                "Popis1": "obväz hydrofilný sterilný",
+                "Popis2": "12cm x 5 m, á 10 ks",
+                "Popis3": "20",
+                "Popis4": "D.S. Priložíme na ranu a obviažeme"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "ORTEZA DOL.KONCATIN SWASH"
-                ],
-                "DoplnokNazvu": [
-                    "DK A BEDROVE KLBY (veľkosť 1-4)"
-                ],
-                "PlnyNazov": [
-                    "ORTEZA DOL.KONCATIN SWASH DK A BEDROVE KLBY (veľkosť 1-4)"
-                ],
-                "Kod": [
-                    "J70373"
-                ],
-                "DoplatokPoistenca": [
-                    "50"
-                ],
-                "UhradaZP": [
-                    "100"
-                ],
-                "Popis": [
-                    ""
-                ],
-                "PopisPouzitia": [
-                    "SWASH ortéza obsahuje plastový panvový pás, ktorý zasahuje od druhého a tretieho driekového stavca až ku kostrči. V prednej časti obsahuje pás zabezpečujúci jeho fixáciu. Opory dolných končatín sa fix"
-                ],
-                "Upotrebenie": [
-                    "SWASH ortéza zabezpečuje abdukčné postavenie spasticko addukovaných bedrových kĺbov v ležme, v sede, a pri chôdzi. Bráni strihovej ( nožnicovej ) chôdzi. Používa sa pri neuromuskulárnych ochoreniach s"
-                ]
+                "id": "2",
+                "Nazov": "ORTEZA DOL.KONCATIN SWASH",
+                "DoplnokNazvu": "DK A BEDROVE KLBY (veľkosť 1-4)",
+                "PlnyNazov": "ORTEZA DOL.KONCATIN SWASH DK A BEDROVE KLBY (veľkosť 1-4)",
+                "Kod": "J70373",
+                "DoplatokPoistenca": "50",
+                "UhradaZP": "100",
+                "Popis": "",
+                "PopisPouzitia": "SWASH ortéza obsahuje plastový panvový pás, ktorý zasahuje od druhého a tretieho driekového stavca až ku kostrči. V prednej časti obsahuje pás zabezpečujúci jeho fixáciu. Opory dolných končatín sa fix",
+                "Upotrebenie": "SWASH ortéza zabezpečuje abdukčné postavenie spasticko addukovaných bedrových kĺbov v ležme, v sede, a pri chôdzi. Bráni strihovej ( nožnicovej ) chôdzi. Používa sa pri neuromuskulárnych ochoreniach s"
             }
         ]
     }

@@ -2,20 +2,12 @@
     "PrejavyNeziaducejReakcie": {
         "PrejavNeziaducejReakcie": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "Typ: EKZÉM"
-                ]
+                "id": "1",
+                "Nazov": "Typ: EKZÉM"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "Typ: Vyrážka"
-                ]
+                "id": "2",
+                "Nazov": "Typ: Vyrážka"
             }
         ]
     }

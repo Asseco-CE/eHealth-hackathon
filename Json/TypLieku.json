@@ -2,36 +2,20 @@
     "TypyLieciv": {
         "TypLieku": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "Liek"
-                ]
+                "id": "1",
+                "Nazov": "Liek"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "DietetickaPotravina"
-                ]
+                "id": "2",
+                "Nazov": "DietetickaPotravina"
             },
             {
-                "id": [
-                    "3"
-                ],
-                "Nazov": [
-                    "IPL"
-                ]
+                "id": "3",
+                "Nazov": "IPL"
             },
             {
-                "id": [
-                    "4"
-                ],
-                "Nazov": [
-                    "ZdravotnickaPomocka"
-                ]
+                "id": "4",
+                "Nazov": "ZdravotnickaPomocka"
             }
         ]
     }

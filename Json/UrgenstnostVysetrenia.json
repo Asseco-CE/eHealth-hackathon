@@ -2,28 +2,16 @@
     "UrgenstnostiVysetrenia": {
         "UrgenstnostVysetrenia": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "Urgentné"
-                ]
+                "id": "1",
+                "Nazov": "Urgentné"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "Prednostné"
-                ]
+                "id": "2",
+                "Nazov": "Prednostné"
             },
             {
-                "id": [
-                    "3"
-                ],
-                "Nazov": [
-                    "Bežné"
-                ]
+                "id": "3",
+                "Nazov": "Bežné"
             }
         ]
     }

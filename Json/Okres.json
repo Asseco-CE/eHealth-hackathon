@@ -2,36 +2,20 @@
     "Okresy": {
         "Okres": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "Poltár"
-                ]
+                "id": "1",
+                "Nazov": "Poltár"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "Banská Bystrica"
-                ]
+                "id": "2",
+                "Nazov": "Banská Bystrica"
             },
             {
-                "id": [
-                    "3"
-                ],
-                "Nazov": [
-                    "Malacky"
-                ]
+                "id": "3",
+                "Nazov": "Malacky"
             },
             {
-                "id": [
-                    "4"
-                ],
-                "Nazov": [
-                    "Trenčín"
-                ]
+                "id": "4",
+                "Nazov": "Trenčín"
             }
         ]
     }

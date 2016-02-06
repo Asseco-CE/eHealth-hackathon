@@ -2,220 +2,112 @@
     "Obce": {
         "Obec": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "Banská Bystrica"
-                ],
-                "Okres": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "UzemnospravnaJednotka": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "UzemnoSpravnaJednotka"
-                        ]
-                    }
-                ]
+                "id": "1",
+                "Nazov": "Banská Bystrica",
+                "Okres": {
+                    "_": "2",
+                    "id": "Okres"
+                },
+                "UzemnospravnaJednotka": {
+                    "_": "1",
+                    "id": "UzemnoSpravnaJednotka"
+                }
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "Bratislava"
-                ],
-                "Okres": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "UzemnospravnaJednotka": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UzemnoSpravnaJednotka"
-                        ]
-                    }
-                ]
+                "id": "2",
+                "Nazov": "Bratislava",
+                "Okres": {
+                    "_": "1",
+                    "id": "Okres"
+                },
+                "UzemnospravnaJednotka": {
+                    "_": "3",
+                    "id": "UzemnoSpravnaJednotka"
+                }
             },
             {
-                "id": [
-                    "3"
-                ],
-                "Nazov": [
-                    "Košice"
-                ],
-                "Okres": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "UzemnospravnaJednotka": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "UzemnoSpravnaJednotka"
-                        ]
-                    }
-                ]
+                "id": "3",
+                "Nazov": "Košice",
+                "Okres": {
+                    "_": "2",
+                    "id": "Okres"
+                },
+                "UzemnospravnaJednotka": {
+                    "_": "2",
+                    "id": "UzemnoSpravnaJednotka"
+                }
             },
             {
-                "id": [
-                    "4"
-                ],
-                "Nazov": [
-                    "Sučany"
-                ],
-                "Okres": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "UzemnospravnaJednotka": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UzemnoSpravnaJednotka"
-                        ]
-                    }
-                ]
+                "id": "4",
+                "Nazov": "Sučany",
+                "Okres": {
+                    "_": "2",
+                    "id": "Okres"
+                },
+                "UzemnospravnaJednotka": {
+                    "_": "3",
+                    "id": "UzemnoSpravnaJednotka"
+                }
             },
             {
-                "id": [
-                    "5"
-                ],
-                "Nazov": [
-                    "Sušany"
-                ],
-                "Okres": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "UzemnospravnaJednotka": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "UzemnoSpravnaJednotka"
-                        ]
-                    }
-                ]
+                "id": "5",
+                "Nazov": "Sušany",
+                "Okres": {
+                    "_": "1",
+                    "id": "Okres"
+                },
+                "UzemnospravnaJednotka": {
+                    "_": "1",
+                    "id": "UzemnoSpravnaJednotka"
+                }
             },
             {
-                "id": [
-                    "6"
-                ],
-                "Nazov": [
-                    "Hrnčiarska Ves"
-                ],
-                "Okres": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "UzemnospravnaJednotka": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "UzemnoSpravnaJednotka"
-                        ]
-                    }
-                ]
+                "id": "6",
+                "Nazov": "Hrnčiarska Ves",
+                "Okres": {
+                    "_": "1",
+                    "id": "Okres"
+                },
+                "UzemnospravnaJednotka": {
+                    "_": "1",
+                    "id": "UzemnoSpravnaJednotka"
+                }
             },
             {
-                "id": [
-                    "7"
-                ],
-                "Nazov": [
-                    "Hrnčiarske Zalužany"
-                ],
-                "Okres": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "UzemnospravnaJednotka": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "UzemnoSpravnaJednotka"
-                        ]
-                    }
-                ]
+                "id": "7",
+                "Nazov": "Hrnčiarske Zalužany",
+                "Okres": {
+                    "_": "1",
+                    "id": "Okres"
+                },
+                "UzemnospravnaJednotka": {
+                    "_": "1",
+                    "id": "UzemnoSpravnaJednotka"
+                }
             },
             {
-                "id": [
-                    "8"
-                ],
-                "Nazov": [
-                    "Malacky"
-                ],
-                "Okres": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "UzemnospravnaJednotka": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "UzemnoSpravnaJednotka"
-                        ]
-                    }
-                ]
+                "id": "8",
+                "Nazov": "Malacky",
+                "Okres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "UzemnospravnaJednotka": {
+                    "_": "2",
+                    "id": "UzemnoSpravnaJednotka"
+                }
             },
             {
-                "id": [
-                    "9"
-                ],
-                "Nazov": [
-                    "Trenčianske Teplice"
-                ],
-                "Okres": [
-                    {
-                        "_": "4",
-                        "id": [
-                            "Okres"
-                        ]
-                    }
-                ],
-                "UzemnospravnaJednotka": [
-                    {
-                        "_": "4",
-                        "id": [
-                            "UzemnoSpravnaJednotka"
-                        ]
-                    }
-                ]
+                "id": "9",
+                "Nazov": "Trenčianske Teplice",
+                "Okres": {
+                    "_": "4",
+                    "id": "Okres"
+                },
+                "UzemnospravnaJednotka": {
+                    "_": "4",
+                    "id": "UzemnoSpravnaJednotka"
+                }
             }
         ]
     }

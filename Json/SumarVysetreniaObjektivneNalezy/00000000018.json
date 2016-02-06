@@ -2,68 +2,28 @@
     "SumarVysetreniaObjektivneNalezy": {
         "SumarVysetreniaObjektivnyNalez": [
             {
-                "id": [
-                    "1"
-                ],
-                "Datum": [
-                    "2011-08-19T00:00:00"
-                ],
-                "KrvnyTlak": [
-                    "120/80 mmHg"
-                ],
-                "Pulz": [
-                    "72 počet/min."
-                ],
-                "MetodaMerania": [
-                    "Askultačná metóda použitím stetoskopu (Karotkovova)"
-                ],
-                "MiestoMerania": [
-                    "Rameno"
-                ],
-                "OkolnostiMerania": [
-                    "V priamom sede"
-                ],
-                "Poznamka": [
-                    "Poznámka merania A"
-                ],
-                "Stornovany": [
-                    "False"
-                ],
-                "Zneplatneny": [
-                    "False"
-                ]
+                "id": "1",
+                "Datum": "2011-08-19T00:00:00",
+                "KrvnyTlak": "120/80 mmHg",
+                "Pulz": "72 počet/min.",
+                "MetodaMerania": "Askultačná metóda použitím stetoskopu (Karotkovova)",
+                "MiestoMerania": "Rameno",
+                "OkolnostiMerania": "V priamom sede",
+                "Poznamka": "Poznámka merania A",
+                "Stornovany": "False",
+                "Zneplatneny": "False"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Datum": [
-                    "2011-08-19T00:00:00"
-                ],
-                "KrvnyTlak": [
-                    "120/80 mmHg"
-                ],
-                "Pulz": [
-                    "72 počet/min."
-                ],
-                "MetodaMerania": [
-                    "Askultačná metóda použitím stetoskopu (Karotkovova)"
-                ],
-                "MiestoMerania": [
-                    "Rameno"
-                ],
-                "OkolnostiMerania": [
-                    "V priamom sede"
-                ],
-                "Poznamka": [
-                    "Poznámka merania A"
-                ],
-                "Stornovany": [
-                    "False"
-                ],
-                "Zneplatneny": [
-                    "False"
-                ]
+                "id": "2",
+                "Datum": "2011-08-19T00:00:00",
+                "KrvnyTlak": "120/80 mmHg",
+                "Pulz": "72 počet/min.",
+                "MetodaMerania": "Askultačná metóda použitím stetoskopu (Karotkovova)",
+                "MiestoMerania": "Rameno",
+                "OkolnostiMerania": "V priamom sede",
+                "Poznamka": "Poznámka merania A",
+                "Stornovany": "False",
+                "Zneplatneny": "False"
             }
         ]
     }

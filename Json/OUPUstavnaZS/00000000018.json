@@ -1,120 +1,54 @@
 {
     "OUPUstavnaZSZoznam": {
-        "OUPUstavnaZS": [
-            {
-                "id": [
-                    "1"
-                ],
-                "ObdobieHospitalizacie": [
-                    "2013-08-01T10:00:00"
-                ],
-                "DatumNastupu": [
-                    "2013-08-01T10:00:00"
-                ],
-                "DatumPrepustenia": [
-                    "2013-08-08T10:00:00"
-                ],
-                "TypVykonu": [
-                    "O"
-                ],
-                "NazovTypuVykonu": [
-                    "Operačný výkon"
-                ],
-                "TypHospitalizacie": [
-                    "Neodkladná hospitalizácia"
-                ],
-                "Pocet": [
-                    "1"
-                ],
-                "OsetrujuciLekarId": [
-                    "1"
-                ],
-                "OsetrujuciLekarKodPZS": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Lekar"
-                        ],
-                        "elementName": [
-                            "KodPoskytovatela"
-                        ]
-                    }
-                ],
-                "OsetrujuciLekar": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Lekar"
-                        ]
-                    }
-                ],
-                "OdporucajuciLekarId": [
-                    "2"
-                ],
-                "OdporucajuciLekarKodPZS": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Lekar"
-                        ],
-                        "elementName": [
-                            "KodPoskytovatela"
-                        ]
-                    }
-                ],
-                "OdporucajuciLekar": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Lekar"
-                        ]
-                    }
-                ],
-                "KodDiagnozyPriPrijati": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Diagnoza"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "NazovDiagnozyPriPrijati": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Diagnoza"
-                        ]
-                    }
-                ],
-                "KodDiagnozyPriPrepusteni": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Diagnoza"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "NazovDiagnozyPriPrepusteni": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Diagnoza"
-                        ]
-                    }
-                ],
-                "PripocitatelnePolozky": [
-                    "E00100"
-                ],
-                "PripocitatelnePolozkyMnozstvo": [
-                    "1"
-                ]
-            }
-        ]
+        "OUPUstavnaZS": {
+            "id": "1",
+            "ObdobieHospitalizacie": "2013-08-01T10:00:00",
+            "DatumNastupu": "2013-08-01T10:00:00",
+            "DatumPrepustenia": "2013-08-08T10:00:00",
+            "TypVykonu": "O",
+            "NazovTypuVykonu": "Operačný výkon",
+            "TypHospitalizacie": "Neodkladná hospitalizácia",
+            "Pocet": "1",
+            "OsetrujuciLekarId": "1",
+            "OsetrujuciLekarKodPZS": {
+                "_": "1",
+                "id": "Lekar",
+                "elementName": "KodPoskytovatela"
+            },
+            "OsetrujuciLekar": {
+                "_": "1",
+                "id": "Lekar"
+            },
+            "OdporucajuciLekarId": "2",
+            "OdporucajuciLekarKodPZS": {
+                "_": "2",
+                "id": "Lekar",
+                "elementName": "KodPoskytovatela"
+            },
+            "OdporucajuciLekar": {
+                "_": "2",
+                "id": "Lekar"
+            },
+            "KodDiagnozyPriPrijati": {
+                "_": "1",
+                "id": "Diagnoza",
+                "elementName": "Kod"
+            },
+            "NazovDiagnozyPriPrijati": {
+                "_": "1",
+                "id": "Diagnoza"
+            },
+            "KodDiagnozyPriPrepusteni": {
+                "_": "2",
+                "id": "Diagnoza",
+                "elementName": "Kod"
+            },
+            "NazovDiagnozyPriPrepusteni": {
+                "_": "2",
+                "id": "Diagnoza"
+            },
+            "PripocitatelnePolozky": "E00100",
+            "PripocitatelnePolozkyMnozstvo": "1"
+        }
     }
 }

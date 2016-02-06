@@ -1,11 +1,7 @@
 {
     "OUPLiekyZoznam": {
-        "OUPLieky": [
-            {
-                "id": [
-                    "1"
-                ]
-            }
-        ]
+        "OUPLieky": {
+            "id": "1"
+        }
     }
 }

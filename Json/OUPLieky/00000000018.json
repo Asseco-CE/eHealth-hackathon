@@ -1,120 +1,54 @@
 {
     "OUPLiekyZoznam": {
-        "OUPLieky": [
-            {
-                "id": [
-                    "1"
-                ],
-                "DatumPredpisu": [
-                    "2013-07-20T10:00:00"
-                ],
-                "DatumVydaja": [
-                    "2013-08-01T10:00:00"
-                ],
-                "KodDiagnozy": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Diagnoza"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "NazovDiagnozy": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Diagnoza"
-                        ],
-                        "elementName": [
-                            "Nazov"
-                        ]
-                    }
-                ],
-                "KodLieku": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Liek"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "NazovLieku": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Liek"
-                        ],
-                        "elementName": [
-                            "Nazov"
-                        ]
-                    }
-                ],
-                "ATCSkupinaKod": [
-                    "N02BE01"
-                ],
-                "ATCSkupinaNazov": [
-                    "Paracetamol"
-                ],
-                "Mnozstvo": [
-                    "2"
-                ],
-                "PredpisujuciLekarId": [
-                    "2"
-                ],
-                "PredpisujuciLekarKodPZS": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Lekar"
-                        ],
-                        "elementName": [
-                            "KodPoskytovatela"
-                        ]
-                    }
-                ],
-                "PredpisujuciLekar": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Lekar"
-                        ]
-                    }
-                ],
-                "OdporucajuciLekarId": [
-                    "1"
-                ],
-                "OdporucajuciLekarKodPZS": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Lekar"
-                        ],
-                        "elementName": [
-                            "KodPoskytovatela"
-                        ]
-                    }
-                ],
-                "OdporucajuciLekar": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Lekar"
-                        ]
-                    }
-                ],
-                "KodVydajcu": [
-                    "P62437030304"
-                ],
-                "NazovVydajcu": [
-                    "MUDr. Alman s.r.o."
-                ]
-            }
-        ]
+        "OUPLieky": {
+            "id": "1",
+            "DatumPredpisu": "2013-07-20T10:00:00",
+            "DatumVydaja": "2013-08-01T10:00:00",
+            "KodDiagnozy": {
+                "_": "2",
+                "id": "Diagnoza",
+                "elementName": "Kod"
+            },
+            "NazovDiagnozy": {
+                "_": "2",
+                "id": "Diagnoza",
+                "elementName": "Nazov"
+            },
+            "KodLieku": {
+                "_": "2",
+                "id": "Liek",
+                "elementName": "Kod"
+            },
+            "NazovLieku": {
+                "_": "2",
+                "id": "Liek",
+                "elementName": "Nazov"
+            },
+            "ATCSkupinaKod": "N02BE01",
+            "ATCSkupinaNazov": "Paracetamol",
+            "Mnozstvo": "2",
+            "PredpisujuciLekarId": "2",
+            "PredpisujuciLekarKodPZS": {
+                "_": "2",
+                "id": "Lekar",
+                "elementName": "KodPoskytovatela"
+            },
+            "PredpisujuciLekar": {
+                "_": "2",
+                "id": "Lekar"
+            },
+            "OdporucajuciLekarId": "1",
+            "OdporucajuciLekarKodPZS": {
+                "_": "1",
+                "id": "Lekar",
+                "elementName": "KodPoskytovatela"
+            },
+            "OdporucajuciLekar": {
+                "_": "1",
+                "id": "Lekar"
+            },
+            "KodVydajcu": "P62437030304",
+            "NazovVydajcu": "MUDr. Alman s.r.o."
+        }
     }
 }

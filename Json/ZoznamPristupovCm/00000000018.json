@@ -2,251 +2,117 @@
     "ZoznamPristupovCm": {
         "PristupCm": [
             {
-                "id": [
-                    "1"
-                ],
-                "DatumAkcie": [
-                    "2014-03-02T10:00:00"
-                ],
-                "Akcia": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "TypAkcieCm"
-                        ]
-                    }
-                ],
-                "Vykonal": [
-                    "Mudr. Pavol Mihalov"
-                ],
-                "PristupKStranke": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "TypPristupuKStrankeCm"
-                        ]
-                    }
-                ],
-                "KodStranky": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "TypPristupuKStrankeCm"
-                        ],
-                        "elementName": [
-                            "KodStranky"
-                        ]
-                    }
-                ],
-                "Vysledok": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "VysledokAkcieCm"
-                        ]
-                    }
-                ],
-                "OdbornostSubjektu": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Specializacia"
-                        ]
-                    }
-                ],
-                "PlatiOd": [
-                    "2014-03-01T00:00:00"
-                ],
-                "PlatiDo": [
-                    "2014-03-30T23:59:59"
-                ],
-                "Rola": [
-                    "BrVseobecnyLekarOsoby"
-                ],
-                "Citlivost": [
-                    {
-                        "_": "5",
-                        "id": [
-                            "Citlivost"
-                        ]
-                    }
-                ]
+                "id": "1",
+                "DatumAkcie": "2014-03-02T10:00:00",
+                "Akcia": {
+                    "_": "3",
+                    "id": "TypAkcieCm"
+                },
+                "Vykonal": "Mudr. Pavol Mihalov",
+                "PristupKStranke": {
+                    "_": "1",
+                    "id": "TypPristupuKStrankeCm"
+                },
+                "KodStranky": {
+                    "_": "1",
+                    "id": "TypPristupuKStrankeCm",
+                    "elementName": "KodStranky"
+                },
+                "Vysledok": {
+                    "_": "1",
+                    "id": "VysledokAkcieCm"
+                },
+                "OdbornostSubjektu": {
+                    "_": "1",
+                    "id": "Specializacia"
+                },
+                "PlatiOd": "2014-03-01T00:00:00",
+                "PlatiDo": "2014-03-30T23:59:59",
+                "Rola": "BrVseobecnyLekarOsoby",
+                "Citlivost": {
+                    "_": "5",
+                    "id": "Citlivost"
+                }
             },
             {
-                "id": [
-                    "2"
-                ],
-                "DatumAkcie": [
-                    "2014-03-01T13:23:43"
-                ],
-                "Akcia": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "TypAkcieCm"
-                        ]
-                    }
-                ],
-                "Vykonal": [
-                    "Mudr. Pavol Mihalov"
-                ],
-                "PristupKStranke": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "TypPristupuKStrankeCm"
-                        ]
-                    }
-                ],
-                "KodStranky": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "TypPristupuKStrankeCm"
-                        ],
-                        "elementName": [
-                            "KodStranky"
-                        ]
-                    }
-                ],
-                "Vysledok": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "VysledokAkcieCm"
-                        ]
-                    }
-                ],
-                "OdbornostSubjektu": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Specializacia"
-                        ]
-                    }
-                ],
-                "PlatiOd": [
-                    "2014-03-01T00:00:00"
-                ],
-                "PlatiDo": [
-                    "2014-03-30T23:59:59"
-                ],
-                "TypSuhlasu": [
-                    "Trvalý"
-                ],
-                "IdSuhlasu": [
-                    "1"
-                ],
-                "SuhlasDoktorovi": [
-                    "true"
-                ]
+                "id": "2",
+                "DatumAkcie": "2014-03-01T13:23:43",
+                "Akcia": {
+                    "_": "3",
+                    "id": "TypAkcieCm"
+                },
+                "Vykonal": "Mudr. Pavol Mihalov",
+                "PristupKStranke": {
+                    "_": "2",
+                    "id": "TypPristupuKStrankeCm"
+                },
+                "KodStranky": {
+                    "_": "2",
+                    "id": "TypPristupuKStrankeCm",
+                    "elementName": "KodStranky"
+                },
+                "Vysledok": {
+                    "_": "1",
+                    "id": "VysledokAkcieCm"
+                },
+                "OdbornostSubjektu": {
+                    "_": "1",
+                    "id": "Specializacia"
+                },
+                "PlatiOd": "2014-03-01T00:00:00",
+                "PlatiDo": "2014-03-30T23:59:59",
+                "TypSuhlasu": "Trvalý",
+                "IdSuhlasu": "1",
+                "SuhlasDoktorovi": "true"
             },
             {
-                "id": [
-                    "3"
-                ],
-                "DatumAkcie": [
-                    "2014-03-02T13:23:43"
-                ],
-                "Akcia": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "TypAkcieCm"
-                        ]
-                    }
-                ],
-                "Vykonal": [
-                    "Adam Ladinak"
-                ],
-                "PristupKStranke": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "TypPristupuKStrankeCm"
-                        ]
-                    }
-                ],
-                "KodStranky": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "TypPristupuKStrankeCm"
-                        ],
-                        "elementName": [
-                            "KodStranky"
-                        ]
-                    }
-                ],
-                "Vysledok": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "VysledokAkcieCm"
-                        ]
-                    }
-                ]
+                "id": "3",
+                "DatumAkcie": "2014-03-02T13:23:43",
+                "Akcia": {
+                    "_": "3",
+                    "id": "TypAkcieCm"
+                },
+                "Vykonal": "Adam Ladinak",
+                "PristupKStranke": {
+                    "_": "2",
+                    "id": "TypPristupuKStrankeCm"
+                },
+                "KodStranky": {
+                    "_": "2",
+                    "id": "TypPristupuKStrankeCm",
+                    "elementName": "KodStranky"
+                },
+                "Vysledok": {
+                    "_": "1",
+                    "id": "VysledokAkcieCm"
+                }
             },
             {
-                "id": [
-                    "4"
-                ],
-                "DatumAkcie": [
-                    "2014-03-03T11:13:23"
-                ],
-                "Akcia": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "TypAkcieCm"
-                        ]
-                    }
-                ],
-                "Vykonal": [
-                    "Eva Ladináková"
-                ],
-                "PristupKStranke": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "TypPristupuKStrankeCm"
-                        ]
-                    }
-                ],
-                "KodStranky": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "TypPristupuKStrankeCm"
-                        ],
-                        "elementName": [
-                            "KodStranky"
-                        ]
-                    }
-                ],
-                "Vysledok": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "VysledokAkcieCm"
-                        ]
-                    }
-                ],
-                "PlatiOd": [
-                    "2014-03-01T00:00:00"
-                ],
-                "PlatiDo": [
-                    "2014-03-30T23:59:59"
-                ],
-                "TypSuhlasu": [
-                    "Jednorázový (obmedzený) súhlas"
-                ],
-                "IdSuhlasu": [
-                    "2"
-                ],
-                "SuhlasDoktorovi": [
-                    "false"
-                ]
+                "id": "4",
+                "DatumAkcie": "2014-03-03T11:13:23",
+                "Akcia": {
+                    "_": "3",
+                    "id": "TypAkcieCm"
+                },
+                "Vykonal": "Eva Ladináková",
+                "PristupKStranke": {
+                    "_": "2",
+                    "id": "TypPristupuKStrankeCm"
+                },
+                "KodStranky": {
+                    "_": "2",
+                    "id": "TypPristupuKStrankeCm",
+                    "elementName": "KodStranky"
+                },
+                "Vysledok": {
+                    "_": "1",
+                    "id": "VysledokAkcieCm"
+                },
+                "PlatiOd": "2014-03-01T00:00:00",
+                "PlatiDo": "2014-03-30T23:59:59",
+                "TypSuhlasu": "Jednorázový (obmedzený) súhlas",
+                "IdSuhlasu": "2",
+                "SuhlasDoktorovi": "false"
             }
         ]
     }

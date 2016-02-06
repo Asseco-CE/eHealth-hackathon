@@ -2,20 +2,12 @@
     "RodinneStavy": {
         "RodinnyStav": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "Slobodný/slobodná"
-                ]
+                "id": "1",
+                "Nazov": "Slobodný/slobodná"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "Ženatý/vydatá"
-                ]
+                "id": "2",
+                "Nazov": "Ženatý/vydatá"
             }
         ]
     }

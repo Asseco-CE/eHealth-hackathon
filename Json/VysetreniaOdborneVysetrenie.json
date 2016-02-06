@@ -2,576 +2,264 @@
     "OdborneVysetrenia": {
         "OdborneVysetrenie": [
             {
-                "id": [
-                    "1"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Stav vyliečený"
-                ],
-                "PopisVysetrenia": [
-                    "Kontrolné vyšetrenie po vybratí antibiotika."
-                ]
+                "id": "1",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Stav vyliečený",
+                "PopisVysetrenia": "Kontrolné vyšetrenie po vybratí antibiotika."
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Pacient sa sťažuje ma bolesti hrdla a má zvýšenú teplotu 38,6°C"
-                ],
-                "PopisVysetrenia": [
-                    "Nešpecifikovaný akútny zápal mandlí - liečba: - Duomox 750 mg 2x denne tabl. 10 dní - Paralen 500 mg 1 tbl. pri teplote nad 37,8 st. C, maximálne 6 tbl./24 hod"
-                ]
+                "id": "2",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Pacient sa sťažuje ma bolesti hrdla a má zvýšenú teplotu 38,6°C",
+                "PopisVysetrenia": "Nešpecifikovaný akútny zápal mandlí - liečba: - Duomox 750 mg 2x denne tabl. 10 dní - Paralen 500 mg 1 tbl. pri teplote nad 37,8 st. C, maximálne 6 tbl./24 hod"
             },
             {
-                "id": [
-                    "3"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Stav vyliečený"
-                ],
-                "PopisVysetrenia": [
-                    "Kontrolné vyšetrenie po vybratí antibiotika"
-                ]
+                "id": "3",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Stav vyliečený",
+                "PopisVysetrenia": "Kontrolné vyšetrenie po vybratí antibiotika"
             },
             {
-                "id": [
-                    "4"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Pacient sa sťažuje ma bolesti hrdla a má zvýšenú teplotu 38,2°C"
-                ],
-                "PopisVysetrenia": [
-                    "Streptokokový zápal mandlí - liečba: - Penbene 1 UI 3x1 a 8 hod. - Paralen 500 mg 1 tbl. pri teplote nad 37,8 st. C, maximálne 6 tbl./24 hod."
-                ]
+                "id": "4",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Pacient sa sťažuje ma bolesti hrdla a má zvýšenú teplotu 38,2°C",
+                "PopisVysetrenia": "Streptokokový zápal mandlí - liečba: - Penbene 1 UI 3x1 a 8 hod. - Paralen 500 mg 1 tbl. pri teplote nad 37,8 st. C, maximálne 6 tbl./24 hod."
             },
             {
-                "id": [
-                    "5"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Preventívna prehliadka vrátane antropometrických meraní."
-                ],
-                "PopisVysetrenia": [
-                    "\r\n      Váha – 60 kg    Výška – 175 cm    TK  115/80 torr, P 76/min. reg.\r\n      Koža -turgor primeraný, scléry anicter. Hlava -neur. orient. bpn\r\n      Pharynx - čistý, LU - nehmatné, Struma - nehmatná, Chrup -sanovovaný\r\n      Cor- akcia reg.\r\n      sluch počuje dobre bilat\r\n      Pulmo -auskult negat, bez bronchitického nálezu,\r\n      Abdomen -voľné, priehmatné, hepar,lien - bpn.,tapot- bil.negat\r\n      ingviny voľné, nebolestivé, palp. nebolestivé\r\n      DK -bez edémov a varixov, svalstvo primerané, lýtko palp. nebolestivé\r\n      Chrbtica - bez obmedzenia pohybu, bez známky blokády\r\n    "
-                ]
+                "id": "5",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Preventívna prehliadka vrátane antropometrických meraní.",
+                "PopisVysetrenia": "\r\n      Váha – 60 kg    Výška – 175 cm    TK  115/80 torr, P 76/min. reg.\r\n      Koža -turgor primeraný, scléry anicter. Hlava -neur. orient. bpn\r\n      Pharynx - čistý, LU - nehmatné, Struma - nehmatná, Chrup -sanovovaný\r\n      Cor- akcia reg.\r\n      sluch počuje dobre bilat\r\n      Pulmo -auskult negat, bez bronchitického nálezu,\r\n      Abdomen -voľné, priehmatné, hepar,lien - bpn.,tapot- bil.negat\r\n      ingviny voľné, nebolestivé, palp. nebolestivé\r\n      DK -bez edémov a varixov, svalstvo primerané, lýtko palp. nebolestivé\r\n      Chrbtica - bez obmedzenia pohybu, bez známky blokády\r\n    "
             },
             {
-                "id": [
-                    "6"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Dnes doobeda pri pílení dreva na chate si pacient porezal ručnou pílou ľavú ruku. Dátum posledného očkovania proti tetanu si nepamätá."
-                ],
-                "PopisVysetrenia": [
-                    "Rezná rana veľkosti cca 3 cm na rozhraní palca a dlane ľavej ruky. Revízia rany a sutúra, TAT i.m. podané, predpísaný Ibalgin 400 tbl. Vulnus sec. l.sin. Odporučenie: Kontrola a stehy ex za 7 dní ad chirurgická amb."
-                ]
+                "id": "6",
+                "Urgenstnost": {
+                    "_": "1",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Dnes doobeda pri pílení dreva na chate si pacient porezal ručnou pílou ľavú ruku. Dátum posledného očkovania proti tetanu si nepamätá.",
+                "PopisVysetrenia": "Rezná rana veľkosti cca 3 cm na rozhraní palca a dlane ľavej ruky. Revízia rany a sutúra, TAT i.m. podané, predpísaný Ibalgin 400 tbl. Vulnus sec. l.sin. Odporučenie: Kontrola a stehy ex za 7 dní ad chirurgická amb."
             },
             {
-                "id": [
-                    "7"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Stav čiastočne zlepšený. Ruka bolí pri úsilných pohyboch a záťaži, lakeť opúcha. "
-                ],
-                "PopisVysetrenia": [
-                    "\r\n      Stav po rehabilitácii a fyzikálnej terapii.\r\n      Prsty pohyblivé, rameno voľné, lakeť opuchnutý len mierne, svaly predlaktia atrofické, pohyblivosť lakťa obmedzená asi o 20 % vo flexii, asi o 30 % v pronácii a supinácii."
-                ]
+                "id": "7",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Stav čiastočne zlepšený. Ruka bolí pri úsilných pohyboch a záťaži, lakeť opúcha. ",
+                "PopisVysetrenia": "\r\n      Stav po rehabilitácii a fyzikálnej terapii.\r\n      Prsty pohyblivé, rameno voľné, lakeť opuchnutý len mierne, svaly predlaktia atrofické, pohyblivosť lakťa obmedzená asi o 20 % vo flexii, asi o 30 % v pronácii a supinácii."
             },
             {
-                "id": [
-                    "8"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Ruku používa len prstami. Ruka bolí pri každom pohybe, najmä v lakti a svaly predlaktia sú bolestivé aj pri pohyboch aj na dotyk. Lakeť opúcha. "
-                ],
-                "PopisVysetrenia": [
-                    "Obj. Prsty pohyblivé, rameno voľné, lakeť opuchnutý, svaly predlaktia atrofické, pohyblivosť lakťa obmedzená asi o 40 % vo flexii, asi o 60 % v pronácii a supinácii."
-                ]
+                "id": "8",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Ruku používa len prstami. Ruka bolí pri každom pohybe, najmä v lakti a svaly predlaktia sú bolestivé aj pri pohyboch aj na dotyk. Lakeť opúcha. ",
+                "PopisVysetrenia": "Obj. Prsty pohyblivé, rameno voľné, lakeť opuchnutý, svaly predlaktia atrofické, pohyblivosť lakťa obmedzená asi o 40 % vo flexii, asi o 60 % v pronácii a supinácii."
             },
             {
-                "id": [
-                    "9"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Prsty pohyblivé, sadra prasknutá, dlaha uvoľnená."
-                ],
-                "PopisVysetrenia": [
-                    "Sňatie sadry."
-                ]
+                "id": "9",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Prsty pohyblivé, sadra prasknutá, dlaha uvoľnená.",
+                "PopisVysetrenia": "Sňatie sadry."
             },
             {
-                "id": [
-                    "10"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Dlaha drží, prsty nemodrajú ani neopúchajú, bolesti znesiteľné aj bez liekov."
-                ],
-                "PopisVysetrenia": [
-                    "Chirurgické ošetrenie, dotočenie dlahy."
-                ]
+                "id": "10",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Dlaha drží, prsty nemodrajú ani neopúchajú, bolesti znesiteľné aj bez liekov.",
+                "PopisVysetrenia": "Chirurgické ošetrenie, dotočenie dlahy."
             },
             {
-                "id": [
-                    "11"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Dnes popoludní spadol z bicykla, udrel si ruku, ale najprv mohol pokračovať v ceste. Po niekoľkých kilometroch jazdy ho bolesť v ľavom predlaktí a obmedzený pohyb donútili zosadnúť z bicykla. Mobilom si privolal pomoc, priatelia ho dopravili na chirurgickú ambulanciu. "
-                ],
-                "PopisVysetrenia": [
-                    "Obj.: Hematóm a edém v oblasti ľavého lakťa, pohyblivosť obmedzená opuchom a bolesťou. RTG lakťa a predlaktia – fisura olecrani 1,5 cm. Kosti predlaktia a zápästia bpn. Liečba: Chirurgické ošetrenie, naloženie dlahy. Tramal 50 mg inj. do svalu Ibalgin tbl. 30x400 mg, 1 tbl. pri bolesti, max. 8 za 24 hod."
-                ]
+                "id": "11",
+                "Urgenstnost": {
+                    "_": "1",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Dnes popoludní spadol z bicykla, udrel si ruku, ale najprv mohol pokračovať v ceste. Po niekoľkých kilometroch jazdy ho bolesť v ľavom predlaktí a obmedzený pohyb donútili zosadnúť z bicykla. Mobilom si privolal pomoc, priatelia ho dopravili na chirurgickú ambulanciu. ",
+                "PopisVysetrenia": "Obj.: Hematóm a edém v oblasti ľavého lakťa, pohyblivosť obmedzená opuchom a bolesťou. RTG lakťa a predlaktia – fisura olecrani 1,5 cm. Kosti predlaktia a zápästia bpn. Liečba: Chirurgické ošetrenie, naloženie dlahy. Tramal 50 mg inj. do svalu Ibalgin tbl. 30x400 mg, 1 tbl. pri bolesti, max. 8 za 24 hod."
             },
             {
-                "id": [
-                    "12"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Stažuje sa na niekoľko týždňov trvajúci vodnatý výtok z nosa, pocit tlaku v čelových dutinách, páleníe očí, chuchmavý hlas. Ťažkosti sa zvýrazňujú v noci, keď spí pri otvorenom okne, cez deň v práci sú príznaky miernejšie. "
-                ],
-                "PopisVysetrenia": [
-                    "Obj.: Rinitída, opuch slizníc. Liečba: ZYRTEC tbl obd 50x10mg, 1 tbl. večer do odznenia príznakov."
-                ]
+                "id": "12",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Stažuje sa na niekoľko týždňov trvajúci vodnatý výtok z nosa, pocit tlaku v čelových dutinách, páleníe očí, chuchmavý hlas. Ťažkosti sa zvýrazňujú v noci, keď spí pri otvorenom okne, cez deň v práci sú príznaky miernejšie. ",
+                "PopisVysetrenia": "Obj.: Rinitída, opuch slizníc. Liečba: ZYRTEC tbl obd 50x10mg, 1 tbl. večer do odznenia príznakov."
             },
             {
-                "id": [
-                    "13"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "true"
-                ],
-                "Anamneza": [
-                    "Pac. po 3. línii paliatívnej chemoterapie pre ca colonis descendentis. Ochorenie inkurabilné, tetrapia neefektívna, vedľajšie účinky prevažujú. "
-                ],
-                "PopisVysetrenia": [
-                    "Obj.: Pac. anemický, ikterický, kachektický."
-                ]
+                "id": "13",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "true",
+                "Anamneza": "Pac. po 3. línii paliatívnej chemoterapie pre ca colonis descendentis. Ochorenie inkurabilné, tetrapia neefektívna, vedľajšie účinky prevažujú. ",
+                "PopisVysetrenia": "Obj.: Pac. anemický, ikterický, kachektický."
             },
             {
-                "id": [
-                    "14"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "true"
-                ],
-                "Anamneza": [
-                    "Pac. po 1. línii paliatívnej chemoterapie pre ca colonis descendentis. progresia, vzostup onkomarkerov, vzostup hepatálnych enzýmov, mts v pečeni. "
-                ],
-                "PopisVysetrenia": [
-                    "Obj.: Pac. bledý, subikterický, nechutenstvo, bolesti brucha. UZV mts pečene."
-                ]
+                "id": "14",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "true",
+                "Anamneza": "Pac. po 1. línii paliatívnej chemoterapie pre ca colonis descendentis. progresia, vzostup onkomarkerov, vzostup hepatálnych enzýmov, mts v pečeni. ",
+                "PopisVysetrenia": "Obj.: Pac. bledý, subikterický, nechutenstvo, bolesti brucha. UZV mts pečene."
             },
             {
-                "id": [
-                    "15"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "true"
-                ],
-                "Anamneza": [
-                    "Pac. po 1. línii paliatívnej chemoterapie pre ca colonis descendentis. progresia, vzostup onkomarkerov, vzostup hepatálnych enzýmov, mts v pečeni. "
-                ],
-                "PopisVysetrenia": [
-                    "Obj.: Pac. bledý, subikterický, nechutenstvo, bolesti brucha. UZV mts pečene."
-                ]
+                "id": "15",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "true",
+                "Anamneza": "Pac. po 1. línii paliatívnej chemoterapie pre ca colonis descendentis. progresia, vzostup onkomarkerov, vzostup hepatálnych enzýmov, mts v pečeni. ",
+                "PopisVysetrenia": "Obj.: Pac. bledý, subikterický, nechutenstvo, bolesti brucha. UZV mts pečene."
             },
             {
-                "id": [
-                    "16"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "true"
-                ],
-                "Anamneza": [
-                    "Pac. po adjuvantnej chemoterapii pre ca colonis descendentis. Ochorenie sa znovu rozbehlo, vzostup onkomarkera CA19-9 a mierny vzostup hladiny hepatálnych enzýmov, mts v pečeni, K-RAS mutovaný."
-                ],
-                "PopisVysetrenia": [
-                    "Obj.: Pac. schudnutý, unavený, palpácia po pr.r.o. bolestivá. UZV mts pečene. CT mts pečene, inak negat."
-                ]
+                "id": "16",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "true",
+                "Anamneza": "Pac. po adjuvantnej chemoterapii pre ca colonis descendentis. Ochorenie sa znovu rozbehlo, vzostup onkomarkera CA19-9 a mierny vzostup hladiny hepatálnych enzýmov, mts v pečeni, K-RAS mutovaný.",
+                "PopisVysetrenia": "Obj.: Pac. schudnutý, unavený, palpácia po pr.r.o. bolestivá. UZV mts pečene. CT mts pečene, inak negat."
             },
             {
-                "id": [
-                    "17"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "true"
-                ],
-                "Anamneza": [
-                    "Pac. po resekcii tu colonis descendentis s resekciou uzlín a end to end anastomózou."
-                ],
-                "PopisVysetrenia": [
-                    "Obj.: Pac. komponovaný, brucho voľné, rana zhojená, hepar nehmatný."
-                ]
+                "id": "17",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "true",
+                "Anamneza": "Pac. po resekcii tu colonis descendentis s resekciou uzlín a end to end anastomózou.",
+                "PopisVysetrenia": "Obj.: Pac. komponovaný, brucho voľné, rana zhojená, hepar nehmatný."
             },
             {
-                "id": [
-                    "18"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "true"
-                ],
-                "Anamneza": [
-                    ""
-                ],
-                "PopisVysetrenia": [
-                    "CT Hrudníka, brucha a malej panvy. V pľúcnom parenchýme nepozorovať žiadne ložiskové zmeny. \r\n      V axilách bez LAP. V mediastíne prebifurkačne zmnožené LU do 9x10mm. V ľavom híle plochá LU do 13mm, v pravom híle podhraničné LU. Bez fluidotoraxu. \r\n      Hepar nezväčšený v CC, difúzne homogénnej štruktúry. Bez lymfadenopatie v retroperitoneu a portokaválne,. Lien, pankreas, nadobličky a obličky veľkostne a štrukturálne v norme. \r\n      Bez ascitu, diskrétne sklerotické zmeny na aorte.\r\n      Záver: Nesuspektná lymfadenopatia v mediastíne, bez ložiskových zmien v hepare, bez lymfadenopatie v retroperitoneu."
-                ]
+                "id": "18",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "true",
+                "Anamneza": "",
+                "PopisVysetrenia": "CT Hrudníka, brucha a malej panvy. V pľúcnom parenchýme nepozorovať žiadne ložiskové zmeny. \r\n      V axilách bez LAP. V mediastíne prebifurkačne zmnožené LU do 9x10mm. V ľavom híle plochá LU do 13mm, v pravom híle podhraničné LU. Bez fluidotoraxu. \r\n      Hepar nezväčšený v CC, difúzne homogénnej štruktúry. Bez lymfadenopatie v retroperitoneu a portokaválne,. Lien, pankreas, nadobličky a obličky veľkostne a štrukturálne v norme. \r\n      Bez ascitu, diskrétne sklerotické zmeny na aorte.\r\n      Záver: Nesuspektná lymfadenopatia v mediastíne, bez ložiskových zmien v hepare, bez lymfadenopatie v retroperitoneu."
             },
             {
-                "id": [
-                    "19"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "true"
-                ],
-                "Anamneza": [
-                    "Pac. s kolonoskpicky dokázaným ca colonis decenndentis. Indikácia kuratívneho chirurgického riešenia."
-                ],
-                "PopisVysetrenia": [
-                    "Pac. dobre komponovaný, brucho voľné, priehmatné, nebolestivé, tumor nehmatný."
-                ]
+                "id": "19",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "true",
+                "Anamneza": "Pac. s kolonoskpicky dokázaným ca colonis decenndentis. Indikácia kuratívneho chirurgického riešenia.",
+                "PopisVysetrenia": "Pac. dobre komponovaný, brucho voľné, priehmatné, nebolestivé, tumor nehmatný."
             },
             {
-                "id": [
-                    "20"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "true"
-                ],
-                "Anamneza": [
-                    ""
-                ],
-                "PopisVysetrenia": [
-                    "Kontrolné vyšetrenie u pac. s kolonoskopickým obrazom ca colonis descendentis, zhodnotenie histológie. \r\n      HISTOLOGICKÝ NÁLEZ č. 99x9/2006 odoslaný dňa: 17.10.2010, príjem materiálu 24.10. 2010 \r\n      Mikroskopicky nalez. \r\n      1.Infiltrujuci adenokarcinóm c. descendens, stredne diferencovaný, WHO gr.\r\n      2. Zhubný nádor hrubého čreva. Zostupná časť - colon descendens. C18.6 \r\n      TNM klasifikácia G2-3, pT3,pN1,pM0 (vyšetrených 15 lymfat.uzlín, v 5 mts)\r\n      Interpretácia / záver:\tAd chir. a onkolog., staging a stanovenie terapie. Onkomarkery, H-testy, KO, HKV, biochémia."
-                ]
+                "id": "20",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "true",
+                "Anamneza": "",
+                "PopisVysetrenia": "Kontrolné vyšetrenie u pac. s kolonoskopickým obrazom ca colonis descendentis, zhodnotenie histológie. \r\n      HISTOLOGICKÝ NÁLEZ č. 99x9/2006 odoslaný dňa: 17.10.2010, príjem materiálu 24.10. 2010 \r\n      Mikroskopicky nalez. \r\n      1.Infiltrujuci adenokarcinóm c. descendens, stredne diferencovaný, WHO gr.\r\n      2. Zhubný nádor hrubého čreva. Zostupná časť - colon descendens. C18.6 \r\n      TNM klasifikácia G2-3, pT3,pN1,pM0 (vyšetrených 15 lymfat.uzlín, v 5 mts)\r\n      Interpretácia / záver:\tAd chir. a onkolog., staging a stanovenie terapie. Onkomarkery, H-testy, KO, HKV, biochémia."
             },
             {
-                "id": [
-                    "21"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "true"
-                ],
-                "Anamneza": [
-                    ""
-                ],
-                "PopisVysetrenia": [
-                    "Kontrolné vyšetrenie u pac. s kolonoskopickým obrazom ca colinis descendentis, zhodnotenie histológie.\r\n      Obj.: Výsledok histologického vyšetrenia\r\n      Zhubný nádor hrubého čreva. Zostupná časť - colon descendens. C18.6 TNM klasifikácia G2-3, pT3,pN1,pM0 (vyšetrených 15 lymfat.uzlín, v 5 mts) \r\n      Ad chir. a onkolog., staging a stanovenie terapie. Onkomarkery, H-testy, KO, HKV, biochémia."
-                ]
+                "id": "21",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "true",
+                "Anamneza": "",
+                "PopisVysetrenia": "Kontrolné vyšetrenie u pac. s kolonoskopickým obrazom ca colinis descendentis, zhodnotenie histológie.\r\n      Obj.: Výsledok histologického vyšetrenia\r\n      Zhubný nádor hrubého čreva. Zostupná časť - colon descendens. C18.6 TNM klasifikácia G2-3, pT3,pN1,pM0 (vyšetrených 15 lymfat.uzlín, v 5 mts) \r\n      Ad chir. a onkolog., staging a stanovenie terapie. Onkomarkery, H-testy, KO, HKV, biochémia."
             },
             {
-                "id": [
-                    "22"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "true"
-                ],
-                "Anamneza": [
-                    ""
-                ],
-                "PopisVysetrenia": [
-                    "Pac. odoslaný na kolonoskopiu pre susp. ca colonis a staging.. \r\n      Kolonoskopický nález C.DESCENDENS: steny elastické, sliznica ružová, cievna kresba ostrá, v hĺbke 35cm od anu sa nachádza takmer cirkulárny polypoidnoinfiltratívny tumor endoskopicky malígneho vzhľadu- 4x ad histol./sk.1/, lúmen mierne redukovaný, ale priechodný pre prístroj, cca 4cm C. (ostatné úseky): voľne priechodné, sliznica bez patológie \r\n      TERMINÁLNE ILEUM: nevyšetrené\r\n      Záver: \r\n      1. Cirkulárny tumor c.descendens - endoskop. malíg. vzhľadu- def. histol.- /sk.1/ \r\n      2. Normálny nález na ostatnom čreve \r\n      3. Miestami zriedená stolica v celom rozsahu vyšetrenia. \r\n      \r\n      Kontrola s výsledkom histológie."
-                ]
+                "id": "22",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "true",
+                "Anamneza": "",
+                "PopisVysetrenia": "Pac. odoslaný na kolonoskopiu pre susp. ca colonis a staging.. \r\n      Kolonoskopický nález C.DESCENDENS: steny elastické, sliznica ružová, cievna kresba ostrá, v hĺbke 35cm od anu sa nachádza takmer cirkulárny polypoidnoinfiltratívny tumor endoskopicky malígneho vzhľadu- 4x ad histol./sk.1/, lúmen mierne redukovaný, ale priechodný pre prístroj, cca 4cm C. (ostatné úseky): voľne priechodné, sliznica bez patológie \r\n      TERMINÁLNE ILEUM: nevyšetrené\r\n      Záver: \r\n      1. Cirkulárny tumor c.descendens - endoskop. malíg. vzhľadu- def. histol.- /sk.1/ \r\n      2. Normálny nález na ostatnom čreve \r\n      3. Miestami zriedená stolica v celom rozsahu vyšetrenia. \r\n      \r\n      Kontrola s výsledkom histológie."
             },
             {
-                "id": [
-                    "23"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "true"
-                ],
-                "Anamneza": [
-                    "Pac. odoslaný na kolonoskopiu pre susp. ca colonis."
-                ],
-                "PopisVysetrenia": [
-                    "Obj.: Kolonoskopický nález.\r\n      Interpretácia / záver:\tZhubný nádor hrubého čreva. Zostupná časť - colon descendens. C18.6"
-                ]
+                "id": "23",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "true",
+                "Anamneza": "Pac. odoslaný na kolonoskopiu pre susp. ca colonis.",
+                "PopisVysetrenia": "Obj.: Kolonoskopický nález.\r\n      Interpretácia / záver:\tZhubný nádor hrubého čreva. Zostupná časť - colon descendens. C18.6"
             },
             {
-                "id": [
-                    "24"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Pac. odoslaný z chirurgického odd. po prekonaní akútnej hlbokej trombózy za účelom vylúčenia interkurentného urologického ochorenia."
-                ],
-                "PopisVysetrenia": [
-                    "Obj.: Bpn. na prostate a semeníkoch.\r\n      Podozrenie na ochorenie urologické NS. N30.9. Moč chem + sediment, PSA."
-                ]
+                "id": "24",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Pac. odoslaný z chirurgického odd. po prekonaní akútnej hlbokej trombózy za účelom vylúčenia interkurentného urologického ochorenia.",
+                "PopisVysetrenia": "Obj.: Bpn. na prostate a semeníkoch.\r\n      Podozrenie na ochorenie urologické NS. N30.9. Moč chem + sediment, PSA."
             },
             {
-                "id": [
-                    "25"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Včera bol na rybách, popoludní už nemohol obsedieť, necítil sa dobre a išiel predčasne domov. Cestou začal pociťovať bolesti v pravom lýtku, dostal horúčku, vzal si Anopyrín. Zle spal. Ráno horúčka a bolesti pravého lýtka, ktoré začali v deň predtým."
-                ],
-                "PopisVysetrenia": [
-                    "Obj.: Bolestivý opuch ľavého predkolenia + 7 cm, horúce začervenanie, koža lesklá, napätá. Pacient schvátený.\r\n      Liečba: ad chirurgická amb., podozrenie na bližšie neurčenú tromboflebitídu hlbokých žíl dolnej končatiny."
-                ]
+                "id": "25",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Včera bol na rybách, popoludní už nemohol obsedieť, necítil sa dobre a išiel predčasne domov. Cestou začal pociťovať bolesti v pravom lýtku, dostal horúčku, vzal si Anopyrín. Zle spal. Ráno horúčka a bolesti pravého lýtka, ktoré začali v deň predtým.",
+                "PopisVysetrenia": "Obj.: Bolestivý opuch ľavého predkolenia + 7 cm, horúce začervenanie, koža lesklá, napätá. Pacient schvátený.\r\n      Liečba: ad chirurgická amb., podozrenie na bližšie neurčenú tromboflebitídu hlbokých žíl dolnej končatiny."
             },
             {
-                "id": [
-                    "26"
-                ],
-                "Urgenstnost": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "UrgenstnostVysetrenia"
-                        ]
-                    }
-                ],
-                "DispenzarizovanyPacient": [
-                    "false"
-                ],
-                "Anamneza": [
-                    "Pac. odoslaný praktickým lekárom pre podozrenie na akútnu trombofelebitídu po záťaži na rybách. "
-                ],
-                "PopisVysetrenia": [
-                    "\r\n      Obj.: Obmedzená pohyblivosť, začervenanie, palpačná bolestivosť. Opuch + 5 cm. Pacient dobre komponovaný. TK 140/80 mmHg. KO, HKV, biochémia zákl.\r\n      Liečba: Ampicilin, Fraxiparin, Warfarin. Ad chirurgické odd..\r\n    "
-                ]
+                "id": "26",
+                "Urgenstnost": {
+                    "_": "3",
+                    "id": "UrgenstnostVysetrenia"
+                },
+                "DispenzarizovanyPacient": "false",
+                "Anamneza": "Pac. odoslaný praktickým lekárom pre podozrenie na akútnu trombofelebitídu po záťaži na rybách. ",
+                "PopisVysetrenia": "\r\n      Obj.: Obmedzená pohyblivosť, začervenanie, palpačná bolestivosť. Opuch + 5 cm. Pacient dobre komponovaný. TK 140/80 mmHg. KO, HKV, biochémia zákl.\r\n      Liečba: Ampicilin, Fraxiparin, Warfarin. Ad chirurgické odd..\r\n    "
             }
         ]
     }

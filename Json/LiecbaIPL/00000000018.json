@@ -2,384 +2,174 @@
     "LiecbaIPLs": {
         "LiecbaIPL": [
             {
-                "id": [
-                    "1"
-                ],
-                "DiagnozaKod": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Diagnoza"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "DiagnozaNazov": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Diagnoza"
-                        ]
-                    }
-                ],
-                "DatumOd": [
-                    "2014-02-24T10:00:00"
-                ],
-                "DatumDo": [
-                    "2014-08-24T10:00:00"
-                ],
-                "IPLNazov": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "IPL"
-                        ]
-                    }
-                ],
-                "CelkoveMnozstvo": [
-                    "2 gram"
-                ],
-                "Davkovanie": [
-                    "a 8 hod."
-                ],
-                "Stornovany": [
-                    "False"
-                ],
-                "DatumStornovania": [
-                    ""
-                ],
-                "StornovalZdravPracovnik": [
-                    ""
-                ],
-                "PovodMedikacnehoZaznamu": [
-                    "Na základe lekárskeho predpisu"
-                ],
-                "Popis": [
-                    "IPL definovane zlozenim"
-                ],
-                "OrdinujuciLekar": [
-                    "2"
-                ],
-                "OdporucajuciLekar": [
-                    "1"
-                ],
-                "Zlozky": [
-                    {
-                        "Zlozka": [
-                            {
-                                "Nazov": [
-                                    "Digoxín"
-                                ],
-                                "Mnozstvo": [
-                                    "4,5 gram"
-                                ]
-                            },
-                            {
-                                "Nazov": [
-                                    "Hlina"
-                                ],
-                                "Mnozstvo": [
-                                    "1,5 gram"
-                                ]
-                            },
-                            {
-                                "Nazov": [
-                                    "Warfarín"
-                                ],
-                                "Mnozstvo": [
-                                    "3,5 gram"
-                                ]
-                            }
-                        ]
-                    }
-                ]
+                "id": "1",
+                "DiagnozaKod": {
+                    "_": "1",
+                    "id": "Diagnoza",
+                    "elementName": "Kod"
+                },
+                "DiagnozaNazov": {
+                    "_": "1",
+                    "id": "Diagnoza"
+                },
+                "DatumOd": "2014-02-24T10:00:00",
+                "DatumDo": "2014-08-24T10:00:00",
+                "IPLNazov": {
+                    "_": "1",
+                    "id": "IPL"
+                },
+                "CelkoveMnozstvo": "2 gram",
+                "Davkovanie": "a 8 hod.",
+                "Stornovany": "False",
+                "DatumStornovania": "",
+                "StornovalZdravPracovnik": "",
+                "PovodMedikacnehoZaznamu": "Na základe lekárskeho predpisu",
+                "Popis": "IPL definovane zlozenim",
+                "OrdinujuciLekar": "2",
+                "OdporucajuciLekar": "1",
+                "Zlozky": {
+                    "Zlozka": [
+                        {
+                            "Nazov": "Digoxín",
+                            "Mnozstvo": "4,5 gram"
+                        },
+                        {
+                            "Nazov": "Hlina",
+                            "Mnozstvo": "1,5 gram"
+                        },
+                        {
+                            "Nazov": "Warfarín",
+                            "Mnozstvo": "3,5 gram"
+                        }
+                    ]
+                }
             },
             {
-                "id": [
-                    "2"
-                ],
-                "DiagnozaKod": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Diagnoza"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
+                "id": "2",
+                "DiagnozaKod": {
+                    "_": "2",
+                    "id": "Diagnoza",
+                    "elementName": "Kod"
+                },
+                "DiagnozaNazov": {
+                    "_": "1",
+                    "id": "Diagnoza"
+                },
+                "DatumOd": "2013-02-24T10:00:00",
+                "DatumDo": "2013-05-24T10:00:00",
+                "IPLNazov": {
+                    "_": "2",
+                    "id": "IPL"
+                },
+                "CelkoveMnozstvo": "2 gram",
+                "Davkovanie": "1x1",
+                "Stornovany": "False",
+                "DatumStornovania": "",
+                "StornovalZdravPracovnik": "",
+                "PovodMedikacnehoZaznamu": "Na základe lekárskeho predpisu",
+                "Popis": "IPL definovane zlozenim",
+                "OrdinujuciLekar": "2",
+                "OdporucajuciLekar": "1",
+                "Zlozky": {
+                    "Zlozka": {
+                        "Nazov": "Digoxín",
+                        "Mnozstvo": "4,5 gram"
                     }
-                ],
-                "DiagnozaNazov": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Diagnoza"
-                        ]
-                    }
-                ],
-                "DatumOd": [
-                    "2013-02-24T10:00:00"
-                ],
-                "DatumDo": [
-                    "2013-05-24T10:00:00"
-                ],
-                "IPLNazov": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "IPL"
-                        ]
-                    }
-                ],
-                "CelkoveMnozstvo": [
-                    "2 gram"
-                ],
-                "Davkovanie": [
-                    "1x1"
-                ],
-                "Stornovany": [
-                    "False"
-                ],
-                "DatumStornovania": [
-                    ""
-                ],
-                "StornovalZdravPracovnik": [
-                    ""
-                ],
-                "PovodMedikacnehoZaznamu": [
-                    "Na základe lekárskeho predpisu"
-                ],
-                "Popis": [
-                    "IPL definovane zlozenim"
-                ],
-                "OrdinujuciLekar": [
-                    "2"
-                ],
-                "OdporucajuciLekar": [
-                    "1"
-                ],
-                "Zlozky": [
-                    {
-                        "Zlozka": [
-                            {
-                                "Nazov": [
-                                    "Digoxín"
-                                ],
-                                "Mnozstvo": [
-                                    "4,5 gram"
-                                ]
-                            }
-                        ]
-                    }
-                ]
+                }
             },
             {
-                "id": [
-                    "3"
-                ],
-                "DiagnozaKod": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "Diagnoza"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "DiagnozaNazov": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Diagnoza"
-                        ]
-                    }
-                ],
-                "DatumOd": [
-                    "2013-05-15T00:00:00"
-                ],
-                "DatumDo": [
-                    "2014-03-26T00:00:00"
-                ],
-                "IPLNazov": [
-                    {
-                        "_": "3",
-                        "id": [
-                            "IPL"
-                        ]
-                    }
-                ],
-                "CelkoveMnozstvo": [
-                    "15 gram"
-                ],
-                "Davkovanie": [
-                    "1x denne"
-                ],
-                "Stornovany": [
-                    "False"
-                ],
-                "DatumStornovania": [
-                    ""
-                ],
-                "StornovalZdravPracovnik": [
-                    ""
-                ],
-                "PovodMedikacnehoZaznamu": [
-                    "Na základe lekárskeho predpisu"
-                ],
-                "Popis": [
-                    "IPL definovane zlozenim"
-                ],
-                "OrdinujuciLekar": [
-                    "2"
-                ],
-                "OdporucajuciLekar": [
-                    "1"
-                ],
-                "Zlozky": [
-                    {
-                        "Zlozka": [
-                            {
-                                "Nazov": [
-                                    "Digoxín"
-                                ],
-                                "Mnozstvo": [
-                                    "4,5 gram"
-                                ]
-                            },
-                            {
-                                "Nazov": [
-                                    "Warfarín"
-                                ],
-                                "Mnozstvo": [
-                                    "3,5 gram"
-                                ]
-                            }
-                        ]
-                    }
-                ]
+                "id": "3",
+                "DiagnozaKod": {
+                    "_": "3",
+                    "id": "Diagnoza",
+                    "elementName": "Kod"
+                },
+                "DiagnozaNazov": {
+                    "_": "1",
+                    "id": "Diagnoza"
+                },
+                "DatumOd": "2013-05-15T00:00:00",
+                "DatumDo": "2014-03-26T00:00:00",
+                "IPLNazov": {
+                    "_": "3",
+                    "id": "IPL"
+                },
+                "CelkoveMnozstvo": "15 gram",
+                "Davkovanie": "1x denne",
+                "Stornovany": "False",
+                "DatumStornovania": "",
+                "StornovalZdravPracovnik": "",
+                "PovodMedikacnehoZaznamu": "Na základe lekárskeho predpisu",
+                "Popis": "IPL definovane zlozenim",
+                "OrdinujuciLekar": "2",
+                "OdporucajuciLekar": "1",
+                "Zlozky": {
+                    "Zlozka": [
+                        {
+                            "Nazov": "Digoxín",
+                            "Mnozstvo": "4,5 gram"
+                        },
+                        {
+                            "Nazov": "Warfarín",
+                            "Mnozstvo": "3,5 gram"
+                        }
+                    ]
+                }
             },
             {
-                "id": [
-                    "4"
-                ],
-                "DiagnozaKod": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "Diagnoza"
-                        ],
-                        "elementName": [
-                            "Kod"
-                        ]
-                    }
-                ],
-                "DiagnozaNazov": [
-                    {
-                        "_": "1",
-                        "id": [
-                            "Diagnoza"
-                        ]
-                    }
-                ],
-                "DatumOd": [
-                    "2013-02-24T10:00:00"
-                ],
-                "DatumDo": [
-                    "2016-08-24T10:00:00"
-                ],
-                "IPLNazov": [
-                    {
-                        "_": "2",
-                        "id": [
-                            "IPL"
-                        ]
-                    }
-                ],
-                "CelkoveMnozstvo": [
-                    "1 gram"
-                ],
-                "Davkovanie": [
-                    "3x1"
-                ],
-                "Stornovany": [
-                    "False"
-                ],
-                "DatumStornovania": [
-                    ""
-                ],
-                "StornovalZdravPracovnik": [
-                    ""
-                ],
-                "PovodMedikacnehoZaznamu": [
-                    "Na základe lekárskeho predpisu"
-                ],
-                "Popis": [
-                    "IPL definovane zlozenim"
-                ],
-                "OrdinujuciLekar": [
-                    "2"
-                ],
-                "OdporucajuciLekar": [
-                    "1"
-                ],
-                "Zlozky": [
-                    {
-                        "Zlozka": [
-                            {
-                                "Nazov": [
-                                    "Digoxín"
-                                ],
-                                "Mnozstvo": [
-                                    "4,5 gram"
-                                ]
-                            },
-                            {
-                                "Nazov": [
-                                    "Hlina"
-                                ],
-                                "Mnozstvo": [
-                                    "1,5 gram"
-                                ]
-                            },
-                            {
-                                "Nazov": [
-                                    "Warfarín"
-                                ],
-                                "Mnozstvo": [
-                                    "3,5 gram"
-                                ]
-                            },
-                            {
-                                "Nazov": [
-                                    "Digoxín 2"
-                                ],
-                                "Mnozstvo": [
-                                    "4,5 gram"
-                                ]
-                            },
-                            {
-                                "Nazov": [
-                                    "Hlina 2"
-                                ],
-                                "Mnozstvo": [
-                                    "1,5 gram"
-                                ]
-                            },
-                            {
-                                "Nazov": [
-                                    "Warfarín 2"
-                                ],
-                                "Mnozstvo": [
-                                    "3,5 gram"
-                                ]
-                            }
-                        ]
-                    }
-                ]
+                "id": "4",
+                "DiagnozaKod": {
+                    "_": "2",
+                    "id": "Diagnoza",
+                    "elementName": "Kod"
+                },
+                "DiagnozaNazov": {
+                    "_": "1",
+                    "id": "Diagnoza"
+                },
+                "DatumOd": "2013-02-24T10:00:00",
+                "DatumDo": "2016-08-24T10:00:00",
+                "IPLNazov": {
+                    "_": "2",
+                    "id": "IPL"
+                },
+                "CelkoveMnozstvo": "1 gram",
+                "Davkovanie": "3x1",
+                "Stornovany": "False",
+                "DatumStornovania": "",
+                "StornovalZdravPracovnik": "",
+                "PovodMedikacnehoZaznamu": "Na základe lekárskeho predpisu",
+                "Popis": "IPL definovane zlozenim",
+                "OrdinujuciLekar": "2",
+                "OdporucajuciLekar": "1",
+                "Zlozky": {
+                    "Zlozka": [
+                        {
+                            "Nazov": "Digoxín",
+                            "Mnozstvo": "4,5 gram"
+                        },
+                        {
+                            "Nazov": "Hlina",
+                            "Mnozstvo": "1,5 gram"
+                        },
+                        {
+                            "Nazov": "Warfarín",
+                            "Mnozstvo": "3,5 gram"
+                        },
+                        {
+                            "Nazov": "Digoxín 2",
+                            "Mnozstvo": "4,5 gram"
+                        },
+                        {
+                            "Nazov": "Hlina 2",
+                            "Mnozstvo": "1,5 gram"
+                        },
+                        {
+                            "Nazov": "Warfarín 2",
+                            "Mnozstvo": "3,5 gram"
+                        }
+                    ]
+                }
             }
         ]
     }

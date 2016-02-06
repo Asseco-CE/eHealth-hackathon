@@ -2,38 +2,18 @@
     "SumarZdravProbTerapeutickePlany": {
         "SumarZdravProbTerapeutickyPlan": [
             {
-                "id": [
-                    "1"
-                ],
-                "Popis": [
-                    "Popis terapeutického plánu"
-                ],
-                "Poznamka": [
-                    "Poznámka k terapeutickému plánu"
-                ],
-                "Stornovany": [
-                    "False"
-                ],
-                "Zneplatneny": [
-                    "False"
-                ]
+                "id": "1",
+                "Popis": "Popis terapeutického plánu",
+                "Poznamka": "Poznámka k terapeutickému plánu",
+                "Stornovany": "False",
+                "Zneplatneny": "False"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Popis": [
-                    "Popis terapeutického plánu"
-                ],
-                "Poznamka": [
-                    "Poznámka k terapeutickému plánu"
-                ],
-                "Stornovany": [
-                    "False"
-                ],
-                "Zneplatneny": [
-                    "False"
-                ]
+                "id": "2",
+                "Popis": "Popis terapeutického plánu",
+                "Poznamka": "Poznámka k terapeutickému plánu",
+                "Stornovany": "False",
+                "Zneplatneny": "False"
             }
         ]
     }

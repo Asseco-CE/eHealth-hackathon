@@ -2,20 +2,12 @@
     "Pohlavia": {
         "Pohlavie": [
             {
-                "id": [
-                    "1"
-                ],
-                "Nazov": [
-                    "Muž"
-                ]
+                "id": "1",
+                "Nazov": "Muž"
             },
             {
-                "id": [
-                    "2"
-                ],
-                "Nazov": [
-                    "Žena"
-                ]
+                "id": "2",
+                "Nazov": "Žena"
             }
         ]
     }
