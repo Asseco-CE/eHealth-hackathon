@@ -16,15 +16,11 @@ V repozirári sa nachádzajú **Demo** zdravotné údaje, ktoré môžu byť vyu
 Zdrojové údaje sú v XML súboroch rozdelené podľa jednotlivých typoch záznamov.
 Pomocou [Node.js®](https://nodejs.org/en/) pluginu [Gulp](http://gulpjs.com/) sú skonvertované aj do JSON formátu.
 
-## TODO
-
-* Upraviť konfiguráciu xml2json parsera, aby negeneroval hodnoty formou poľa.
-
 ## Popis Demo údajov
 
 ### Číselníky
 
-Číselníky sú uložené v samostatných súboroch, ktoré sa nachádzajú priamo v priečinku [Xml](./Xml), resp. [Json](./Json).
+Číselníky sú uložené v samostatných súboroch *(platí, že 1 súbor = 1 číselník)*, ktoré sa nachádzajú priamo v priečinku [Xml](./Xml), resp. [Json](./Json).
 
 #### XML formát
 
@@ -58,18 +54,10 @@ Položka môže obsahovať ďalšie vlastnosti špecifické pre daný číselní
         "Diagnoza": [
     <!--    ...   -->
             {
-                "id": [
-                    "5"
-                ],
-                "Nazov": [
-                    "Iné zdĺhavé choroby mandlí a adenoidného tkaniva"
-                ],
-                "Kod": [
-                    "J35.8"
-                ],
-                "UpresnenieDiagnozy": [
-                    "zväčšené mandle"
-                ]
+                "id": "5",
+                "Nazov": "Iné zdĺhavé choroby mandlí a adenoidného tkaniva",
+                "Kod": "J35.8",
+                "UpresnenieDiagnozy": "zväčšené mandle"
             },
     <!--    ...   -->
         ]
@@ -78,6 +66,16 @@ Položka môže obsahovať ďalšie vlastnosti špecifické pre daný číselní
 ```            
 
 ### Zdravotné záznamy
+
+Zdravotné záznamy sú na základe typu rozdelené do viacerích priečinkov *(platí, že 1 priečinok = 1 typ zdravotného záznamu)* (napr. `SumarLiekovaAnamneza`). V každom priečinku sa nachádzajú súbory obsahujúce záznamy jednotlivých pacientov (napr. súbor `00000000018.xml` obsahuje zdravotné záznamy pacienta s identifikátorom `00000000018`). Zdravotné záznamy spravidla obsahujú odkazy na číselníkové údaje na základe názvu číselníka a identifikátora číselníkovej položky.
+
+#### XML formát
+
+> TODO Doplniť popis a ukážku
+
+#### JSON formát
+
+> TODO Doplniť popis a ukážku
 
 ---
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
