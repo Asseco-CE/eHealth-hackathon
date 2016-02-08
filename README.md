@@ -123,5 +123,9 @@ Súbor obsahuje zoznam JSON objektov reprezentujúcich jednotlivé zdravotné z�
 }
 ```
 
+## Inštrukcie
+
+Po prečítaní popisu DEMO údajov si prečítajte [**Inštrukcie**](./Instructions.md) k ich využitiu pre hackathon.
+
 ---
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
