@@ -52,14 +52,14 @@ Položka môže obsahovať ďalšie vlastnosti špecifické pre daný číselní
 {
     "Diagnozy": {
         "Diagnoza": [
-    <!--    ...   -->
+    //  ...   
             {
                 "id": "5",
                 "Nazov": "Iné zdĺhavé choroby mandlí a adenoidného tkaniva",
                 "Kod": "J35.8",
                 "UpresnenieDiagnozy": "zväčšené mandle"
             },
-    <!--    ...   -->
+    //  ...
         ]
     }
 }
@@ -71,11 +71,57 @@ Zdravotné záznamy sú na základe typu rozdelené do viacerích priečinkov *(
 
 #### XML formát
 
-> TODO Doplniť popis a ukážku
+Schémy ku XML údajom neexistujú, v zásade sú však názvy elementov a atribútov samopopisujúce.
+Pod koreňovým elementom sú umiestnené samotné záznamy. 
+Elementy s atribútom `id` predstavujú odkazy na číselníkové položky (napr. `id="Diagnoza"` sa odkazuje na číselník diagnóz v súbore `Diagnoza.xml`). Pokiaľ nie je uvedený atribút `elementName`, odkazuje sa na text elementu `<Nazov>` číselníkovej položky. Inak sa odkazuje na položku podľa hodnoty tohto atribútu (napr. `elementName="Kod"` sa odkazuje na text elementu `<Kod>`).
+
+```xml
+<SumarZdravProbAktualne>
+    <SumarZdravProbAktualny id="1">
+        <Diagnoza id="Diagnoza" elementName="Kod">7</Diagnoza>
+        <DiagnozaPopis id="Diagnoza">7</DiagnozaPopis>
+        <DiagnozaUpresnenie>Puknutá kosť</DiagnozaUpresnenie>
+        <CasVzniku>2012-07-09T07:22:00</CasVzniku>
+        <Poznamka>pracuje v živočíšnej výrobe</Poznamka>
+        <Biohazard>False</Biohazard>
+        <Stornovany>False</Stornovany>
+        <Zneplatneny>False</Zneplatneny>
+    </SumarZdravProbAktualny>
+    ...
+</SumarZdravProbAktualne>
+```
 
 #### JSON formát
 
-> TODO Doplniť popis a ukážku
+Súbor obsahuje zoznam JSON objektov reprezentujúcich jednotlivé zdravotné záznamy. Položky, ktoré obsahujú objekt sa odkazujú na číselníkové položky (napr. objekt s vlastnosťou `"id": "Diagnoza"` sa odkazuje na číselník diagnóz v súbore `Diagnoza.json`). Pokiaľ nie je uvedená vlastnosť `elementName`, odkazuje sa na text vlastnosti `"Nazov"` číselníkovej položky. Inak sa odkazuje na položku podľa hodnoty tohto atribútu (napr. `"elementName": "Kod"` sa odkazuje na text vlastnosti `"Kod"`).
+
+```javascript
+{
+    "SumarZdravProbAktualne": {
+        "SumarZdravProbAktualny": [
+            {
+                "id": "1",
+                "Diagnoza": {
+                    "_": "7",
+                    "id": "Diagnoza",
+                    "elementName": "Kod"
+                },
+                "DiagnozaPopis": {
+                    "_": "7",
+                    "id": "Diagnoza"
+                },
+                "DiagnozaUpresnenie": "Puknutá kosť",
+                "CasVzniku": "2012-07-09T07:22:00",
+                "Poznamka": "pracuje v živočíšnej výrobe",
+                "Biohazard": "False",
+                "Stornovany": "False",
+                "Zneplatneny": "False"
+            },
+        //  ...
+        ]
+    }
+}
+```
 
 ---
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
