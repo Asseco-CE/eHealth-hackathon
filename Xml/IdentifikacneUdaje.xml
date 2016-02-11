@@ -2,8 +2,8 @@
 
 <IdentifikacneUdaje>
   <IdentifikacnyUdaj id="00000000018">
-    <RodnePriezvisko>Ladinák</RodnePriezvisko>
-    <RodneCislo>690301/5214</RodneCislo>
+    <RodnePriezvisko>Mrkvička</RodnePriezvisko>
+    <RodneCislo>710401/0122</RodneCislo>
     <Pohlavie id="Pohlavie">1</Pohlavie>
     <RodinnyStav id="RodinnyStav">2</RodinnyStav>
     <Stat id="Krajina">1</Stat>
@@ -14,10 +14,10 @@
     <Psc id="Psc">7</Psc>
     <Telefon1>0909 321 111</Telefon1>
     <Telefon2></Telefon2>
-    <EMail>aladinak@mail.tcom.sk</EMail>
+    <EMail>jan.mrkvicka@mail.tcom.sk</EMail>
     <ZdravotnaPoistovna id="ZdravotnaPoistovna">1</ZdravotnaPoistovna>
     <KodPoistovne id="ZdravotnaPoistovna" elementName="Kod">1</KodPoistovne>
-    <CisloPoistenca>6903015214</CisloPoistenca>
+    <CisloPoistenca>7104010122</CisloPoistenca>
     <PlatnostOd>2007-02-03T10:00:00</PlatnostOd>
     <EPP>91329785211164976245</EPP>
     <PlatnostEPP>2016-05-31T00:00:00</PlatnostEPP>
@@ -25,8 +25,8 @@
 
 
   <IdentifikacnyUdaj id="00000000026">
-    <RodnePriezvisko>Ladinák</RodnePriezvisko>
-    <RodneCislo>940813/8941</RodneCislo>
+    <RodnePriezvisko>Paprička</RodnePriezvisko>
+    <RodneCislo>910413/0123</RodneCislo>
     <Pohlavie id="Pohlavie">1</Pohlavie>
     <RodinnyStav id="RodinnyStav">1</RodinnyStav>
     <Stat id="Krajina">1</Stat>
@@ -37,18 +37,18 @@
     <Psc id="Psc">7</Psc>
     <Telefon1>+421344322718</Telefon1>
     <Telefon2>0915689756</Telefon2>
-    <EMail>miroslavml.ladinak@yahoo.com</EMail>
+    <EMail>miroslavml.papricka@yahoo.com</EMail>
     <ZdravotnaPoistovna id="ZdravotnaPoistovna">1</ZdravotnaPoistovna>
     <KodPoistovne id="ZdravotnaPoistovna" elementName="Kod">1</KodPoistovne>
-    <CisloPoistenca>9408138941</CisloPoistenca>
+    <CisloPoistenca>9104130123</CisloPoistenca>
     <PlatnostOd>2009-02-03T10:00:00</PlatnostOd>
     <EPP>98669782373165907852</EPP>
     <PlatnostEPP>2017-05-01T00:00:00</PlatnostEPP>
   </IdentifikacnyUdaj>
 
   <IdentifikacnyUdaj id="00000000059">
-    <RodnePriezvisko>Ladinák</RodnePriezvisko>
-    <RodneCislo>380222/529</RodneCislo>
+    <RodnePriezvisko>Reďkvička</RodnePriezvisko>
+    <RodneCislo>450222/012</RodneCislo>
     <Pohlavie id="Pohlavie">1</Pohlavie>
     <RodinnyStav id="RodinnyStav">1</RodinnyStav>
     <Stat id="Krajina">1</Stat>
@@ -62,7 +62,7 @@
     <EMail></EMail>
     <ZdravotnaPoistovna id="ZdravotnaPoistovna">1</ZdravotnaPoistovna>
     <KodPoistovne id="ZdravotnaPoistovna" elementName="Kod">1</KodPoistovne>
-    <CisloPoistenca>380222529</CisloPoistenca>
+    <CisloPoistenca>450222012</CisloPoistenca>
     <PlatnostOd>2011-06-01T10:00:00</PlatnostOd>
     <EPP>99669651684165902371</EPP>
     <PlatnostEPP>2018-12-01T00:00:00</PlatnostEPP>
