@@ -4,7 +4,7 @@
   <KontaktnyUdaj id="1">
     <TitulPred id="Titul">1</TitulPred>
     <Meno>Adam</Meno>
-    <Priezvisko>Ladinák</Priezvisko>
+    <Priezvisko>Paprička</Priezvisko>
     <TitulZa></TitulZa>
     <Vztah id="Vztah">6</Vztah>
     <Stat id="Krajina">1</Stat>
@@ -14,14 +14,14 @@
     <Cislo>33</Cislo>
     <Psc id="Psc">6</Psc>
     <Telefon>0909 321 111</Telefon>
-    <EMail>aladinak@mail.tcom.sk</EMail>
+    <EMail>apapricka@mail.tcom.sk</EMail>
     <Poznamka></Poznamka>
   </KontaktnyUdaj>
 
   <KontaktnyUdaj id="2">
     <TitulPred id="Titul">1</TitulPred>
     <Meno>Eva</Meno>
-    <Priezvisko>Ladináková</Priezvisko>
+    <Priezvisko>Papričková</Priezvisko>
     <TitulZa></TitulZa>
     <Vztah id="Vztah">7</Vztah>
     <Stat id="Krajina">1</Stat>

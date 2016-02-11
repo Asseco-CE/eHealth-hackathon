@@ -5,7 +5,7 @@
     <PristupCm id="1">
         <DatumAkcie>2014-03-02T10:00:00</DatumAkcie>
         <Akcia id="TypAkcieCm">3</Akcia>
-        <Vykonal>Mudr. Pavol Mihalov</Vykonal>
+        <Vykonal>Mudr. Pavol Michalec</Vykonal>
         <PristupKStranke id="TypPristupuKStrankeCm">1</PristupKStranke>
         <KodStranky id="TypPristupuKStrankeCm" elementName="KodStranky">1</KodStranky>
         <Vysledok id="VysledokAkcieCm">1</Vysledok>
@@ -20,7 +20,7 @@
     <PristupCm id="2">
         <DatumAkcie>2014-03-01T13:23:43</DatumAkcie>
         <Akcia id="TypAkcieCm">3</Akcia>
-        <Vykonal>Mudr. Pavol Mihalov</Vykonal>
+        <Vykonal>Mudr. Pavol Michalec</Vykonal>
         <PristupKStranke id="TypPristupuKStrankeCm">2</PristupKStranke>
         <KodStranky id="TypPristupuKStrankeCm" elementName="KodStranky">2</KodStranky>
         <Vysledok id="VysledokAkcieCm">1</Vysledok>
@@ -36,7 +36,7 @@
     <PristupCm id="3">
         <DatumAkcie>2014-03-02T13:23:43</DatumAkcie>
         <Akcia id="TypAkcieCm">3</Akcia>
-        <Vykonal>Adam Ladinak</Vykonal>
+        <Vykonal>Ján Mrkvička</Vykonal>
         <PristupKStranke id="TypPristupuKStrankeCm">2</PristupKStranke>
         <KodStranky id="TypPristupuKStrankeCm" elementName="KodStranky">2</KodStranky>
         <Vysledok id="VysledokAkcieCm">1</Vysledok>
@@ -46,7 +46,7 @@
     <PristupCm id="4">
         <DatumAkcie>2014-03-03T11:13:23</DatumAkcie>
         <Akcia id="TypAkcieCm">3</Akcia>
-        <Vykonal>Eva Ladináková</Vykonal>
+        <Vykonal>Eva Mrkvičková</Vykonal>
         <PristupKStranke id="TypPristupuKStrankeCm">2</PristupKStranke>
         <KodStranky id="TypPristupuKStrankeCm" elementName="KodStranky">2</KodStranky>
         <Vysledok id="VysledokAkcieCm">1</Vysledok>

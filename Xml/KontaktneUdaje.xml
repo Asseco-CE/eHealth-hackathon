@@ -4,7 +4,7 @@
     <KontaktneUdajePacienta id="00000000018">
         <Poznamka>Test poznamka</Poznamka>
         
-        <PrefPravnickaOsobaNazov>MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých</PrefPravnickaOsobaNazov>
+        <PrefPravnickaOsobaNazov>MUDr. Pavol Michalec, Všeobecný lekár pre dospelých</PrefPravnickaOsobaNazov>
         <PrefPravnickaOsobaEmail>Test@test.sk</PrefPravnickaOsobaEmail>
         <PrefPravnickaOsobaTelefon>0901155531</PrefPravnickaOsobaTelefon>
         <PrefPravnickaOsobaPoznamka>Test poznamky</PrefPravnickaOsobaPoznamka>
@@ -15,10 +15,10 @@
         <PrefPravnickaOsobaOkres id="Okres">3</PrefPravnickaOsobaOkres>
         <PrefPravnickaOsobaStat id="Krajina">1</PrefPravnickaOsobaStat>
 
-        <PrefZdravotnickyPracovnikMeno>Pavol Mihalov</PrefZdravotnickyPracovnikMeno>
-        <PrefZdravotnickyPracovnikEmail>pavol.mihalov@yahoo.com</PrefZdravotnickyPracovnikEmail>
+        <PrefZdravotnickyPracovnikMeno>Pavol Michalec</PrefZdravotnickyPracovnikMeno>
+        <PrefZdravotnickyPracovnikEmail>pavol.michalec@yahoo.com</PrefZdravotnickyPracovnikEmail>
         <PrefZdravotnickyPracovnikTelefon>0915667211</PrefZdravotnickyPracovnikTelefon>
-        <PrefZdravotnickyPracovnikPoznamka>MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých</PrefZdravotnickyPracovnikPoznamka>
+        <PrefZdravotnickyPracovnikPoznamka>MUDr. Pavol Michalec, Všeobecný lekár pre dospelých</PrefZdravotnickyPracovnikPoznamka>
         <PrefZdravotnickyPracovnikUlica>Stupavská</PrefZdravotnickyPracovnikUlica>
         <PrefZdravotnickyPracovnikCislo>22</PrefZdravotnickyPracovnikCislo>
         <PrefZdravotnickyPracovnikPsc id="Psc">6</PrefZdravotnickyPracovnikPsc>
@@ -30,7 +30,7 @@
     <KontaktneUdajePacienta id="00000000026">
         <Poznamka>Test poznamka</Poznamka>
 
-        <PrefPravnickaOsobaNazov>MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých</PrefPravnickaOsobaNazov>
+        <PrefPravnickaOsobaNazov>MUDr. Pavol Michalec, Všeobecný lekár pre dospelých</PrefPravnickaOsobaNazov>
         <PrefPravnickaOsobaEmail>Test@test.sk</PrefPravnickaOsobaEmail>
         <PrefPravnickaOsobaTelefon>0901155531</PrefPravnickaOsobaTelefon>
         <PrefPravnickaOsobaPoznamka>Test poznamky</PrefPravnickaOsobaPoznamka>
@@ -41,10 +41,10 @@
         <PrefPravnickaOsobaOkres id="Okres">3</PrefPravnickaOsobaOkres>
         <PrefPravnickaOsobaStat id="Krajina">1</PrefPravnickaOsobaStat>
 
-        <PrefZdravotnickyPracovnikMeno>Pavol Mihalov</PrefZdravotnickyPracovnikMeno>
-        <PrefZdravotnickyPracovnikEmail>pavol.mihalov@yahoo.com</PrefZdravotnickyPracovnikEmail>
+        <PrefZdravotnickyPracovnikMeno>Pavol Michalec</PrefZdravotnickyPracovnikMeno>
+        <PrefZdravotnickyPracovnikEmail>pavol.michalec@yahoo.com</PrefZdravotnickyPracovnikEmail>
         <PrefZdravotnickyPracovnikTelefon>0915667211</PrefZdravotnickyPracovnikTelefon>
-        <PrefZdravotnickyPracovnikPoznamka>MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých</PrefZdravotnickyPracovnikPoznamka>
+        <PrefZdravotnickyPracovnikPoznamka>MUDr. Pavol Michalec, Všeobecný lekár pre dospelých</PrefZdravotnickyPracovnikPoznamka>
         <PrefZdravotnickyPracovnikUlica>Stupavská</PrefZdravotnickyPracovnikUlica>
         <PrefZdravotnickyPracovnikCislo>22</PrefZdravotnickyPracovnikCislo>
         <PrefZdravotnickyPracovnikPsc id="Psc">6</PrefZdravotnickyPracovnikPsc>
