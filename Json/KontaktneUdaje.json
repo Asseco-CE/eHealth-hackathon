@@ -4,7 +4,7 @@
             {
                 "id": "00000000018",
                 "Poznamka": "Test poznamka",
-                "PrefPravnickaOsobaNazov": "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých",
+                "PrefPravnickaOsobaNazov": "MUDr. Pavol Michalec, Všeobecný lekár pre dospelých",
                 "PrefPravnickaOsobaEmail": "Test@test.sk",
                 "PrefPravnickaOsobaTelefon": "0901155531",
                 "PrefPravnickaOsobaPoznamka": "Test poznamky",
@@ -26,10 +26,10 @@
                     "_": "1",
                     "id": "Krajina"
                 },
-                "PrefZdravotnickyPracovnikMeno": "Pavol Mihalov",
-                "PrefZdravotnickyPracovnikEmail": "pavol.mihalov@yahoo.com",
+                "PrefZdravotnickyPracovnikMeno": "Pavol Michalec",
+                "PrefZdravotnickyPracovnikEmail": "pavol.michalec@yahoo.com",
                 "PrefZdravotnickyPracovnikTelefon": "0915667211",
-                "PrefZdravotnickyPracovnikPoznamka": "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých",
+                "PrefZdravotnickyPracovnikPoznamka": "MUDr. Pavol Michalec, Všeobecný lekár pre dospelých",
                 "PrefZdravotnickyPracovnikUlica": "Stupavská",
                 "PrefZdravotnickyPracovnikCislo": "22",
                 "PrefZdravotnickyPracovnikPsc": {
@@ -52,7 +52,7 @@
             {
                 "id": "00000000026",
                 "Poznamka": "Test poznamka",
-                "PrefPravnickaOsobaNazov": "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých",
+                "PrefPravnickaOsobaNazov": "MUDr. Pavol Michalec, Všeobecný lekár pre dospelých",
                 "PrefPravnickaOsobaEmail": "Test@test.sk",
                 "PrefPravnickaOsobaTelefon": "0901155531",
                 "PrefPravnickaOsobaPoznamka": "Test poznamky",
@@ -74,10 +74,10 @@
                     "_": "1",
                     "id": "Krajina"
                 },
-                "PrefZdravotnickyPracovnikMeno": "Pavol Mihalov",
-                "PrefZdravotnickyPracovnikEmail": "pavol.mihalov@yahoo.com",
+                "PrefZdravotnickyPracovnikMeno": "Pavol Michalec",
+                "PrefZdravotnickyPracovnikEmail": "pavol.michalec@yahoo.com",
                 "PrefZdravotnickyPracovnikTelefon": "0915667211",
-                "PrefZdravotnickyPracovnikPoznamka": "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých",
+                "PrefZdravotnickyPracovnikPoznamka": "MUDr. Pavol Michalec, Všeobecný lekár pre dospelých",
                 "PrefZdravotnickyPracovnikUlica": "Stupavská",
                 "PrefZdravotnickyPracovnikCislo": "22",
                 "PrefZdravotnickyPracovnikPsc": {
