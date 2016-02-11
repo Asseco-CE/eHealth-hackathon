@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Ambulancie>
+    <Ambulancia id="1">
+        <Nazov>Všeobecný lekár pre dospelých</Nazov>
+        <Specializacia id="Specializacia">4</Specializacia>
+        <PoskytovatelZS id="PoskytovatelZS">1</PoskytovatelZS>
+        <Ulica>Ferdiša Kostku</Ulica>
+        <Cislo>1/A</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>alena.kuchynova@yahoo.com</Email>
+        <Telefon>0902 224 523</Telefon>
+    </Ambulancia>
+    
+    <Ambulancia id="2">
+        <Nazov>Všeobecný lekár pre dospelých</Nazov>
+        <Specializacia id="Specializacia">4</Specializacia>
+        <PoskytovatelZS id="PoskytovatelZS">2</PoskytovatelZS>
+        <Ulica>Bernolákova</Ulica>
+        <Cislo>1/A</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>pavol.michalec@yahoo.com</Email>
+        <Telefon>0903 442 325</Telefon>
+    </Ambulancia>
+    
+    <Ambulancia id="3">
+        <Nazov>Klinická biochémia</Nazov>
+        <Specializacia id="Specializacia">5</Specializacia>
+        <PoskytovatelZS id="PoskytovatelZS">3</PoskytovatelZS>
+        <Ulica>Páričkova</Ulica>
+        <Cislo>2</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>biochemia@alba.sk</Email>
+        <Telefon>0906 455 111</Telefon>
+    </Ambulancia>
+    
+    <Ambulancia id="4">
+        <Nazov>Lekárska imunológia</Nazov>
+        <Specializacia id="Specializacia">5</Specializacia>
+        <PoskytovatelZS id="PoskytovatelZS">3</PoskytovatelZS>
+        <Ulica>Paradajková</Ulica>
+        <Cislo>6</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>imunologia@alba.sk</Email>
+        <Telefon>0906 455 222</Telefon>
+    </Ambulancia>
+    
+    <Ambulancia id="5">
+        <Nazov>Všeobecná chirurgia</Nazov>
+        <Specializacia id="Specializacia">6</Specializacia>
+        <PoskytovatelZS id="PoskytovatelZS">4</PoskytovatelZS>
+        <Ulica>Ponická</Ulica>
+        <Cislo>23</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>chirurgia@rl-pj.sk</Email>
+        <Telefon>0906 124 111</Telefon>
+    </Ambulancia>
+    
+    <Ambulancia id="6">
+        <Nazov>Urologická ambulancia</Nazov>
+        <Specializacia id="Specializacia">7</Specializacia>
+        <PoskytovatelZS id="PoskytovatelZS">4</PoskytovatelZS>
+        <Ulica>Ponická</Ulica>
+        <Cislo>23</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>urologia@rl-pj.sk</Email>
+        <Telefon>0906 124 222</Telefon>
+    </Ambulancia>
+    
+    <Ambulancia id="6">
+        <Nazov>Úrazová chirurgia</Nazov>
+        <Specializacia id="Specializacia">11</Specializacia>
+        <PoskytovatelZS id="PoskytovatelZS">4</PoskytovatelZS>
+        <Ulica>Ponická</Ulica>
+        <Cislo>23</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>urgent@rl-pj.sk</Email>
+        <Telefon>0906 124 333</Telefon>
+    </Ambulancia>
+    
+    <Ambulancia id="7">
+        <Nazov>Všeobecný lekár pre dospelých</Nazov>
+        <Specializacia id="Specializacia">4</Specializacia>
+        <PoskytovatelZS id="PoskytovatelZS">5</PoskytovatelZS>
+        <Ulica>Dlhá</Ulica>
+        <Cislo>46</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>lekar@celet.sk</Email>
+        <Telefon>0903 447 999</Telefon>
+    </Ambulancia>
+</Ambulancie>
