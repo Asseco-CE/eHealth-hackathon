@@ -3,19 +3,19 @@
         "Lekar": [
             {
                 "id": "1",
-                "Nazov": "MUDr. Alena Tuchyňová",
+                "Nazov": "MUDr. Alena Kuchyňová",
                 "Titul": {
                     "_": "4",
                     "id": "Titul"
                 },
                 "Meno": "Alena",
-                "Priezvisko": "Tuchyňová",
+                "Priezvisko": "Kuchyňová",
                 "Specializacia": {
                     "_": "4",
                     "id": "Specializacia"
                 },
                 "KodLekara": "A31945020",
-                "Adresa1": "MUDr. Alena Tuchyňová, Všeobecný lekár pre dospelých",
+                "Adresa1": "MUDr. Alena Kuchyňová, Všeobecný lekár pre dospelých",
                 "Ulica": "Ferdiša Kostku",
                 "Cislo": "1/A",
                 "Mesto": {
@@ -34,26 +34,26 @@
                     "_": "1",
                     "id": "Krajina"
                 },
-                "Email": "alena.tuchynova@yahoo.com",
+                "Email": "alena.kuchynova@yahoo.com",
                 "Telefon": "0902 224 523",
                 "KodPoskytovatela": "P61438130312"
             },
             {
                 "id": "2",
-                "Nazov": "MUDr. Pavol Mihalov",
+                "Nazov": "MUDr. Pavol Michalec",
                 "Titul": {
                     "_": "4",
                     "id": "Titul"
                 },
                 "Meno": "Pavol",
-                "Priezvisko": "Mihalov",
+                "Priezvisko": "Michalec",
                 "Specializacia": {
                     "_": "4",
                     "id": "Specializacia"
                 },
                 "KodLekara": "A31945020",
-                "Adresa1": "MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých",
-                "Ulica": "Ferdiša Kostku",
+                "Adresa1": "MUDr. Pavol Michalec, Všeobecný lekár pre dospelých",
+                "Ulica": "Bernolákova",
                 "Cislo": "1/A",
                 "Mesto": {
                     "_": "8",
@@ -71,7 +71,7 @@
                     "_": "1",
                     "id": "Krajina"
                 },
-                "Email": "pavol.mihalov@yahoo.com",
+                "Email": "pavol.michalec@yahoo.com",
                 "Telefon": "0903 442 325",
                 "KodPoskytovatela": "P62437030304"
             },
@@ -90,7 +90,7 @@
                 },
                 "KodLekara": "A45411225",
                 "Adresa1": "MUDr. Jozef Jurovič, Laboratórium ALBA s.r.o.",
-                "Ulica": "Štúrova 13",
+                "Ulica": "Štúrova",
                 "Cislo": "13",
                 "Mesto": {
                     "_": "8",
