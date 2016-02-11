@@ -2,39 +2,39 @@
 
 <Lekari>
     <Lekar id="1">
-        <Nazov>MUDr. Alena Tuchyňová</Nazov>
+        <Nazov>MUDr. Alena Kuchyňová</Nazov>
         <Titul id="Titul">4</Titul>
         <Meno>Alena</Meno>
-        <Priezvisko>Tuchyňová</Priezvisko>
+        <Priezvisko>Kuchyňová</Priezvisko>
         <Specializacia id="Specializacia">4</Specializacia>
         <KodLekara>A31945020</KodLekara>
-        <Adresa1>MUDr. Alena Tuchyňová, Všeobecný lekár pre dospelých</Adresa1>
+        <Adresa1>MUDr. Alena Kuchyňová, Všeobecný lekár pre dospelých</Adresa1>
         <Ulica>Ferdiša Kostku</Ulica>
         <Cislo>1/A</Cislo>
         <Mesto id="Obec">8</Mesto>
         <Psc id="Psc">6</Psc>
         <Okres id="Okres">3</Okres>
         <Stat id="Krajina">1</Stat>
-        <Email>alena.tuchynova@yahoo.com</Email>
+        <Email>alena.kuchynova@yahoo.com</Email>
         <Telefon>0902 224 523</Telefon>
         <KodPoskytovatela>P61438130312</KodPoskytovatela>
     </Lekar>
 
     <Lekar id="2">
-        <Nazov>MUDr. Pavol Mihalov</Nazov>
+        <Nazov>MUDr. Pavol Michalec</Nazov>
         <Titul id="Titul">4</Titul>
         <Meno>Pavol</Meno>
-        <Priezvisko>Mihalov</Priezvisko>
+        <Priezvisko>Michalec</Priezvisko>
         <Specializacia id="Specializacia">4</Specializacia>
         <KodLekara>A31945020</KodLekara>
-        <Adresa1>MUDr. Pavol Mihalov, Všeobecný lekár pre dospelých</Adresa1>
-        <Ulica>Ferdiša Kostku</Ulica>
+        <Adresa1>MUDr. Pavol Michalec, Všeobecný lekár pre dospelých</Adresa1>
+        <Ulica>Bernolákova</Ulica>
         <Cislo>1/A</Cislo>
         <Mesto id="Obec">8</Mesto>
         <Psc id="Psc">6</Psc>
         <Okres id="Okres">3</Okres>
         <Stat id="Krajina">1</Stat>
-        <Email>pavol.mihalov@yahoo.com</Email>
+        <Email>pavol.michalec@yahoo.com</Email>
         <Telefon>0903 442 325</Telefon>
         <KodPoskytovatela>P62437030304</KodPoskytovatela>
     </Lekar>
@@ -47,7 +47,7 @@
     <Specializacia id="Specializacia">5</Specializacia>
     <KodLekara>A45411225</KodLekara>
     <Adresa1>MUDr. Jozef Jurovič, Laboratórium ALBA s.r.o.</Adresa1>
-    <Ulica>Štúrova 13</Ulica>
+    <Ulica>Štúrova</Ulica>
     <Cislo>13</Cislo>
     <Mesto id="Obec">8</Mesto>
     <Psc id="Psc">6</Psc>
