@@ -1,0 +1,181 @@
+{
+    "PoskytovateliaZS": {
+        "PoskytovatelZS": [
+            {
+                "id": "1",
+                "Nazov": "MUDr. Alena Kuchyňová, Všeobecný lekár pre dospelých",
+                "KodPoskytovatela": "P61438130312",
+                "Ulica": "Ferdiša Kostku",
+                "Cislo": "1/A",
+                "Mesto": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Okres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "Email": "alena.kuchynova@yahoo.com",
+                "Telefon": "0902 224 523"
+            },
+            {
+                "id": "2",
+                "Nazov": "MUDr. Pavol Michalec, Všeobecný lekár pre dospelých",
+                "KodPoskytovatela": "P62437030304",
+                "Ulica": "Bernolákova",
+                "Cislo": "1/A",
+                "Mesto": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Okres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "Email": "pavol.michalec@yahoo.com",
+                "Telefon": "0903 442 325"
+            },
+            {
+                "id": "3",
+                "Nazov": "Laboratórium ALBA s.r.o.",
+                "KodPoskytovatela": "N40547031501",
+                "Ulica": "Štúrova",
+                "Cislo": "13",
+                "Mesto": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Okres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "Email": "",
+                "Telefon": "0906 455 983"
+            },
+            {
+                "id": "4",
+                "Nazov": "RL-PJ s.r.o.",
+                "KodPoskytovatela": "P18276010101",
+                "Ulica": "Ponická",
+                "Cislo": "23",
+                "Mesto": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Okres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "Email": "",
+                "Telefon": "0906 124 444"
+            },
+            {
+                "id": "5",
+                "Nazov": "Celet,s.r.o.",
+                "KodPoskytovatela": "P72439636821",
+                "Ulica": "Dlhá",
+                "Cislo": "46",
+                "Mesto": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Okres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "Email": "",
+                "Telefon": "0903 447 841"
+            },
+            {
+                "id": "6",
+                "Nazov": "NsP Malacky",
+                "KodPoskytovatela": "R91116010101",
+                "Ulica": "Nemocničná",
+                "Cislo": "1",
+                "Mesto": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Okres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "Email": "",
+                "Telefon": ""
+            },
+            {
+                "id": "7",
+                "Nazov": "PedDuo,s.r.o.",
+                "KodPoskytovatela": "P63537630417",
+                "Ulica": "Kollárova",
+                "Cislo": "45",
+                "Mesto": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Okres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "Email": "",
+                "Telefon": ""
+            }
+        ]
+    }
+}

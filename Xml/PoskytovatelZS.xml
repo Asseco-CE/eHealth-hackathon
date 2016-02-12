@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<PoskytovateliaZS>
+    <PoskytovatelZS id="1">
+        <Nazov>MUDr. Alena Kuchyňová, Všeobecný lekár pre dospelých</Nazov>        
+        <KodPoskytovatela>P61438130312</KodPoskytovatela>  
+        <Ulica>Ferdiša Kostku</Ulica>
+        <Cislo>1/A</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>alena.kuchynova@yahoo.com</Email>
+        <Telefon>0902 224 523</Telefon>
+    </PoskytovatelZS>
+    
+    <PoskytovatelZS id="2">
+        <Nazov>MUDr. Pavol Michalec, Všeobecný lekár pre dospelých</Nazov>        
+        <KodPoskytovatela>P62437030304</KodPoskytovatela>  
+        <Ulica>Bernolákova</Ulica>
+        <Cislo>1/A</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>pavol.michalec@yahoo.com</Email>
+        <Telefon>0903 442 325</Telefon>
+    </PoskytovatelZS>
+    
+    <PoskytovatelZS id="3">
+        <Nazov>Laboratórium ALBA s.r.o.</Nazov>        
+        <KodPoskytovatela>N40547031501</KodPoskytovatela>  
+        <Ulica>Štúrova</Ulica>
+        <Cislo>13</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email></Email>
+        <Telefon>0906 455 983</Telefon>
+    </PoskytovatelZS>
+    
+    <PoskytovatelZS id="4">
+        <Nazov>RL-PJ s.r.o.</Nazov>
+        <KodPoskytovatela>P18276010101</KodPoskytovatela>  
+        <Ulica>Ponická</Ulica>
+        <Cislo>23</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email></Email>
+        <Telefon>0906 124 444</Telefon>
+    </PoskytovatelZS>
+    
+    <PoskytovatelZS id="5">
+        <Nazov>Celet,s.r.o.</Nazov>        
+        <KodPoskytovatela>P72439636821</KodPoskytovatela>  
+        <Ulica>Dlhá</Ulica>
+        <Cislo>46</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email></Email>
+        <Telefon>0903 447 841</Telefon>
+    </PoskytovatelZS>
+    
+    <PoskytovatelZS id="6">
+        <Nazov>NsP Malacky</Nazov>        
+        <KodPoskytovatela>R91116010101</KodPoskytovatela>  
+        <Ulica>Nemocničná</Ulica>
+        <Cislo>1</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email></Email>
+        <Telefon></Telefon>
+    </PoskytovatelZS>
+    
+    <PoskytovatelZS id="7">
+        <Nazov>PedDuo,s.r.o.</Nazov>        
+        <KodPoskytovatela>P63537630417</KodPoskytovatela>  
+        <Ulica>Kollárova</Ulica>
+        <Cislo>45</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email></Email>
+        <Telefon></Telefon>
+    </PoskytovatelZS>
+</PoskytovateliaZS>

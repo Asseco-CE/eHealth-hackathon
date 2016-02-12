@@ -10,6 +10,10 @@
                 },
                 "Meno": "Alena",
                 "Priezvisko": "Kuchyňová",
+                "Ambulancia": {
+                    "_": "1",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "4",
                     "id": "Specializacia"
@@ -47,6 +51,10 @@
                 },
                 "Meno": "Pavol",
                 "Priezvisko": "Michalec",
+                "Ambulancia": {
+                    "_": "2",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "4",
                     "id": "Specializacia"
@@ -84,6 +92,10 @@
                 },
                 "Meno": "Jozef",
                 "Priezvisko": "Jurovič",
+                "Ambulancia": {
+                    "_": "3",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "5",
                     "id": "Specializacia"
@@ -121,6 +133,10 @@
                 },
                 "Meno": "Ferdinand",
                 "Priezvisko": "Šedivý",
+                "Ambulancia": {
+                    "_": "5",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "6",
                     "id": "Specializacia"
@@ -158,6 +174,10 @@
                 },
                 "Meno": "Štefan",
                 "Priezvisko": "Miko",
+                "Ambulancia": {
+                    "_": "8",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "4",
                     "id": "Specializacia"
@@ -195,6 +215,10 @@
                 },
                 "Meno": "Vendelín",
                 "Priezvisko": "Žuchar",
+                "Ambulancia": {
+                    "_": "6",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "7",
                     "id": "Specializacia"
@@ -232,6 +256,10 @@
                 },
                 "Meno": "Peter",
                 "Priezvisko": "Záhorec",
+                "Ambulancia": {
+                    "_": "6",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "8",
                     "id": "Specializacia"
@@ -269,6 +297,10 @@
                 },
                 "Meno": "Katarína",
                 "Priezvisko": "Záhorcová",
+                "Ambulancia": {
+                    "_": "7",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "8",
                     "id": "Specializacia"
@@ -306,6 +338,10 @@
                 },
                 "Meno": "Katarína",
                 "Priezvisko": "Záhorcová",
+                "Ambulancia": {
+                    "_": "7",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "9",
                     "id": "Specializacia"
@@ -343,6 +379,10 @@
                 },
                 "Meno": "Juraj",
                 "Priezvisko": "Talár",
+                "Ambulancia": {
+                    "_": "7",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "10",
                     "id": "Specializacia"
@@ -380,6 +420,10 @@
                 },
                 "Meno": "Alojz",
                 "Priezvisko": "Tomáš",
+                "Ambulancia": {
+                    "_": "6",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "11",
                     "id": "Specializacia"
@@ -417,6 +461,10 @@
                 },
                 "Meno": "Adela",
                 "Priezvisko": "Chladná",
+                "Ambulancia": {
+                    "_": "5",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "12",
                     "id": "Specializacia"
@@ -454,6 +502,10 @@
                 },
                 "Meno": "Peter",
                 "Priezvisko": "Konôpka",
+                "Ambulancia": {
+                    "_": "9",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "11",
                     "id": "Specializacia"
@@ -491,6 +543,10 @@
                 },
                 "Meno": "Iveta",
                 "Priezvisko": "Janovcová",
+                "Ambulancia": {
+                    "_": "11",
+                    "id": "Ambulancia"
+                },
                 "Specializacia": {
                     "_": "13",
                     "id": "Specializacia"
