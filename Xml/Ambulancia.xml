@@ -85,7 +85,7 @@
         <Telefon>0906 124 222</Telefon>
     </Ambulancia>
     
-    <Ambulancia id="6">
+    <Ambulancia id="7">
         <Nazov>Úrazová chirurgia</Nazov>
         <Specializacia id="Specializacia">11</Specializacia>
         <PoskytovatelZS id="PoskytovatelZS">4</PoskytovatelZS>
@@ -99,7 +99,7 @@
         <Telefon>0906 124 333</Telefon>
     </Ambulancia>
     
-    <Ambulancia id="7">
+    <Ambulancia id="8">
         <Nazov>Všeobecný lekár pre dospelých</Nazov>
         <Specializacia id="Specializacia">4</Specializacia>
         <PoskytovatelZS id="PoskytovatelZS">5</PoskytovatelZS>
@@ -111,5 +111,47 @@
         <Stat id="Krajina">1</Stat>
         <Email>lekar@celet.sk</Email>
         <Telefon>0903 447 999</Telefon>
+    </Ambulancia>
+    
+    <Ambulancia id="9">
+        <Nazov>Urgentný príjem</Nazov>
+        <Specializacia id="Specializacia">11</Specializacia>
+        <PoskytovatelZS id="PoskytovatelZS">6</PoskytovatelZS>
+        <Ulica>Nemocničná</Ulica>
+        <Cislo>1</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>urgent@nspmalacky.sk</Email>
+        <Telefon>0901 123 456</Telefon>
+    </Ambulancia>
+    
+    <Ambulancia id="10">
+        <Nazov>Onkologická ambulancia</Nazov>
+        <Specializacia id="Specializacia">9</Specializacia>
+        <PoskytovatelZS id="PoskytovatelZS">6</PoskytovatelZS>
+        <Ulica>Nemocničná</Ulica>
+        <Cislo>1</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>onkologia@nspmalacky.sk</Email>
+        <Telefon>0902 654 321</Telefon>
+    </Ambulancia>
+    
+    <Ambulancia id="11">
+        <Nazov>PedDuo,s.r.o.</Nazov>
+        <Specializacia id="Specializacia">13</Specializacia>
+        <PoskytovatelZS id="PoskytovatelZS">7</PoskytovatelZS>
+        <Ulica>Kollárova</Ulica>
+        <Cislo>45</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email>info@pedduo.sk</Email>
+        <Telefon>0905 555 321</Telefon>
     </Ambulancia>
 </Ambulancie>
