@@ -66,3 +66,5 @@ Súvisiace dôležité číselníky:
 
 > **Upozornenie:** Číselníky neobsahujú kompletné údaje (liekov, diagnóz, obcí, okresov, atď.). Tieto údaje navyše nemusia byť presné.
 > Údaje o pacientoch, poskytovateľoch, ambulanciách a lekároch sú vymyslené. 
+
+[Pacientsky sumár](http://www.lewik.org/term/61/pacientsky-sumar/) z pohľadu legislatívy (zákon o NZIS).
