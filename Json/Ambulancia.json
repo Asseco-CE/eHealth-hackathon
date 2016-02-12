@@ -194,7 +194,7 @@
                 "Telefon": "0906 124 222"
             },
             {
-                "id": "6",
+                "id": "7",
                 "Nazov": "Úrazová chirurgia",
                 "Specializacia": {
                     "_": "11",
@@ -226,7 +226,7 @@
                 "Telefon": "0906 124 333"
             },
             {
-                "id": "7",
+                "id": "8",
                 "Nazov": "Všeobecný lekár pre dospelých",
                 "Specializacia": {
                     "_": "4",
@@ -256,6 +256,102 @@
                 },
                 "Email": "lekar@celet.sk",
                 "Telefon": "0903 447 999"
+            },
+            {
+                "id": "9",
+                "Nazov": "Urgentný príjem",
+                "Specializacia": {
+                    "_": "11",
+                    "id": "Specializacia"
+                },
+                "PoskytovatelZS": {
+                    "_": "6",
+                    "id": "PoskytovatelZS"
+                },
+                "Ulica": "Nemocničná",
+                "Cislo": "1",
+                "Mesto": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Okres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "Email": "urgent@nspmalacky.sk",
+                "Telefon": "0901 123 456"
+            },
+            {
+                "id": "10",
+                "Nazov": "Onkologická ambulancia",
+                "Specializacia": {
+                    "_": "9",
+                    "id": "Specializacia"
+                },
+                "PoskytovatelZS": {
+                    "_": "6",
+                    "id": "PoskytovatelZS"
+                },
+                "Ulica": "Nemocničná",
+                "Cislo": "1",
+                "Mesto": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Okres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "Email": "onkologia@nspmalacky.sk",
+                "Telefon": "0902 654 321"
+            },
+            {
+                "id": "11",
+                "Nazov": "PedDuo,s.r.o.",
+                "Specializacia": {
+                    "_": "13",
+                    "id": "Specializacia"
+                },
+                "PoskytovatelZS": {
+                    "_": "7",
+                    "id": "PoskytovatelZS"
+                },
+                "Ulica": "Kollárova",
+                "Cislo": "45",
+                "Mesto": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Okres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "Email": "info@pedduo.sk",
+                "Telefon": "0905 555 321"
             }
         ]
     }

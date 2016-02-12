@@ -125,6 +125,56 @@
                 },
                 "Email": "",
                 "Telefon": "0903 447 841"
+            },
+            {
+                "id": "6",
+                "Nazov": "NsP Malacky",
+                "KodPoskytovatela": "R91116010101",
+                "Ulica": "Nemocničná",
+                "Cislo": "1",
+                "Mesto": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Okres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "Email": "",
+                "Telefon": ""
+            },
+            {
+                "id": "7",
+                "Nazov": "PedDuo,s.r.o.",
+                "KodPoskytovatela": "P63537630417",
+                "Ulica": "Kollárova",
+                "Cislo": "45",
+                "Mesto": {
+                    "_": "8",
+                    "id": "Obec"
+                },
+                "Psc": {
+                    "_": "6",
+                    "id": "Psc"
+                },
+                "Okres": {
+                    "_": "3",
+                    "id": "Okres"
+                },
+                "Stat": {
+                    "_": "1",
+                    "id": "Krajina"
+                },
+                "Email": "",
+                "Telefon": ""
             }
         ]
     }

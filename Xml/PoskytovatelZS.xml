@@ -65,4 +65,30 @@
         <Email></Email>
         <Telefon>0903 447 841</Telefon>
     </PoskytovatelZS>
+    
+    <PoskytovatelZS id="6">
+        <Nazov>NsP Malacky</Nazov>        
+        <KodPoskytovatela>R91116010101</KodPoskytovatela>  
+        <Ulica>Nemocničná</Ulica>
+        <Cislo>1</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email></Email>
+        <Telefon></Telefon>
+    </PoskytovatelZS>
+    
+    <PoskytovatelZS id="7">
+        <Nazov>PedDuo,s.r.o.</Nazov>        
+        <KodPoskytovatela>P63537630417</KodPoskytovatela>  
+        <Ulica>Kollárova</Ulica>
+        <Cislo>45</Cislo>
+        <Mesto id="Obec">8</Mesto>
+        <Psc id="Psc">6</Psc>
+        <Okres id="Okres">3</Okres>
+        <Stat id="Krajina">1</Stat>
+        <Email></Email>
+        <Telefon></Telefon>
+    </PoskytovatelZS>
 </PoskytovateliaZS>

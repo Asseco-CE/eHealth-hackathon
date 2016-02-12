@@ -6,6 +6,7 @@
         <Titul id="Titul">4</Titul>
         <Meno>Alena</Meno>
         <Priezvisko>Kuchyňová</Priezvisko>
+        <Ambulancia id="Ambulancia">1</Ambulancia>
         <Specializacia id="Specializacia">4</Specializacia>
         <KodLekara>A31945020</KodLekara>
         <Adresa1>MUDr. Alena Kuchyňová, Všeobecný lekár pre dospelých</Adresa1>
@@ -25,6 +26,7 @@
         <Titul id="Titul">4</Titul>
         <Meno>Pavol</Meno>
         <Priezvisko>Michalec</Priezvisko>
+        <Ambulancia id="Ambulancia">2</Ambulancia>
         <Specializacia id="Specializacia">4</Specializacia>
         <KodLekara>A31945020</KodLekara>
         <Adresa1>MUDr. Pavol Michalec, Všeobecný lekár pre dospelých</Adresa1>
@@ -44,6 +46,7 @@
     <Titul id="Titul">4</Titul>
     <Meno>Jozef</Meno>
     <Priezvisko>Jurovič</Priezvisko>
+    <Ambulancia id="Ambulancia">3</Ambulancia>
     <Specializacia id="Specializacia">5</Specializacia>
     <KodLekara>A45411225</KodLekara>
     <Adresa1>MUDr. Jozef Jurovič, Laboratórium ALBA s.r.o.</Adresa1>
@@ -63,6 +66,7 @@
     <Titul id="Titul">4</Titul>
     <Meno>Ferdinand</Meno>
     <Priezvisko>Šedivý</Priezvisko>
+    <Ambulancia id="Ambulancia">5</Ambulancia>
     <Specializacia id="Specializacia">6</Specializacia>
     <KodLekara>A827773010</KodLekara>
     <Adresa1>MUDr. Ferdinand Šedivý, RL-PJ s.r.o.</Adresa1>
@@ -82,6 +86,7 @@
     <Titul id="Titul">4</Titul>
     <Meno>Štefan</Meno>
     <Priezvisko>Miko</Priezvisko>
+    <Ambulancia id="Ambulancia">8</Ambulancia>
     <Specializacia id="Specializacia">4</Specializacia>
     <KodLekara>A54501020</KodLekara>
     <Adresa1>MUDr.Miko-Celet,s.r.o.</Adresa1>
@@ -101,6 +106,7 @@
     <Titul id="Titul">4</Titul>
     <Meno>Vendelín</Meno>
     <Priezvisko>Žuchar</Priezvisko>
+    <Ambulancia id="Ambulancia">6</Ambulancia>
     <Specializacia id="Specializacia">7</Specializacia>
     <KodLekara>A75665012</KodLekara>
     <Adresa1>MUDr. Vendelín Žuchar, RL-PJ s.r.o.</Adresa1>
@@ -120,6 +126,7 @@
     <Titul id="Titul">4</Titul>
     <Meno>Peter</Meno>
     <Priezvisko>Záhorec</Priezvisko>
+    <Ambulancia id="Ambulancia">6</Ambulancia>
     <Specializacia id="Specializacia">8</Specializacia>
     <KodLekara>A787563048</KodLekara>
     <Adresa1>MUDr. Peter Záhorec, RL-PJ s.r.o.</Adresa1>
@@ -139,6 +146,7 @@
     <Titul id="Titul">4</Titul>
     <Meno>Katarína</Meno>
     <Priezvisko>Záhorcová</Priezvisko>
+    <Ambulancia id="Ambulancia">7</Ambulancia>
     <Specializacia id="Specializacia">8</Specializacia>
     <KodLekara>A787139048</KodLekara>
     <Adresa1>MUDr. Katarína Záhorcová, RL-PJ s.r.o.</Adresa1>
@@ -158,6 +166,7 @@
     <Titul id="Titul">4</Titul>
     <Meno>Katarína</Meno>
     <Priezvisko>Záhorcová</Priezvisko>
+    <Ambulancia id="Ambulancia">7</Ambulancia>
     <Specializacia id="Specializacia">9</Specializacia>
     <KodLekara>A327433019</KodLekara>
     <Adresa1>MUDr. Žofia Anderová, RL-PJ s.r.o.</Adresa1>
@@ -177,6 +186,7 @@
     <Titul id="Titul">4</Titul>
     <Meno>Juraj</Meno>
     <Priezvisko>Talár</Priezvisko>
+    <Ambulancia id="Ambulancia">7</Ambulancia>
     <Specializacia id="Specializacia">10</Specializacia>
     <KodLekara>A97276040</KodLekara>
     <Adresa1>MUDr. Juraj Talár, RL-PJ s.r.o.</Adresa1>
@@ -196,6 +206,7 @@
     <Titul id="Titul">4</Titul>
     <Meno>Alojz</Meno>
     <Priezvisko>Tomáš</Priezvisko>
+    <Ambulancia id="Ambulancia">6</Ambulancia>
     <Specializacia id="Specializacia">11</Specializacia>
     <KodLekara>A97276013</KodLekara>
     <Adresa1>MUDr. Alojz Tomáš, RL-PJ s.r.o.</Adresa1>
@@ -215,6 +226,7 @@
     <Titul id="Titul">4</Titul>
     <Meno>Adela</Meno>
     <Priezvisko>Chladná</Priezvisko>
+    <Ambulancia id="Ambulancia">5</Ambulancia>
     <Specializacia id="Specializacia">12</Specializacia>
     <KodLekara>A98873027</KodLekara>
     <Adresa1>MUDr. Adela Chladná, RL-PJ s.r.o.</Adresa1>
@@ -234,6 +246,7 @@
     <Titul id="Titul">4</Titul>
     <Meno>Peter</Meno>
     <Priezvisko>Konôpka</Priezvisko>
+    <Ambulancia id="Ambulancia">9</Ambulancia>
     <Specializacia id="Specializacia">11</Specializacia>
     <KodLekara>A88623013</KodLekara>
     <Adresa1>MUDr. Peter Konôpka, NsP Malacky</Adresa1>
@@ -253,6 +266,7 @@
     <Titul id="Titul">4</Titul>
     <Meno>Iveta</Meno>
     <Priezvisko>Janovcová</Priezvisko>
+    <Ambulancia id="Ambulancia">11</Ambulancia>
     <Specializacia id="Specializacia">13</Specializacia>
     <KodLekara>A21566008</KodLekara>
     <Adresa1>PedDuo,s.r.o.</Adresa1>
