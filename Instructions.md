@@ -10,6 +10,9 @@ Najpodstatnejšie dátové súbory sú nasledovné:
 * Lekar - zoznam lekárov s väzbou na ambulanciu, v ktorej pracujú
 * Specializacia - číselník špecializácií lekárov a ambulancií
 
+> Údaje môžete akokoľvek upravovať, rozširovať alebo sa nimi kľudne len inšpirovať.
+> Ordinačné hodiny ambulancií, na ktoré je možné sa objednať neboli pripravené ako súčasť dát, nakoľko by to mohlo výrazne ovplyvniť spôsob modelovania procesu objednávania, ktoré je cieľom témy pre hackathon.
+
 Súvisiace dôležité číselníky:
 * Krajina - číselník štátov
 * UzemnoSpravnaJednotka - číselník krajov
@@ -43,6 +46,8 @@ Najpodstatnejšie priečinky s dátovými súbormi sú nasledovné:
 Najpodstatnejšie dátové súbory sú nasledovné:
 * Pacient - zoznam fiktívnych pacientov, na ktorých sú vedené zdravotné záznamy
 * IdentifikacneUdaje - identifikačné údaje fiktívnych pacientov
+
+> Údaje môžete akokoľvek upravovať, rozširovať alebo sa nimi kľudne len inšpirovať.
 
 Súvisiace dôležité číselníky:
 * Liek - číselník liekov
